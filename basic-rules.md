@@ -1,7 +1,7 @@
 # Basic Rules
 
 ## Abilities
-Each of the six abilities is used in different circumstances.
+Each of the six abilities are used in different circumstances.
 
 - __Strength__: Used for melee attacks and saves requiring physical power, like lifting gates, bending bars, etc.
 - __Dexterity__: Used for ranged attacks and saves requiring poise, speed, and reflexes, like dodging, climbing, sneaking, balancing, etc.

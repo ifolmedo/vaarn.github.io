@@ -1,11 +1,6 @@
 # Mystic Gifts
 Faith, mastery of arcane nano-tech, abuse of psychoactive fungus, or mutation has given your mind uncanny influence over the material world. Gifts are not items you carry, but intrinsic abilities you possess. Using a Gift costs HP; a precise cost will be determined by the Referee once you describe what you want to accomplish. The baseline cost is d6 HP. Gifts always hit in combat without rolling against Armour; their base damage is always one dice size higher than the user paid in HP. Therefore paying d6 HP will result in a base damage roll of d8, and so on. PCs add their PSY bonus to damage caused by their Gifts. 
 
-If you are not satisfied with the sample Gifts on offer, you may roll a completely random Gift. Simply roll once on the [Quality table](mystic-gifts.md#quality) and once on the [Form table](mystic-gifts.md#form) below to generate the name of your Gift. You may decide, along with the GM and the other players, what exactly this Gift does.
-
-## Psychic Gleam
-There is a subtle peril associated with expanding one’s mind too extravagantly. PCs with five or more Mystic Gifts are considered to ‘shine’; they are visible to other psychic creatures at great distances and may be contacted by them. PCs with ten or more Gifts are blazing beacons that will attract the attention of dedicated psychic hunters and extradimensional predators.
-
 ## Standard Gifts <!-- {docsify-ignore} -->
 |d20|SOURCE OF POWER|YOUR GIFT|
 |---|---------------|---------|
@@ -30,6 +25,7 @@ There is a subtle peril associated with expanding one’s mind too extravagantly
 |19|Beheld Azathoth, the Daemon Sultan|Cryokinesis|
 |20|Studied in Lost Archives|Induce Sleep
 
+If you are not satisfied with the sample Gifts on offer, you may roll a completely random Gift. Simply roll once on the Quality table and once on the Form table below to generate the name of your Gift. You may decide, along with the GM and the other players, what exactly this Gift does.
 
 ## Quality <!-- {docsify-ignore} -->
 |d20|1-5|6-10|11-15|16-20|
@@ -79,3 +75,6 @@ There is a subtle peril associated with expanding one’s mind too extravagantly
 |18|Roots|Fog|Helix|Parasite
 |19|Beam|Mist|Web|Paradox
 |20|Cascade|Fragrance|Wound|Entropy
+
+## Psychic Gleam
+There is a subtle peril associated with expanding one’s mind too extravagantly. PCs with five or more Mystic Gifts are considered to ‘shine’; they are visible to other psychic creatures at great distances and may be contacted by them. PCs with ten or more Gifts are blazing beacons that will attract the attention of dedicated psychic hunters and extradimensional predators.
