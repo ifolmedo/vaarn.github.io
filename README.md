@@ -29,7 +29,7 @@ Finally and most importantly, Vaarn is never the same twice. The fall of the dic
   <tr>
     <td>Vaults of Vaarn Issue 1</td>
     <td><a href="https://antipodezines.com/products/vaults-of-vaarn-1">Antipode</a></td>
-    <td><a href="https://www.lulu.com/shop/leo-hunt/vaults-of-vaarn-1/paperback/product-eq87gz.html?page=1&pageSize=4">Lulu</a></td>
+    <td><!-- <a href="https://www.lulu.com/shop/leo-hunt/vaults-of-vaarn-1/paperback/product-eq87gz.html?page=1&pageSize=4">Lulu</a>--></td>
     <td><a href="https://graculusdroog.itch.io/vaults-of-vaarn">Itch.io</a></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ Finally and most importantly, Vaarn is never the same twice. The fall of the dic
   </tr>
   <tr>
     <td>Vaults of Vaarn Deluxe Edition</td>
-    <td><a href="https://antipodezines.com/products/vaults-of-vaarn-deluxe-edition">Antipode</a></td>
+    <td><!-- <a href="https://antipodezines.com/products/vaults-of-vaarn-deluxe-edition">Antipode</a>--></td>
     <td><!-- not available --></td>
     <td><a href="https://www.drivethrurpg.com/en/product/403325/vaults-of-vaarn-deluxe-edition">DriveThruRPG</a></td>
   </tr>
