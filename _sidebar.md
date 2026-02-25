@@ -10,11 +10,12 @@
   - [Exotica](exotica.md)
   - [Equipment](equipment.md)
   - [Alchemy](alchemy.md)
+  - [Toxin Damage](toxin-dice.md)
 
 - Referee Guides & Tools
 
-  - [Referee Principles](referee-principles.md)
   - [Referee Rules](referee-rules.md)
+  - [Referee Principles](referee-principles.md)
   - [Travel Procedures](travel-procedures.md)
   - [Weather](weather.md)
   - [Desert Encounters](desert-encounters.md)
@@ -41,6 +42,10 @@
 - The Wall
 
   - [The Great Wall of Vaarn](the-wall.md)
+  - [Ancestries of the Wall](wall-ancestries.md)
+  - [Factions of the Wall](wall-factions.md)
+  - [Wall Travel](wall-travel.md)
+  - [Creating the Wall](creating-the-wall.md)
 
 - Appendix
 
