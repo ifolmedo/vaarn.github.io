@@ -33,7 +33,7 @@ This issue of Vaults of Vaarn presents Referees with a new region of Vaarn. The 
 The Wall can be used as a palette cleanser in a long-running Vaarn campaign, or it can be a campaign setting in itself, with the PCs hailing from the societies that have established themselves within the colossus. In either case, here are a few ideas for campaign hooks and rumours that might draw the PCs to the Great Wall.
 
 ### Trail Blazers
-The PCs are in the employ of the [Sargattean Guard](the-wall.md#sargattean-guard), attempting to mark out a new trail between Sargattea and an outlying town. The route is to be cleared of hazards and painted with trail lines.
+The PCs are in the employ of the [Sargattean Guard](wall-factions.md#sargattean-guard), attempting to mark out a new trail between Sargattea and an outlying town. The route is to be cleared of hazards and painted with trail lines.
 
 ### Sky Pirates
 The PCs have been charged with tracking down a group of notorious sky pirates to their zeppelin berth, high in the Upper Wall. Their employer, a merchant, wants her cargo returned intact. Anything else they find in the pirates’ den is theirs to keep.
