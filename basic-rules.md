@@ -1,4 +1,5 @@
 # Basic Rules
+---
 
 ## Abilities
 Each of the six abilities are used in different circumstances.

@@ -1,4 +1,7 @@
-# Toxin Dice
+# Toxins
+---
+
+## Toxin Dice
 While adventuring in Vaarn, characters may be exposed to poison, venom, radiation, or other toxins. The Toxin dice (TD) system is a way to track the harmful, lingering effects of such exposures. 
 
 ## Basics

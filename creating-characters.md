@@ -1,4 +1,6 @@
 # Creating Characters
+---
+
 1. Player Characters (__PCs__) have [six abilities](basic-rules.md?id=abilities): Strength, Dexterity, Constitution, Intellect, Psyche, and Ego. Each ability has two related values: a __defence__ and a __bonus__. When creating a PC, roll 3d6 for each of their abilities, in order. The lowest of the three dice on each roll is the ability's bonus. Add 10 to find its defence. After you've finished rolling, you may swap the scores of two abilities.  
 
    ?> _**Example:** You roll a 2, 2, and 6 for Strength. The lowest die is a 2, so your PC's Strength has a bonus of +2 and a defence of 12. Repeat this process for the rest of the abilities._

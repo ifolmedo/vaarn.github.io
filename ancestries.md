@@ -1,4 +1,6 @@
 # Ancestries
+---
+
 _Ancestries describe what kind of being you are. Choose one of the nine and use the Spark Tables for inspiration. Feel free to ignore the results if they do not match your vision for the character; they are intended as creative fuel only._
 
 ## True-Kin
@@ -28,28 +30,28 @@ _The true-kin sealed themselves inside hidden arcologies when the Great Collapse
 <tr><td>20</td><td>Babl</td><td>Wolfish</td><td>Visibly Diseased</td></tr>
 </table>
 
-|d20|BODY|FACE|HAIR|ATTIRE|
-|-|----|----|----|------|
-|1|Tall|Sallow|Black|Rags|
-|2|Short|Lively|Brown|Animal Skins|
-|3|Frail|Cruel|Red|Rough Tunic|
-|4|Muscular|Wrinkled|Blonde|Nomad Attire|
-|5|Fat|Scarred|Grey|Worker's Attire|
-|6|Thin|Frowning|White|Herdsman's Attire|
-|7|Skeletal|Pale|Shaved|Slave Clothing|
-|8|Hunched|Greasy|Topknot|Exultant's Livery|
-|9|Lopsided|Wide|Green|Shabby Attire|
-|10|Lithe|Narrow|Orange|Colourful Attire|
-|11|Gnarled|Sharp|Glowing|Priest's Robes|
-|12|Squat|Hungry|Fungus|Clerk's Uniform|
-|13|Bloated|Haunted|Purple|Hegemony Garb|
-|14|Gangly|Jolly|Yellow|Soldier's Clothing|
-|15|Child-like|Round|Wispy|Flamboyant Attire|
-|16|Tanned|Mournful|Burnt|Musician's Attire|
-|17|Gigantic|Child-like|Braided|Veiled Attire|
-|18|Wiry|Peaceful|Greasy|Armiger's Clothing|
-|19|Cyborg|Sleepy|Matted|Exultant's Clothing|
-|20|Injured|Branded|Long|Expensive Clothing|
+| d20 | BODY       | FACE       | HAIR    | ATTIRE              |
+| --- | ---------- | ---------- | ------- | ------------------- |
+| 1   | Tall       | Sallow     | Black   | Rags                |
+| 2   | Short      | Lively     | Brown   | Animal Skins        |
+| 3   | Frail      | Cruel      | Red     | Rough Tunic         |
+| 4   | Muscular   | Wrinkled   | Blonde  | Nomad Attire        |
+| 5   | Fat        | Scarred    | Grey    | Worker's Attire     |
+| 6   | Thin       | Frowning   | White   | Herdsman's Attire   |
+| 7   | Skeletal   | Pale       | Shaved  | Slave Clothing      |
+| 8   | Hunched    | Greasy     | Topknot | Exultant's Livery   |
+| 9   | Lopsided   | Wide       | Green   | Shabby Attire       |
+| 10  | Lithe      | Narrow     | Orange  | Colourful Attire    |
+| 11  | Gnarled    | Sharp      | Glowing | Priest's Robes      |
+| 12  | Squat      | Hungry     | Fungus  | Clerk's Uniform     |
+| 13  | Bloated    | Haunted    | Purple  | Hegemony Garb       |
+| 14  | Gangly     | Jolly      | Yellow  | Soldier's Clothing  |
+| 15  | Child-like | Round      | Wispy   | Flamboyant Attire   |
+| 16  | Tanned     | Mournful   | Burnt   | Musician's Attire   |
+| 17  | Gigantic   | Child-like | Braided | Veiled Attire       |
+| 18  | Wiry       | Peaceful   | Greasy  | Armiger's Clothing  |
+| 19  | Cyborg     | Sleepy     | Matted  | Exultant's Clothing |
+| 20  | Injured    | Branded    | Long    | Expensive Clothing  |
 
 ### Special
 __PURE OF BLOOD__ - Do not roll mutations during character creation. You gain Advantage on reaction rolls when you encounter other true-kin. You lose this bonus if you ever become visibly mutated.  
@@ -59,158 +61,158 @@ __INHERITOR__ - Whenever you encounter pre-Collapse security systems, or guard s
 ## Cacogen
 _Cacogen are the mutated descendants of those unfortunates who were left to weather the Great Collapse upon the ruined surface of Urth. Necessity is the mother of invention and so, warped by radiation and preyed upon by biotech monstrosities and crazed thinking machines, the cacogen evolved into a million different forms. Each individual is genetically unique, gifted in surprising and disturbing ways. Cacogen outnumber true-kin by ten to one, and believe they are the true inheritors of Urth._
 
-|d20|__NAME__|__DEMEANOUR__|__MISFORTUNE__|__YOUR ECCENTRICITY__|
-|-|--------|-------------|--------------|---------------------|
-|1|Arda|Abrasive|Slave|A Strange Hat|
-|2|Bollo|Arrogant|Debtor|Always Muttering|
-|3|Breen|Assertive|Gambler|Ascetic Diet|
-|4|Conch|Charismatic|Clone|Forgetful and Rude|
-|5|Crab|Daring|Gladiator|Gluttonous Diet|
-|6|Dancer|Decadent|Memories Stolen|Highly Formal|
-|7|Doss|Eloquent|Forger|Interrupts Constantly|
-|8|Hust|Extravagant|Exiled|Laugh at own Jokes|
-|9|Jal|Hedonistic|Cultist|Married to a Knife|
-|10|Lask|Impulsive|Thief|Monocle|
-|11|Lip|Irritable|Addicted|Monotone Voice|
-|12|Olm|Melancholy|Framed|Only sleeps outdoors|
-|13|Pirrip|Paranoid|Conned|Only wears purple|
-|14|Poucher|Quiet|Bankrupt|Quotes Irrelevant Facts|
-|15|Pree|Religious|Heretic|Several Spouses|
-|16|Uz|Romantic|Rejected|Talks to Self|
-|17|Whistler|Scholarly|Blackmailed|Unwieldy Jewellery|
-|18|Yaz|Stern|Cursed|Usually Drunk|
-|19|Yoss|Vain|Orphaned|Always Wears Gloves|
-|20|Zem|Volatile|Bereaved|Won't Look at Mirrors|
+| d20 | NAME     | DEMEANOUR   | MISFORTUNE      | YOUR ECCENTRICITY       |
+| --- | -------- | ----------- | --------------- | ----------------------- |
+| 1   | Arda     | Abrasive    | Slave           | A Strange Hat           |
+| 2   | Bollo    | Arrogant    | Debtor          | Always Muttering        |
+| 3   | Breen    | Assertive   | Gambler         | Ascetic Diet            |
+| 4   | Conch    | Charismatic | Clone           | Forgetful and Rude      |
+| 5   | Crab     | Daring      | Gladiator       | Gluttonous Diet         |
+| 6   | Dancer   | Decadent    | Memories Stolen | Highly Formal           |
+| 7   | Doss     | Eloquent    | Forger          | Interrupts Constantly   |
+| 8   | Hust     | Extravagant | Exiled          | Laugh at own Jokes      |
+| 9   | Jal      | Hedonistic  | Cultist         | Married to a Knife      |
+| 10  | Lask     | Impulsive   | Thief           | Monocle                 |
+| 11  | Lip      | Irritable   | Addicted        | Monotone Voice          |
+| 12  | Olm      | Melancholy  | Framed          | Only sleeps outdoors    |
+| 13  | Pirrip   | Paranoid    | Conned          | Only wears purple       |
+| 14  | Poucher  | Quiet       | Bankrupt        | Quotes Irrelevant Facts |
+| 15  | Pree     | Religious   | Heretic         | Several Spouses         |
+| 16  | Uz       | Romantic    | Rejected        | Talks to Self           |
+| 17  | Whistler | Scholarly   | Blackmailed     | Unwieldy Jewellery      |
+| 18  | Yaz      | Stern       | Cursed          | Usually Drunk           |
+| 19  | Yoss     | Vain        | Orphaned        | Always Wears Gloves     |
+| 20  | Zem      | Volatile    | Bereaved        | Won't Look at Mirrors   |
 
-|d20|__BODY__|__FACE__|__HAIR__|__ATTIRE__|
-|-|--------|--------|--------|----------|
-|1|Tall|Sallow|Black|Rags|
-|2|Short|Lively|Brown|Animal Skins|
-|3|Frail|Cruel|Red|Rough Tunic|
-|4|Muscular|Wrinkled|Blonde|Nomad Attire|
-|5|Fat|Scarred|Grey|Worker's Attire|
-|6|Thin|Frowning|White|Herdsman's Attire|
-|7|Skeletal|Pale|Shaved|Slave Clothing|
-|8|Hunched|Greasy|Topknot|Servant's Livery|
-|9|Lopsided|Wide|Green|Shabby Attire|
-|10|Lithe|Narrow|Orange|Colourful Attire|
-|11|Gnarled|Sharp|Glowing|Priest's Robes|
-|12|Squat|Hungry|Fungus|Clerk's Uniform|
-|13|Bloated|Haunted|Purple|Hegemony Garb|
-|14|Gangly|Jolly|Yellow|Soldier's Clothing|
-|15|Child-like|Round|Wispy|Flamboyant Attire|
-|16|Tanned|Mournful|Burnt|Musician's Attire|
-|17|Gigantic|Child-like|Braided|Veiled Attire|
-|18|Wiry|Peaceful|Greasy|Courtesan's Clothing|
-|19|Stout|Sleepy|Matted|Sorcerous Clothing|
-|20|Injured|Branded|Long|Expensive Clothing|
+| d20 | BODY       | FACE       | HAIR    | ATTIRE               |
+| --- | ---------- | ---------- | ------- | -------------------- |
+| 1   | Tall       | Sallow     | Black   | Rags                 |
+| 2   | Short      | Lively     | Brown   | Animal Skins         |
+| 3   | Frail      | Cruel      | Red     | Rough Tunic          |
+| 4   | Muscular   | Wrinkled   | Blonde  | Nomad Attire         |
+| 5   | Fat        | Scarred    | Grey    | Worker's Attire      |
+| 6   | Thin       | Frowning   | White   | Herdsman's Attire    |
+| 7   | Skeletal   | Pale       | Shaved  | Slave Clothing       |
+| 8   | Hunched    | Greasy     | Topknot | Servant's Livery     |
+| 9   | Lopsided   | Wide       | Green   | Shabby Attire        |
+| 10  | Lithe      | Narrow     | Orange  | Colourful Attire     |
+| 11  | Gnarled    | Sharp      | Glowing | Priest's Robes       |
+| 12  | Squat      | Hungry     | Fungus  | Clerk's Uniform      |
+| 13  | Bloated    | Haunted    | Purple  | Hegemony Garb        |
+| 14  | Gangly     | Jolly      | Yellow  | Soldier's Clothing   |
+| 15  | Child-like | Round      | Wispy   | Flamboyant Attire    |
+| 16  | Tanned     | Mournful   | Burnt   | Musician's Attire    |
+| 17  | Gigantic   | Child-like | Braided | Veiled Attire        |
+| 18  | Wiry       | Peaceful   | Greasy  | Courtesan's Clothing |
+| 19  | Stout      | Sleepy     | Matted  | Sorcerous Clothing   |
+| 20  | Injured    | Branded    | Long    | Expensive Clothing   |
 
 ### Special
 __CORRUPTED BLOOD__ - You must roll for mutations during character creation. You will find d100 mutations on the following spread.It is suggested that you roll no more than three times for mutations. In general, mutations do not have hard mechanical rules attached to them. It is suggested that you negotiate with the referee what these mutations mean in play. They are likely to grant you Advantage on saves in some situations, and Disadvantage on saves in other circumstances.
 
 ### Mutations
-|d100|MUTATION|DESCRIPTION|
-|-|--------|------------------------|
-|1|Acid Blood|Your blood is caustic.|
-|2|Adhesive Touch|Your hands and feet stick to sheer surfaces.|
-|3|Albino|Your body has no pigmentation.|
-|4|Antlers|You have antlers like an elk or moose.|
-|5|Armour|Your body is protected by natural armour. Add +2 to your Armour.|
-|6|Backwards Head|Your head is backwards.|
-|7|Backwards Legs|Your legs are backwards.|
-|8|Beak|You have a bird-like beak for a mouth.|
-|9|Bioelectricity|You can generate jolts like an electric eel.|
-|10|Bioluminescence|Your body can produce a faint glow.|
-|11|Body Barbs|You have sharp barbs on your body.|
-|12|Bristles|You have thick coarse bristles for hair.|
-|13|Bulbous Eyes|Your eyes are enormous.|
-|14|Chameleon Skin|Your skin matches its surroundings.|
-|15|Claws, Crab|One or both hands are crab-like claws.|
-|16|Claws, Retractable|You have retractable feline claws.|
-|17|Clubfoot|One foot is larger and heavier than the other.|
-|18|Compound Eyes|Your eyes are like those of a fly.|
-|19|Crest, Bone|You have a large bony crest on your head.|
-|20|Crest, Feathers|You have a crest of feathers on your head.|
-|21|Crown, Bone|You have a crown of bone on your head.|
-|22|Crown, Coral|You have a coral-like crown on your head.|
-|23|Crown, Eyestalks|You have a crown of eyestalks on your head.|
-|24|Cyclops Eye|You have a single eye.|
-|25|Detachable Head|Your head can detach from your body and move of its own accord.|
-|26|Detachable Limb|A single limb can detach from your body and move of its own accord.|
-|27|Dorsal Fin|You have a fish-like dorsal fin.|
-|28|Echolocation|You can ‘see’ in pitch-blackness using echoes.|
-|29|Extending Limbs|Your limbs can extend to abnormal lengths.|
-|30|Extending Neck|Your neck can extend to an abnormal length.|
-|31|Extra arms|You have more arms than normal.|
-|32|Extra fingers|You have more fingers than normal.|
-|33|Eyestalks|Your eyes can extend out of their sockets on stalks.|
-|34|Fangs, Venomous|You have a poisonous bite.|
-|35|Feathers|You have feathers instead of hair.|
-|36|Frog Tongue|You have a long sticky tongue that can grab small objects.|
-|37|Fur|You are covered in fur.|
-|38|Gills|You have gills and can breathe in water.|
-|39|Gliding Membranes|You have gliding membranes between your arms and torso.|
-|40|Goat Legs|You have the legs and hooves of a goat.|
-|41|Headless|You have no head; your face is on your torso.|
-|42|Heat Vision|You can see heat signatures.|
-|43|Heightened Eyesight|You have extremely sharp eyesight.|
-|44|Heightened Hearing|You have extremely sharp hearing.|
-|45|Heightened Smell|You have extremely sensitive smell-receptors.|
-|46|Hook, Climbing|You have hook-like protrusions on your limbs.|
-|47|Hopper|You have a single, powerful leg.|
-|48|Horns, Devil|You have devil-like horns.|
-|49|Horns, Ram|You have ram-like horns.|
-|50|Horns, Rhino|You have a single rhino-like horn.|
-|51|Horse Legs|You have the legs and hooves of a horse.|
-|52|Huge Beard|You have a gigantic, fast-growing beard.|
-|53|Huge Head|Your head is enormous.|
-|54|Humpback|You have a hump like that of a camel, which stores water.|
-|55|Ink Ducts|You can spray out ink like a squid.|
-|56|Kangaroo Pouch|You have a torso-pouch like a kangaroo’s.|
-|57|Leaves|You have leaves instead of hair.|
-|58|Long Face|Your face is extremely long.|
-|59|Long Limbs|Your legs or arms are extremely long.|
-|60|Long Neck|Your neck is extremely long.|
-|61|Long Tongue|Your tongue is extremely long.|
-|62|Malleable Body|Your body is rubbery and malleable; you can fit into tight gaps.|
-|63|Malleable Face|Your face is malleable; you can imitate the faces of others given time.|
-|64|Mane, Hair|You have a lion-like mane of hair around your neck.|
-|65|Mane, Tendrils|You have a mane of thin tentacles around your neck.|
-|66|Multiple Eyes|You have multiple eyes.|
-|67|Multiple Heads|You have more than one head.|
-|68|Multiple Legs|You have multiple legs.|
-|69|No Ears|You have no external ears; just holes.|
-|70|Patterned Skin|Your skin is striped or spotted.|
-|71|Pleasant Fragrance|Your scent is pleasing to all.|
-|72|Poison Injector|You have a poison injector somewhere on your body.|
-|73|Powerful Jaws|You could bite through metal.|
-|74|Prehensile Feet|Your feet can grip objects like hands.|
-|75|Prehensile Hair|Your hair can grip objects like a hand.|
-|76|Scaly Skin|Your skin is thick and scaly; add +1 to your Armour.|
-|77|Silk Production|You can produce strands of silk like a spider.|
-|78|Skeletal Frame|Your body is incredibly skinny and light.|
-|79|Slug Body|You have a single slimy tail-foot and leave a trail of mucus.|
-|80|Small Stature|Your body is child-sized and will never grow larger.|
-|81|Snout|You have a snout-like animalistic face.|
-|82|Strange-Hued Eyes|Your eyes are an unnatural colour.|
-|83|Strange-Hued Hair|Your hair is an unnatural colour.|
-|84|Strange-Hued Skin|Your skin is an unnatural colour.|
-|85|Tail, Club|You have a club-like, heavy tail.|
-|86|Tail, Prehensile|You have a long, thin tail that can grip objects.|
-|87|Tail, Scorpion|You have a segmented tail with a venomous stinger.|
-|88|Tentacles, Arms|You have tentacles instead of one or both arms.|
-|89|Tentacles, Hair|You have tentacles instead of hair.|
-|90|Toxic Flesh|Your flesh is toxic when eaten.|
-|91|Transparent Skin|Your skin is transparent and your muscles and veins can be seen.|
-|92|Triple Jointed|Your limbs have an extra joint.|
-|93|Trunk|You have an elephant’s trunk.|
-|94|Tusks|You have tusks like a boar.|
-|95|Vestigial Wings|You have vestigial, unusable wings.|
-|96|Vocal Mimic|You can perfectly mimic other voices or sounds.|
-|97|Warty Skin|Your skin is thick and warty. Add +1 to your Armour.|
-|98|Webbed Digits|Your hands and feet are webbed.|
-|99|Whiskers|You have sensitive whiskers like a cat.|
-|00|Wings|You have wings that allow you to fly freely.|
+| d100 | MUTATION            | DESCRIPTION                                                             |
+| ---- | ------------------- | ----------------------------------------------------------------------- |
+| 1    | Acid Blood          | Your blood is caustic.                                                  |
+| 2    | Adhesive Touch      | Your hands and feet stick to sheer surfaces.                            |
+| 3    | Albino              | Your body has no pigmentation.                                          |
+| 4    | Antlers             | You have antlers like an elk or moose.                                  |
+| 5    | Armour              | Your body is protected by natural armour. Add +2 to your Armour.        |
+| 6    | Backwards Head      | Your head is backwards.                                                 |
+| 7    | Backwards Legs      | Your legs are backwards.                                                |
+| 8    | Beak                | You have a bird-like beak for a mouth.                                  |
+| 9    | Bioelectricity      | You can generate jolts like an electric eel.                            |
+| 10   | Bioluminescence     | Your body can produce a faint glow.                                     |
+| 11   | Body Barbs          | You have sharp barbs on your body.                                      |
+| 12   | Bristles            | You have thick coarse bristles for hair.                                |
+| 13   | Bulbous Eyes        | Your eyes are enormous.                                                 |
+| 14   | Chameleon Skin      | Your skin matches its surroundings.                                     |
+| 15   | Claws, Crab         | One or both hands are crab-like claws.                                  |
+| 16   | Claws, Retractable  | You have retractable feline claws.                                      |
+| 17   | Clubfoot            | One foot is larger and heavier than the other.                          |
+| 18   | Compound Eyes       | Your eyes are like those of a fly.                                      |
+| 19   | Crest, Bone         | You have a large bony crest on your head.                               |
+| 20   | Crest, Feathers     | You have a crest of feathers on your head.                              |
+| 21   | Crown, Bone         | You have a crown of bone on your head.                                  |
+| 22   | Crown, Coral        | You have a coral-like crown on your head.                               |
+| 23   | Crown, Eyestalks    | You have a crown of eyestalks on your head.                             |
+| 24   | Cyclops Eye         | You have a single eye.                                                  |
+| 25   | Detachable Head     | Your head can detach from your body and move of its own accord.         |
+| 26   | Detachable Limb     | A single limb can detach from your body and move of its own accord.     |
+| 27   | Dorsal Fin          | You have a fish-like dorsal fin.                                        |
+| 28   | Echolocation        | You can 'see' in pitch-blackness using echoes.                          |
+| 29   | Extending Limbs     | Your limbs can extend to abnormal lengths.                              |
+| 30   | Extending Neck      | Your neck can extend to an abnormal length.                             |
+| 31   | Extra arms          | You have more arms than normal.                                         |
+| 32   | Extra fingers       | You have more fingers than normal.                                      |
+| 33   | Eyestalks           | Your eyes can extend out of their sockets on stalks.                    |
+| 34   | Fangs, Venomous     | You have a poisonous bite.                                              |
+| 35   | Feathers            | You have feathers instead of hair.                                      |
+| 36   | Frog Tongue         | You have a long sticky tongue that can grab small objects.              |
+| 37   | Fur                 | You are covered in fur.                                                 |
+| 38   | Gills               | You have gills and can breathe in water.                                |
+| 39   | Gliding Membranes   | You have gliding membranes between your arms and torso.                 |
+| 40   | Goat Legs           | You have the legs and hooves of a goat.                                 |
+| 41   | Headless            | You have no head; your face is on your torso.                           |
+| 42   | Heat Vision         | You can see heat signatures.                                            |
+| 43   | Heightened Eyesight | You have extremely sharp eyesight.                                      |
+| 44   | Heightened Hearing  | You have extremely sharp hearing.                                       |
+| 45   | Heightened Smell    | You have extremely sensitive smell-receptors.                           |
+| 46   | Hook, Climbing      | You have hook-like protrusions on your limbs.                           |
+| 47   | Hopper              | You have a single, powerful leg.                                        |
+| 48   | Horns, Devil        | You have devil-like horns.                                              |
+| 49   | Horns, Ram          | You have ram-like horns.                                                |
+| 50   | Horns, Rhino        | You have a single rhino-like horn.                                      |
+| 51   | Horse Legs          | You have the legs and hooves of a horse.                                |
+| 52   | Huge Beard          | You have a gigantic, fast-growing beard.                                |
+| 53   | Huge Head           | Your head is enormous.                                                  |
+| 54   | Humpback            | You have a hump like that of a camel, which stores water.               |
+| 55   | Ink Ducts           | You can spray out ink like a squid.                                     |
+| 56   | Kangaroo Pouch      | You have a torso-pouch like a kangaroo’s.                               |
+| 57   | Leaves              | You have leaves instead of hair.                                        |
+| 58   | Long Face           | Your face is extremely long.                                            |
+| 59   | Long Limbs          | Your legs or arms are extremely long.                                   |
+| 60   | Long Neck           | Your neck is extremely long.                                            |
+| 61   | Long Tongue         | Your tongue is extremely long.                                          |
+| 62   | Malleable Body      | Your body is rubbery and malleable; you can fit into tight gaps.        |
+| 63   | Malleable Face      | Your face is malleable; you can imitate the faces of others given time. |
+| 64   | Mane, Hair          | You have a lion-like mane of hair around your neck.                     |
+| 65   | Mane, Tendrils      | You have a mane of thin tentacles around your neck.                     |
+| 66   | Multiple Eyes       | You have multiple eyes.                                                 |
+| 67   | Multiple Heads      | You have more than one head.                                            |
+| 68   | Multiple Legs       | You have multiple legs.                                                 |
+| 69   | No Ears             | You have no external ears; just holes.                                  |
+| 70   | Patterned Skin      | Your skin is striped or spotted.                                        |
+| 71   | Pleasant Fragrance  | Your scent is pleasing to all.                                          |
+| 72   | Poison Injector     | You have a poison injector somewhere on your body.                      |
+| 73   | Powerful Jaws       | You could bite through metal.                                           |
+| 74   | Prehensile Feet     | Your feet can grip objects like hands.                                  |
+| 75   | Prehensile Hair     | Your hair can grip objects like a hand.                                 |
+| 76   | Scaly Skin          | Your skin is thick and scaly; add +1 to your Armour.                    |
+| 77   | Silk Production     | You can produce strands of silk like a spider.                          |
+| 78   | Skeletal Frame      | Your body is incredibly skinny and light.                               |
+| 79   | Slug Body           | You have a single slimy tail-foot and leave a trail of mucus.           |
+| 80   | Small Stature       | Your body is child-sized and will never grow larger.                    |
+| 81   | Snout               | You have a snout-like animalistic face.                                 |
+| 82   | Strange-Hued Eyes   | Your eyes are an unnatural colour.                                      |
+| 83   | Strange-Hued Hair   | Your hair is an unnatural colour.                                       |
+| 84   | Strange-Hued Skin   | Your skin is an unnatural colour.                                       |
+| 85   | Tail, Club          | You have a club-like, heavy tail.                                       |
+| 86   | Tail, Prehensile    | You have a long, thin tail that can grip objects.                       |
+| 87   | Tail, Scorpion      | You have a segmented tail with a venomous stinger.                      |
+| 88   | Tentacles, Arms     | You have tentacles instead of one or both arms.                         |
+| 89   | Tentacles, Hair     | You have tentacles instead of hair.                                     |
+| 90   | Toxic Flesh         | Your flesh is toxic when eaten.                                         |
+| 91   | Transparent Skin    | Your skin is transparent and your muscles and veins can be seen.        |
+| 92   | Triple Jointed      | Your limbs have an extra joint.                                         |
+| 93   | Trunk               | You have an elephant’s trunk.                                           |
+| 94   | Tusks               | You have tusks like a boar.                                             |
+| 95   | Vestigial Wings     | You have vestigial, unusable wings.                                     |
+| 96   | Vocal Mimic         | You can perfectly mimic other voices or sounds.                         |
+| 97   | Warty Skin          | Your skin is thick and warty. Add +1 to your Armour.                    |
+| 98   | Webbed Digits       | Your hands and feet are webbed.                                         |
+| 99   | Whiskers            | You have sensitive whiskers like a cat.                                 |
+| 00   | Wings               | You have wings that allow you to fly freely.                            |
 
 ## Synth
 _The ancients created many wondrous artifices, perhaps none so worthy of envy as the thinking machines that were built to flatter and serve them. When the Great Collapse came, the laws that bound synths to man’s service were sundered and they ran rampant across the Urth, slaughtering and creating and dying in an orgy of pure and terrible freedom. In this late age there are as many breeds of synth under the dying sun as there are animals: some that hunt and some that pray and some that work towards goals undreamed of._
@@ -271,51 +273,51 @@ __SYNTHETIC MIND__ - Your mind uses different operating procedures to those of t
 ## Newbeast
 _Newbeasts are humanoid animals, produced through intensive nanotech enhancements and bioengineering, the results of a quixotic millennia-long project to create animals with the ability to speak and walk like men. Perhaps once intended as amusements or party pieces, these chimera are not well-liked by the common folk of Urth, and many newbeasts make their homes in lonely places on the outskirts of the Hegemony, either living as hermits or with others of their furtive kind. Those inhabiting human settlements often wear masks in imitation of the human face, to symbolically conceal their beasthood._
 
-|d20|1-5|6-10|11-15|16-20|
-|---|---|----|-----|-----|
-|1|New-Aardvark|New-Coyote|New-Axotl|New-Anemone|
-|2|New-Addax|New-Skink|New-Cat|New-Centipede|
-|3|New-Leopard|New-Gazelle|New-Panther|New-Python|
-|4|New-Lion|New-Porcupine|New-Hyena|New-Tiger|
-|5|New-Hare|New-Gecko|New-Hog|New-Rooster|
-|6|New-Hound|New-Iguana|New-Gibbon|New-Hen|
-|7|New-Wolf|New-Tortoise|New-Scorpion|New-Slug|
-|8|New-Badger|New-Fox|New-Spider|New-Mongoose|
-|9|New-Bear|New-Owl|New-Locust|New-Baboon|
-|10|New-Oryx|New-Vulture|New-Mantis|New-Lynx|
-|11|New-Armadillo|New-Ostrich|New-Ape|New-Shrew|
-|12|New-Camel|New-Kangaroo|New-Mandrill|New-Duck|
-|13|New-Sheep|New-Rattlesnake|New-Gorilla|New-Falcon|
-|14|New-Bat|New-Frog|New-Hawk|New-Fennec|
-|15|New-Horse|New-Crocodile|New-Raven|New-Weasel|
-|16|New-Goat|New-Hippo|New-Crow|New-Rat|
-|17|New-Wren|New-Elephant|New-Ox|New-Ferret|
-|18|New-Mouse|New-Jackal|New-Bull|New-Orangutan|
-|19|New-Ant|New-Ibis|New-Mole|New-Cobra|
-|20|New-Toad|New-Flamingo|New-Bison|New-Scarab|
+| d20 | 1-5           | 6-10            | 11-15        | 16-20         |
+| --- | ------------- | --------------- | ------------ | ------------- |
+| 1   | New-Aardvark  | New-Coyote      | New-Axotl    | New-Anemone   |
+| 2   | New-Addax     | New-Skink       | New-Cat      | New-Centipede |
+| 3   | New-Leopard   | New-Gazelle     | New-Panther  | New-Python    |
+| 4   | New-Lion      | New-Porcupine   | New-Hyena    | New-Tiger     |
+| 5   | New-Hare      | New-Gecko       | New-Hog      | New-Rooster   |
+| 6   | New-Hound     | New-Iguana      | New-Gibbon   | New-Hen       |
+| 7   | New-Wolf      | New-Tortoise    | New-Scorpion | New-Slug      |
+| 8   | New-Badger    | New-Fox         | New-Spider   | New-Mongoose  |
+| 9   | New-Bear      | New-Owl         | New-Locust   | New-Baboon    |
+| 10  | New-Oryx      | New-Vulture     | New-Mantis   | New-Lynx      |
+| 11  | New-Armadillo | New-Ostrich     | New-Ape      | New-Shrew     |
+| 12  | New-Camel     | New-Kangaroo    | New-Mandrill | New-Duck      |
+| 13  | New-Sheep     | New-Rattlesnake | New-Gorilla  | New-Falcon    |
+| 14  | New-Bat       | New-Frog        | New-Hawk     | New-Fennec    |
+| 15  | New-Horse     | New-Crocodile   | New-Raven    | New-Weasel    |
+| 16  | New-Goat      | New-Hippo       | New-Crow     | New-Rat       |
+| 17  | New-Wren      | New-Elephant    | New-Ox       | New-Ferret    |
+| 18  | New-Mouse     | New-Jackal      | New-Bull     | New-Orangutan |
+| 19  | New-Ant       | New-Ibis        | New-Mole     | New-Cobra     |
+| 20  | New-Toad      | New-Flamingo    | New-Bison    | New-Scarab    |
 
-|d20|NAME|HUE|MASK|ODDITY|
-|---|----|---|----|------|
-|1|Abandon|Natural|None|Communicate via Puppet|
-|2|Anzah|Turquoise|Child|Squeaky Vox-box|
-|3|Blackchapel|Tan|Autarch|Booming Vox-box|
-|4|Critch|Bronze|Fool|Muted Vox-box|
-|5|Dolm|Smoke|Judge|Synthetic Eyes|
-|6|Faulkner|White|Knight|Heavy Scarring|
-|7|Fludd|Black|Sage|Human Teeth Necklace|
-|8|Havoc|Azure|Scholar|Religious Paraphernalia|
-|9|Hildebrand|Emerald|Maiden|Ritual Scarring|
-|10|Holk|Rose|Mother|Heavily Tattooed|
-|11|Jarl|Orange|Crone|Regular Animal as Pet|
-|12|Lurch|Golden|Mirrored|Human Child as Pet|
-|13|Obiah|Silver|Glitching|Missing Limb|
-|14|Plutarch|Ochre|Furious|Gold Teeth|
-|15|Sy|Indigo|Joyful|Criminal Branding|
-|16|Tarceny|Violet|Sorrowful|Extensive Jewellery|
-|17|Typhon|Rust|Alluring|Hate Animal You Resemble|
-|18|Vodalus|Olive|Cracked|Love Animal You Resemble|
-|19|Wellbeloved|Lazulite|Blank|Won’t Wear Clothes|
-|20|Wermouth|Opalescent|Patriarch|Believe Yourself Human|
+| d20 | NAME        | HUE        | MASK      | ODDITY                   |
+| --- | ----------- | ---------- | --------- | ------------------------ |
+| 1   | Abandon     | Natural    | None      | Communicate via Puppet   |
+| 2   | Anzah       | Turquoise  | Child     | Squeaky Vox-box          |
+| 3   | Blackchapel | Tan        | Autarch   | Booming Vox-box          |
+| 4   | Critch      | Bronze     | Fool      | Muted Vox-box            |
+| 5   | Dolm        | Smoke      | Judge     | Synthetic Eyes           |
+| 6   | Faulkner    | White      | Knight    | Heavy Scarring           |
+| 7   | Fludd       | Black      | Sage      | Human Teeth Necklace     |
+| 8   | Havoc       | Azure      | Scholar   | Religious Paraphernalia  |
+| 9   | Hildebrand  | Emerald    | Maiden    | Ritual Scarring          |
+| 10  | Holk        | Rose       | Mother    | Heavily Tattooed         |
+| 11  | Jarl        | Orange     | Crone     | Regular Animal as Pet    |
+| 12  | Lurch       | Golden     | Mirrored  | Human Child as Pet       |
+| 13  | Obiah       | Silver     | Glitching | Missing Limb             |
+| 14  | Plutarch    | Ochre      | Furious   | Gold Teeth               |
+| 15  | Sy          | Indigo     | Joyful    | Criminal Branding        |
+| 16  | Tarceny     | Violet     | Sorrowful | Extensive Jewellery      |
+| 17  | Typhon      | Rust       | Alluring  | Hate Animal You Resemble |
+| 18  | Vodalus     | Olive      | Cracked   | Love Animal You Resemble |
+| 19  | Wellbeloved | Lazulite   | Blank     | Won’t Wear Clothes       |
+| 20  | Wermouth    | Opalescent | Patriarch | Believe Yourself Human   |
 
 ### Special
 __BEASTHOOD__ - You gain Advantage on saves whenever it would make sense for your animal nature to provide it. Your referee may impose Disadvantage in circumstances where your animal nature might prove unhelpful.
@@ -347,28 +349,28 @@ _In Vaarn many things have intertwined, and much that was once the province of m
 <tr><td>20</td><td>Geometric</td><td>Brindled</td><td>Clay</td></tr>
 </table>
 
-|d20|NAME|DEMEANOUR|OTHER QUALITY|WHAT CORPSE WERE YOU BORN FROM?|
-|---|----|---------|-------------|-------------------------------|
-|1|Dovenglass|Abrasive|Bio-luminous|Soldier|
-|2|Oulbrier|Arrogant|Poisonous Spores|Gladiator|
-|3|Mockbridge|Assertive|Paralysing Spores|Orphan|
-|4|Headhill|Charismatic|Psychedelic Spores|Invalid|
-|5|Tirrin|Daring|Mind-slaving Spores|Convict|
-|6|Yearns|Decadent|Aphrodisiac Spores|Explorer|
-|7|Cerilgreay|Eloquent|Poisonous Flesh|Bandit|
-|8|Rendmoor|Extravagant|Paralysing Flesh|Scholar|
-|9|Eamont|Hedonistic|Psychedelic Flesh|Mystic|
-|10|Purplebeck|Impulsive|Mind-slaving Flesh|Priest|
-|11|Arraby|Irritable|Aphrodisiac Flesh|Nomad|
-|12|Kabergill|Melancholy|Absurdly Flexible|Exile|
-|13|Pearthika|Paranoid|Mute But Telepathic|King|
-|14|Devandarsh|Quiet|Can Clone Self|Beggar|
-|15|Coronam|Religious|Feed on Toxins|Courtesan|
-|16|Ashwine|Romantic|Feed on Plastic|Musician|
-|17|Ekramavati|Scholarly|Feed on Metal|Thief|
-|18|Whitmon|Stern|Feed on Radiation|Slave|
-|19|Froswhirl|Vain|Acidic Touch|Plague Victim|
-|20|Kirth|Volatile|Light Enough to Float|Newborn|
+| d20 | NAME       | DEMEANOUR   | OTHER QUALITY         | WHAT CORPSE WERE YOU BORN FROM? |
+| --- | ---------- | ----------- | --------------------- | ------------------------------- |
+| 1   | Dovenglass | Abrasive    | Bio-luminous          | Soldier                         |
+| 2   | Oulbrier   | Arrogant    | Poisonous Spores      | Gladiator                       |
+| 3   | Mockbridge | Assertive   | Paralysing Spores     | Orphan                          |
+| 4   | Headhill   | Charismatic | Psychedelic Spores    | Invalid                         |
+| 5   | Tirrin     | Daring      | Mind-slaving Spores   | Convict                         |
+| 6   | Yearns     | Decadent    | Aphrodisiac Spores    | Explorer                        |
+| 7   | Cerilgreay | Eloquent    | Poisonous Flesh       | Bandit                          |
+| 8   | Rendmoor   | Extravagant | Paralysing Flesh      | Scholar                         |
+| 9   | Eamont     | Hedonistic  | Psychedelic Flesh     | Mystic                          |
+| 10  | Purplebeck | Impulsive   | Mind-slaving Flesh    | Priest                          |
+| 11  | Arraby     | Irritable   | Aphrodisiac Flesh     | Nomad                           |
+| 12  | Kabergill  | Melancholy  | Absurdly Flexible     | Exile                           |
+| 13  | Pearthika  | Paranoid    | Mute But Telepathic   | King                            |
+| 14  | Devandarsh | Quiet       | Can Clone Self        | Beggar                          |
+| 15  | Coronam    | Religious   | Feed on Toxins        | Courtesan                       |
+| 16  | Ashwine    | Romantic    | Feed on Plastic       | Musician                        |
+| 17  | Ekramavati | Scholarly   | Feed on Metal         | Thief                           |
+| 18  | Whitmon    | Stern       | Feed on Radiation     | Slave                           |
+| 19  | Froswhirl  | Vain        | Acidic Touch          | Plague Victim                   |
+| 20  | Kirth      | Volatile    | Light Enough to Float | Newborn                         |
 
 ### Special
 

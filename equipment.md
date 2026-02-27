@@ -1,4 +1,6 @@
 # Equipment
+---
+
 ## Weaponry
 <table>
 <thead><tr><th>d20</th><th>ASPECT</th><th>FORM</th><th>DAMAGE & WEIGHT</th></th></thead>

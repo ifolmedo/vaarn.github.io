@@ -1,4 +1,8 @@
-# Elixirs
+# Alchemy
+---
+
+## Elixirs
+
 Elixirs are the province of the Vaarnish alchymist, a catch-all term for wondrous unguents, salves, tonics, and nectars. Infused with exotic molecules and enthusiastic nanomachinery, these single-use concoctions grant the drinker a variety of beneficial effects. They may be ingested by all PCs except those who are **Synthetic** or **Mineral** in nature.
 
 ## Components and Essences

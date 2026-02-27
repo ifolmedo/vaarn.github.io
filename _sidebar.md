@@ -10,7 +10,7 @@
   - [Exotica](exotica.md)
   - [Equipment](equipment.md)
   - [Alchemy](alchemy.md)
-  - [Toxin Damage](toxin-dice.md)
+  - [Toxins](toxins.md)
 
 - Referee Guides & Tools
 
