@@ -1,6 +1,4 @@
-@font-face { font-family: 'GrossNet'; src:url('../fonts/GrossNet.ttf.woff') format('woff'), url('../fonts/GrossNet.ttf.svg#GrossNet') format('svg'), url('../fonts/GrossNet.ttf.eot'), url('../fonts/GrossNet.ttf.eot?#iefix') format('embedded-opentype'); font-weight: normal; font-style: normal; }
-
-.app-name-link { font-family: 'GrossNet'; font-size: 26px;}
+.app-name {padding: 4px;}
 
 body { font-family: "Anonymous Pro"; font-style: normal; font-variant: normal; }
 
@@ -39,3 +37,38 @@ section.cover blockquote > p > a:hover
 section.cover blockquote > p > a { border-bottom: 2px solid #92BEC7; }
 
 section.cover .cover-main > p:last-child a { border-color:#92BEC7 }
+
+.statblock table { 
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.statblock thead { border-top: solid .25rem #a4acb4; }
+.statblock tbody { border-bottom: solid .25rem #a4acb4; }
+.statblock tr { border-style: none; }
+
+.statblock th { 
+    border-style: none dashed none none;
+    border-width: .12rem;
+    border-color: #a4acb4;
+    padding-top: .75rem;
+    text-align: center;
+}
+
+.statblock td {
+    border: none;
+    background-color: #fff;
+}
+
+.stat td {
+    border-style: none dashed none none;
+    border-width: .12rem;
+    border-color: #a4acb4;
+    text-align: center;
+}
+
+.attack td { padding-top: 1rem; }
+
+.statblock th:last-child, .stat td:last-child {
+    border-right-style: none;
+}
