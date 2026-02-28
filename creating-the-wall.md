@@ -900,7 +900,7 @@ Synthetic beings who drink sable ikor must make a PSY save. On failure, they are
 <tr><td>1</td><td rowspan="2">Port Authority</td><td>Envy (Property)</td><td rowspan="2">Port Authority’s Rival</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Port Authority’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Customs Official (Honest)</td></tr>
-<tr><td>4</td>Love (Unrequited)<td></td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
 <tr><td>5</td><td rowspan="2">Port Authority’s Heir</td><td>Love (Triangle)</td><td rowspan="2">Customs Official (Corrupt)</td></tr>
 <tr><td>6</td><td>Unpaid Debts</td></tr>
 <tr><td>7</td><td rowspan="2">Port Authority’s Grandparent</td><td>Boredom</td><td rowspan="2">Notorious Card Cheat</td></tr>
