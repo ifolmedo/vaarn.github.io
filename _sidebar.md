@@ -21,7 +21,6 @@
   - [Desert Encounters](desert-encounters.md)
   - [Bestiary](bestiary.md)
   - [100 Exotica](100-exotica.md)
-  - [What you Find in the Sand](what-you-find-in-the-sand.md)
 
 - Generating Your Own Setting
 
@@ -46,6 +45,7 @@
   - [Factions of the Wall](wall-factions.md)
   - [Wall Travel](wall-travel.md)
   - [Creating the Wall](creating-the-wall.md)
+  - [Bestiary of the Wall](wall-bestiary.md)
 
 - Appendix
 
