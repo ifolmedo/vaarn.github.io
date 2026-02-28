@@ -1,4 +1,5 @@
 # Tongues of Vaarn
+---
 
 **Hegemonic Standard:** The language of bureaucracy, taxation, legal contracts, debt, and edicts. The official tongue of the New Hegemony, and therefore the ‘official’ tongue of the occupied areas of Vaarn as well. Not widely heard outside of Gnomon.
 

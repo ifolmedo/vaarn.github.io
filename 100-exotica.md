@@ -1,4 +1,5 @@
 # 100 Exotica
+---
 
 |d100|ITEM|DESCRIPTION|
 |----|----|-----------|

@@ -1,3 +1,6 @@
+# Wall Travel
+---
+
 Travelling the Great Wall is profoundly different to travelling the empty wastes of the interior. Here is an attempt to codify the differences, and make them apparent to Referees and players alike.
 
 ## Directions
@@ -10,7 +13,7 @@ The Wall is a vertical structure. Directions given will differ from the standard
 - __Clamberwise__. You must climb to reach this location.
 - __Dropwise__. You must descend to reach this location.
 
-__Example__: To reach the village you seek you must travel 'One day cragways, three days clamberwise. The village perches sandside.' (Travel one day north, then climb for three days. The village is on the eastern face of the Wall.)
+?> __Example__: To reach the village you seek you must travel 'One day cragways, three days clamberwise. The village perches sandside.' (Travel one day north, then climb for three days. The village is on the eastern face of the Wall.)
 
 ## Strata
 To aid the Referee in visualising the Wall, they should imagine their page as a 2D plane. When mapping the structure, designate the bottom third of your page as the Low Wall, the middle third as the Mid-Wall, and the top third as the Upper Wall.

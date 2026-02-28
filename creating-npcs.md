@@ -1,4 +1,5 @@
 # Quick NPC Generator
+---
 
 <table>
 <thead><th>d20</th><th>ANCESTRY</th><th>GENDER</th><th>DISPOSITION</th><th>GOAL</th></thead>

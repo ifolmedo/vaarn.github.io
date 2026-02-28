@@ -9,31 +9,34 @@ A Toxin dice represents the damage caused by toxic substances. A TD is incurred 
 
 ## The Dice Chain
 Toxin dice use a dice chain, which runs as follows:  
-***Cured*** **< d4 < d6 < d8 < d10 < d12 < d20**  
+**_Cured_ < d4 < d6 < d8 < d10 < d12 < d20**  
+
 When a TD shows a 1-4, it depletes and moves one step down the dice chain. When PCs reach the Cured step, they no longer have a TD.
 
 ## Saving vs Toxins
 The more potent the toxin, the more difficult it is to resist. An afflicted PC must make a CON save vs 10 + the listed TD size.  
+  
+?> _**Example:** A d6 TOX attack requires a CON save exceeding 16. A d10 TOX attack requires a CON save exceeding 20, and so on._
 
-**Example:** *A d6 TOX attack requires a CON save exceeding 16. A d10 TOX attack requires a CON save exceeding 20, and so on.*
 
 ## Toxin Damage
 Each combat round, before taking their action, a PC with a Toxin dice must roll the TD and subtract the number shown from their HP. On a roll of 1-4, the TD depletes one step.  
 If the PCs are not in combat, they should roll their TD every ten minutes.
 
 | TD Size | Average Damage Dealt | CON Save Must Beat |
-|---|---|---|
-|d4|2.5| 14
-|d6|7.75| 16
-|d8|16.75| 18
-|d10|30.5| 20
-|d12|50| 22
-|d20|102.5| 30
+| ------- | -------------------- | ------------------ |
+| d4      | 2.5                  | 14                 |
+| d6      | 7.75                 | 16                 |
+| d8      | 16.75                | 18                 |
+| d10     | 30.5                 | 20                 |
+| d12     | 50                   | 22                 |
+| d20     | 102.5                | 30                 |
 
 ## Multiple Sources of Toxins
 A PC only has one TD at a time. Failing a save against a new TOX attack only increases the PC’s TD size if their current TD is smaller than the size indicated by the new attack.  
 
-**Example:** *Magen is afflicted by a d8 Toxin dice. She is hit by a d6 TOX attack, and fails her CON save. However, as her TD is d8, higher than d6 in the dice chain, it does not increase in size.*
+?> _**Example:** Magen is afflicted by a d8 Toxin dice. She is hit by a d6 TOX attack, and fails her CON save. However, as her TD is d8, higher than d6 in the dice chain, it does not increase in size._
+   
 
 ## Curing Toxins
 The exact method will differ depending on the source of the toxin, but it should generally be assumed that the locals of an area will know some method of curing the affliction. Pre-Collapse medgel pods and surgeon synths will be of use. PCs trained in alchemy may also be able to brew up antidotes.

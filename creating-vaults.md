@@ -1,4 +1,5 @@
 # Creating Vaults
+---
 
 The Vaults of Vaarn are subterranean ruins that riddle the blue desert. Crucially, these Vaults will always contain Exotica, the far-future treasures the PCs are searching for; therefore, the GM is advised to create one such location before the campaign begins. 
 
@@ -14,61 +15,61 @@ Follow these steps to begin drafting a Vault.
 8. With a map, an encounter table, and a reward for the PCs, you are now ready to play! If you want a larger Vault, return to step 2 and begin adding more ideas for rooms. Make sure to keep adding Exotica as the Vault grows in size. A party of four PCs will need to find four Exotica to reach level 2 and eight to reach level 3, so ensure it is possible for your players to advance if they are bold and clever.
 
 ## Vault Basics
-| d20 | Entrance | The Tunnels | Original Function |
-|:---:|:---:|:---:|:---:|
-| 1 | Steel Blast Doors | Half-Flooded | Fallout Shelter |
-| 2 | Back of Tiny Cave | Filled with Blue Sand | Transport Network |
-| 3 | Enormous Crater | Dusty and Silent | Bioweapon Research |
-| 4 | Narrow Fissure in Cliff | Crystal-encrusted | Time Paradox Research |
-| 5 | Through Old Sewer | Blood Red Walls | Language Virus Research|
-| 6 | Atop Mountain| Decorated Tiles | Geothermal Power Station |
-| 7 | Opens At Full Moon | Fire-Damaged | Nuclear Power Station |
-| 8 | Scrawled With Runes | Winding and Narrow | Hypergeometry Research |
-| 9 | Functioning Lift | Descend Into The Urth | Deep Core Mining |
-| 10 | Broken Lift | Somehow Absorb Sound | Military Command Post |
-| 11 | Functioning Escalator | Lightless and Dank | Titan AI Memory Banks |
-| 12 | Broken Escalator | Spiralling, Strange | Titan AI Cooling System |
-| 13 | Ruined Train Tunnel |Lit with Bioluminous Moss | Seed Bank |
-| 14 | Beneath Toxic Water | Surprisingly Clean | Interrogation Chambers |
-| 15 | Air Filtration Vent | Full of Ancient Corpses | Synth Production |
-| 16 | Infested with Bats |Incredibly Cold | Illicit Cloning Facility |
-| 17 | Barricaded from Inside | Enormous and Echoing | Spy Network Base |
-| 18 | Below an [Arcology](#/creating-regions.md?id=arcology) | Battle Damaged | Recycling Plant |
-| 19 | Below a [Settlement](#/creating-regions.md?id=settlement) | White and Sterile | Hidden Reservoir |
-| 20 | Below a [Ruin](#/creating-regions.md?id=ruin) | Filled with Garbage | Autarch’s Hideout |
+| d20 | Entrance                                             | The Tunnels               | Original Function        |
+| --- | ---------------------------------------------------- | ------------------------- | ------------------------ |
+| 1   | Steel Blast Doors                                    | Half-Flooded              | Fallout Shelter          |
+| 2   | Back of Tiny Cave                                    | Filled with Blue Sand     | Transport Network        |
+| 3   | Enormous Crater                                      | Dusty and Silent          | Bioweapon Research       |
+| 4   | Narrow Fissure in Cliff                              | Crystal-encrusted         | Time Paradox Research    |
+| 5   | Through Old Sewer                                    | Blood Red Walls           | Language Virus Research  |
+| 6   | Atop Mountain                                        | Decorated Tiles           | Geothermal Power Station |
+| 7   | Opens At Full Moon                                   | Fire-Damaged              | Nuclear Power Station    |
+| 8   | Scrawled With Runes                                  | Winding and Narrow        | Hypergeometry Research   |
+| 9   | Functioning Lift                                     | Descend Into The Urth     | Deep Core Mining         |
+| 10  | Broken Lift                                          | Somehow Absorb Sound      | Military Command Post    |
+| 11  | Functioning Escalator                                | Lightless and Dank        | Titan AI Memory Banks    |
+| 12  | Broken Escalator                                     | Spiralling, Strange       | Titan AI Cooling System  |
+| 13  | Ruined Train Tunnel                                  | Lit with Bioluminous Moss | Seed Bank                |
+| 14  | Beneath Toxic Water                                  | Surprisingly Clean        | Interrogation Chambers   |
+| 15  | Air Filtration Vent                                  | Full of Ancient Corpses   | Synth Production         |
+| 16  | Infested with Bats                                   | Incredibly Cold           | Illicit Cloning Facility |
+| 17  | Barricaded from Inside                               | Enormous and Echoing      | Spy Network Base         |
+| 18  | Below an [Arcology](creating-regions.md#arcology)    | Battle Damaged            | Recycling Plant          |
+| 19  | Below a [Settlement](creating-regions.md#settlement) | White and Sterile         | Hidden Reservoir         |
+| 20  | Below a [Ruin](creating-regions.md#ruin)             | Filled with Garbage       | Autarch’s Hideout        |
 
 ## Room Features and Hazards
-| d20 | Room Feature A | Room Feature B | Sample Hazards |
-|:---:|:---:|:---:|:---:|
-| 1 | Banks of syntax engines | Corpses in hazmat suits | Carnivorous Fungus |
-| 2 | Filled with blue sand | Flickering broken viewscreens | Ancient chaingun turret |
-| 3 | Littered with plastic | Speaker plays discordant music | Rigged with proximity mines |
-| 4 | Tangled gas ducts | Weeping source of water | Toxic gas leak |
-| 5 | Erratic sparking arrays | Blast-proof door | Radioactive waste |
-| 6 | Grim silent engines | Conference table | Faulty elevator |
-| 7 | Lattice of Memory Crystal | Exercise equipment | Crazed guard synths |
-| 8 | Enigmatic books | Sleeping nooks | Hypergeometric rift |
-| 9 | Preserved foodstuffs | Corpse seared by laser fire | Magnetized ceiling |
-| 10 | Home to bat colony | Dead synth | Unstable floors |
-| 11 | Scrawled with graffiti  | Weapon lockers | Laser grid trap |
-| 12 | Functional vending machine | Single mummified corpse | Flooded room; electric cable |
-| 13 | Overgrown with pink moss | Campfire left by other vault raiders | Overzealous janitor synths |
-| 14 | Vats of esoteric chemicals | Bloodstained laboratory equipment | Sharp, self-replicating crystals |
-| 15 | Abandoned dining set | Warning in ancient language | Capricious AI overseer |
-| 16 | Echoing bottomless shaft | Crazed web of wires | Cannibal descendant of original inhabitants |
-| 17 | Gleaming forcefield projector | Warning in ancient language | Mind-slaving hypnoscreens |
-| 18 | Ancient insect hive | Colossal dead mollusk | Vault sacred to [Faa nomads](#/creating-regions.md?id=faa-nomad-camp); intruders killed |
-| 19 | Choked with dead vines | Hovering polychrome spheres | Vault is [Lair for Monster](#/creating-regions.md?id=lair)  |
-| 20 | Sentient, immobile machine | Humming teleportation gate | Vault is [Bandit Hideout](#/creating-regions.md?id=bandit-camp) |
+| d20 | Room Feature A                | Room Feature B                       | Sample Hazards                                                                     |
+| --- | ----------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------- |
+| 1   | Banks of syntax engines       | Corpses in hazmat suits              | Carnivorous Fungus                                                                 |
+| 2   | Filled with blue sand         | Flickering broken viewscreens        | Ancient chaingun turret                                                            |
+| 3   | Littered with plastic         | Speaker plays discordant music       | Rigged with proximity mines                                                        |
+| 4   | Tangled gas ducts             | Weeping source of water              | Toxic gas leak                                                                     |
+| 5   | Erratic sparking arrays       | Blast-proof door                     | Radioactive waste                                                                  |
+| 6   | Grim silent engines           | Conference table                     | Faulty elevator                                                                    |
+| 7   | Lattice of Memory Crystal     | Exercise equipment                   | Crazed guard synths                                                                |
+| 8   | Enigmatic books               | Sleeping nooks                       | Hypergeometric rift                                                                |
+| 9   | Preserved foodstuffs          | Corpse seared by laser fire          | Magnetized ceiling                                                                 |
+| 10  | Home to bat colony            | Dead synth                           | Unstable floors                                                                    |
+| 11  | Scrawled with graffiti        | Weapon lockers                       | Laser grid trap                                                                    |
+| 12  | Functional vending machine    | Single mummified corpse              | Flooded room; electric cable                                                       |
+| 13  | Overgrown with pink moss      | Campfire left by other vault raiders | Overzealous janitor synths                                                         |
+| 14  | Vats of esoteric chemicals    | Bloodstained laboratory equipment    | Sharp, self-replicating crystals                                                   |
+| 15  | Abandoned dining set          | Warning in ancient language          | Capricious AI overseer                                                             |
+| 16  | Echoing bottomless shaft      | Crazed web of wires                  | Cannibal descendant of original inhabitants                                        |
+| 17  | Gleaming forcefield projector | Warning in ancient language          | Mind-slaving hypnoscreens                                                          |
+| 18  | Ancient insect hive           | Colossal dead mollusk                | Vault sacred to [Faa nomads](creating-regions.md#faa-nomad-camp); intruders killed |
+| 19  | Choked with dead vines        | Hovering polychrome spheres          | Vault is [Lair for Monster](creating-regions.md#lair)                              |
+| 20  | Sentient, immobile machine    | Humming teleportation gate           | Vault is [Bandit Hideout](creating-regions.md#bandit-camp)                         |
 
 ## Generic Vault Encounter Tables
-| d8 | Depth 1 | Depth 2 | Depth 3 | Depth 4 | Depth 5 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 3d6 [Blue Baboons](#/bestiary?id=blue-baboon) | [Battle Boar](#/bestiary?id=battle-boar) | d6 [Battle Boars](#/bestiary?id=battle-boar) | d4 [Cacogen Pseudo-giants](#/bestiary?id=cacogen-psuedo-giant) | d8 [Cacogen Pseudo-giants](#/bestiary?id=cacogen-psuedo-giant) |
-| 2 | d8 [Greenguard](#/bestiary?id=greenguard) | d6 [Cacklemaw](#/bestiary?id=cacklemaw) | d8 [Cacklemaw](#/bestiary?id=cacklemaw) + [War Mama](#/bestiary?id=cacklemaw-war-mama) | d6 [Walking Wombs](#/bestiary?id=walking-womb) | d8 [Lambent Lynx](#/bestiary?id=lambent-lynx) |
-| 3 | [Harlequin Serpent](#/bestiary?id=harlequin-serpent) | d6 [Lizard Lions](#/bestiary?id=lizard-lion) | [Subtle Stalker](#/bestiary?id=subtle-stalker) | [Leopard Worm](#/bestiary?id=leopard-worm) | [Argent Shepherd](#/bestiary?id=argent-shepherd) |
-| 4 | 3d6 [Pthalho-jackals](#/bestiary?id=memory-eater) | d8 [Faa Nomads](#/bestiary?id=faa-nomad)  | d6 [Hiveymen](#/bestiary?id=hiveyman) | d4 [Hollow Maidens](#/bestiary?id=hollow-maiden) | [Alzabo](#/bestiary?id=alzabo) |
-| 5 | d6 [Grey Crickets](#/bestiary?id=grey-cricket) | d6 [Planeyfolk](#/bestiary?id=planeyfolk) | [Lithling Scholar](#/bestiary?id=lithling-scholar) | d4 [Glass Tigers](#/bestiary?id=glass-tiger) | d6 [Glass Tigers](#/bestiary?id=glass-tiger)|
-| 6 | d6 [Quill-Spiders](#/bestiary?id=quill-spider) | d10 [Bandits](#/bestiary?id=bandit) | d6 [Memory Eaters](#/bestiary?id=memory-eater) | [Regenerator](#/bestiary?id=regenerator) | d6 [Regenerators](#/bestiary?id=regenerator) |
-| 7 | d6 [Stumbling Drones](#/bestiary?id=stumbling-drone) | d6 [Tiger-flies](#/bestiary?id=tiger-fly) | [Behemoth Toad](#/bestiary?id=behemoth-toad) | d6 [Behemoth Toads](#/bestiary?id=behemoth-toad) | [Chromavore](#/bestiary?id=chromavore) |
-| 8 | 2d6 [Yurlings](#/bestiary?id=yurling) | [Giant Azure Scorpion](#/bestiary?id=giant-azure-scorpion) | d4 [Giant Azure Scorpions](#/bestiary?id=giant-azure-scorpion) | [Xanthous Mycopmorph](#/bestiary?id=xanthous-mycomorph) | [Amaranthine Death-Worm](#/bestiary?id=amaranthine-death-worm) |
+| d8  | Depth 1                                              | Depth 2                                                    | Depth 3                                                                                | Depth 4                                                        | Depth 5                                                        |
+| --- | ---------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | 3d6 [Blue Baboons](#/bestiary?id=blue-baboon)        | [Battle Boar](#/bestiary?id=battle-boar)                   | d6 [Battle Boars](#/bestiary?id=battle-boar)                                           | d4 [Cacogen Pseudo-giants](#/bestiary?id=cacogen-psuedo-giant) | d8 [Cacogen Pseudo-giants](#/bestiary?id=cacogen-psuedo-giant) |
+| 2   | d8 [Greenguard](#/bestiary?id=greenguard)            | d6 [Cacklemaw](#/bestiary?id=cacklemaw)                    | d8 [Cacklemaw](#/bestiary?id=cacklemaw) + [War Mama](#/bestiary?id=cacklemaw-war-mama) | d6 [Walking Wombs](#/bestiary?id=walking-womb)                 | d8 [Lambent Lynx](#/bestiary?id=lambent-lynx)                  |
+| 3   | [Harlequin Serpent](#/bestiary?id=harlequin-serpent) | d6 [Lizard Lions](#/bestiary?id=lizard-lion)               | [Subtle Stalker](#/bestiary?id=subtle-stalker)                                         | [Leopard Worm](#/bestiary?id=leopard-worm)                     | [Argent Shepherd](#/bestiary?id=argent-shepherd)               |
+| 4   | 3d6 [Pthalho-jackals](#/bestiary?id=memory-eater)    | d8 [Faa Nomads](#/bestiary?id=faa-nomad)                   | d6 [Hiveymen](#/bestiary?id=hiveyman)                                                  | d4 [Hollow Maidens](#/bestiary?id=hollow-maiden)               | [Alzabo](#/bestiary?id=alzabo)                                 |
+| 5   | d6 [Grey Crickets](#/bestiary?id=grey-cricket)       | d6 [Planeyfolk](#/bestiary?id=planeyfolk)                  | [Lithling Scholar](#/bestiary?id=lithling-scholar)                                     | d4 [Glass Tigers](#/bestiary?id=glass-tiger)                   | d6 [Glass Tigers](#/bestiary?id=glass-tiger)                   |
+| 6   | d6 [Quill-Spiders](#/bestiary?id=quill-spider)       | d10 [Bandits](#/bestiary?id=bandit)                        | d6 [Memory Eaters](#/bestiary?id=memory-eater)                                         | [Regenerator](#/bestiary?id=regenerator)                       | d6 [Regenerators](#/bestiary?id=regenerator)                   |
+| 7   | d6 [Stumbling Drones](#/bestiary?id=stumbling-drone) | d6 [Tiger-flies](#/bestiary?id=tiger-fly)                  | [Behemoth Toad](#/bestiary?id=behemoth-toad)                                           | d6 [Behemoth Toads](#/bestiary?id=behemoth-toad)               | [Chromavore](#/bestiary?id=chromavore)                         |
+| 8   | 2d6 [Yurlings](#/bestiary?id=yurling)                | [Giant Azure Scorpion](#/bestiary?id=giant-azure-scorpion) | d4 [Giant Azure Scorpions](#/bestiary?id=giant-azure-scorpion)                         | [Xanthous Mycopmorph](#/bestiary?id=xanthous-mycomorph)        | [Amaranthine Death-Worm](#/bestiary?id=amaranthine-death-worm) |

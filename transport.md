@@ -1,4 +1,6 @@
 # Transport in Vaarn
+---
+
 Note that ‘Hull Points’ represent a vehicle’s resilience to harm. Hull Points map to weapon damage at a ratio of 1 to 10. Damage incurred in amounts less than 10 can never reduce a vehicle’s Hull Points. Multiple sources of damage in a single combat round do not stack. A dune skuggy that takes 6, 7, and 8 points of damage from separate attacks will not lose any Hull Points, despite the combined total damage being 21. A dune skuggy that takes 19 points of damage from a single source will lose one Hull Point. This means that only the heaviest weapons and largest creatures can meaningfully damage vehicles. For pack-beasts with a Level, calculate HP as normal.
 
 ## Auto-Chariot

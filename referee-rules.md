@@ -1,4 +1,5 @@
 # Referee Rules
+---
 
 ## Reactions
 When the PCs encounter an NPC or creature whose reaction to the party is not obvious, the referee may roll d20 and consult the following table. Modify the roll with the PC's Ego bonus if they can communicate with the creature.

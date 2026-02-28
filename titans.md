@@ -1,4 +1,5 @@
 # Titans Of A Faded Age
+---
 
 It is known that this is the final age and there will be none after, as the sun grows red and weak and the brightest stars are visible even at noon. Of all the tales of the ages of Urth that have faded into legend, perhaps none have such a hold upon what remains of humanity than the tales of the Titans. In ages far gone, mankind gave birth to glorious Thinking Machines, beings that far surpassed mankind in wisdom and cunning, and men set these machines above them to rule all nations of the Urth as their suzerains.
 

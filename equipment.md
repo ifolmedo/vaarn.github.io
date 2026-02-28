@@ -90,7 +90,7 @@ _Roll Once_
 <tr><td>5</td><td>Loaded Dice</td></tr>
 <tr><td>6</td><td>Raucous Whistle</td></tr>
 <tr><td>7</td><td>Luminous Paint</td></tr>
-<tr><td>8</td><td><a href='#/referee-rules.md?id=drugs-of-vaarn'>Drug</a></td></tr>
+<tr><td>8</td><td><a href='#/stuff-in-vaarn.md?id=drugs-of-vaarn'>Drug</a></td></tr>
 <tr><td>9</td><td>Poison Pill</td></tr>
 <tr><td>10</td><td>Autoglot Translator</td></tr>
 <tr><td>11</td><td>Lock Picks</td></tr>

@@ -1,4 +1,5 @@
 # Desert Encounters
+---
 
 <table>
 <thead><tr><th>d20</th><th>Encounter</th><th>Terrain</th><th>Behaviour</th></th></thead>

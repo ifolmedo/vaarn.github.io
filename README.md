@@ -1,4 +1,5 @@
 # Welcome to Vaarn
+---
 
 The sun is dying and the wreckage of countless eons litters the parched wastes of Vaarn, the desolate country that common folk call the blue ruin. It is said that these sky-coloured sands hide the graves of the Autarchs; have swallowed the buried arcologies in which the true seed of humankind was preserved through the Great Collapse; conceal forgotten crypts of memory, decaying crystalline lattices of ancient ego-engines upon which the dusk-blue dunes encroach without pity. From the New Hegemony to the south come drifters and dreamers, desecraters of the tech-tombs that lie sunken beneath the azure wastes. Light-years overhead, aurum-hulled craft ply their tender routes between the spheres, and miles below a pilgrim’s feet, strange wombs are kindled once more with life undreamed of.
 

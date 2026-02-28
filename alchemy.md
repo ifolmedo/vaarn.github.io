@@ -50,20 +50,20 @@ While the intent of the system is to allow the PCs to be creative in what they b
 
 ### Doppeldraught
 **Potency:** 2  
-**Component:** Pickled flesh of a [Doppelgeller](https://vaarn.github.io/#/bestiary?id=doppelgeller)  
+**Component:** Pickled flesh of a [Doppelgeller](bestiary.md#doppelgeller)  
 **Effect:** Drinker vomits up a jelly-clone of themselves. It resembles them but is translucent and mute. It will follow instructions, but dissolves after an hour.
 
 ### Skulk Salve
 **Potency:** 3  
-**Component:** The synth-skin of a [Subtle Stalker](https://vaarn.github.io/#/bestiary?id=subtle-stalker)  
+**Component:** The synth-skin of a [Subtle Stalker](bestiary.md#subtle-stalker)  
 **Effect:** Apply to flesh to become invisible for the next hour.
 
 ### Geneshock Tonic
 **Potency:** 4  
 **Component:** A cacogen's heart  
-**Effect:** Drinker gains a new, permanent [mutation](https://vaarn.github.io/#/ancestries?id=mutations), matching that of the heart’s owner.
+**Effect:** Drinker gains a new, permanent [mutation](ancestries.md#mutations), matching that of the heart’s owner.
 
 ### Immortality Injector
 **Potency:** 5  
-**Component:** The mercurial war-flesh of a [Quicksilver Exterminator](https://vaarn.github.io/#/bestiary?id=quicksilver-exterminator)  
+**Component:** The mercurial war-flesh of a [Quicksilver Exterminator](bestiary.md#quicksilver-exterminator)  
 **Effect:** A biological creature injected with this fizzing froth of nanomachinery cannot die. It can be damaged beyond recognition, but the life will not leave its frame. This effect lasts for one day.

@@ -1,4 +1,7 @@
-# Street Hassle
+# Gnomon Generators
+---
+
+## Street Hassle
 
 <table>
 <thead><td>1d20</td><td>Group</td><td>Location</td><td>Source of Conflict</td></thead>
@@ -24,7 +27,7 @@
 <tr><td>20</td><td>Titan Cultists</td><td>Large Shrine</td><td>Upturned Wagon</td></tr>
 </table>
 
-# Buildings
+## Buildings
 
 <table>
 <thead><td>1d20</td><td>Originally</td><td>And Then</td><td>Now</td></thead>
@@ -74,7 +77,7 @@
 <tr><td>20</td><td>Freshly Painted</td><td>Sign Shaped Like Star</td><td>Best of the Best</td></tr>
 </table>
 
-# Merchants
+## Merchants
 
 <table>
 <thead><td>1d20</td><td>Name</td><td>Manner</td><td>Flavour</td></thead>
@@ -124,7 +127,7 @@
 <tr><td>20</td><td>Colourful</td><td>Under Footbridge</td><td>Poetry</td></tr>
 </table>
 
-# Mercenaries
+## Mercenaries
 
 _Should the party wish to engage the services of hired swords, Gnomon’s taverns and courtyards have no end of scoundrels and layabouts who seek a day’s dishonest work. Roll d20 to discern who is available. Sample stats are given below; feel free to modify them as needed._
 
@@ -170,7 +173,7 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Will demand a retainer of two water tokens per day, plus a share of any valuables or Exotica the party finds.</td></tr>
 </table>
 
-# Noble House
+## Noble House
 
 _The Noble Houses of Gnomon trace their ancestries to the reign of the Autarchs, with land-holdings that have been maintained for millennia. These families are decadent, lethargic, insular, greedy, suspicious of outsiders, contemptuous of those who work for a living, and seethingly jealous of the growing power of the merchant class. Many nobles have never set foot outside the decaying complex of mansions that encrusts the Apex. Within the cloistered walls of their homes, they set themselves to infighting, treachery, and the pursuit of frivolous obsessions_.
 
@@ -246,7 +249,7 @@ _The Noble Houses of Gnomon trace their ancestries to the reign of the Autarchs,
 <tr><td>20</td><td>Secretive</td><td>Music</td></tr>
 </table>
 
-# Trade Cartel
+## Trade Cartel
 
 _There is lucrative business to be done in Gnomon, and great wealth arouses great passions in those who envy it. Successful merchants have deemed it prudent and profitable to band together into professional fraternities that safeguard each member and provide an insurance policy in case of losses or disputes. Outsiders may complain about shady dealings, price fixing, tax fraud, and violent extortion, but these cartels have a firm hold over much of the market, and it would take more than the sour gossip of the unsuccessful to dislodge their grasp_.
 
@@ -322,7 +325,7 @@ _There is lucrative business to be done in Gnomon, and great wealth arouses grea
 <tr><td>20</td><td>Tobacco</td></tr>
 </table>
 
-# Urban Shrine
+## Urban Shrine
 
 _The Church of the Promised Sun is not the only faith followed in Gnomon. Traders have brought more than the sand in their boots and the cargo in their saddle-bags to the city of shaded markets; their creeds have been carried with them, and there are a plethora of gods, demigods, quantum daemons, fungal sages, and void-saints worshipped at shrines throughout the city. Some of these sanctums are tended by hundreds of priests and acolytes, but most are smaller affairs, that boast only a handful of curates and worshippers. They are sacred all the same_.
 
@@ -399,7 +402,7 @@ _The Church of the Promised Sun is not the only faith followed in Gnomon. Trader
 </table>
 
 
-# Pit Fighters
+## Pit Fighters
 
 _There is nothing that clears the mind after a day of work like the sight of a stranger’s blood on freshly-raked sand, and the city is alive at night with the roars of the spectators and the cries of the fallen_.
 
@@ -475,7 +478,7 @@ _There is nothing that clears the mind after a day of work like the sight of a s
 <tr><td>20</td><td>Sacred Flamberge</td><td>Solid Gold</td></tr>
 </table>
 
-# Philosopher's Guild
+## Philosopher's Guild
 
 _The Great Collapse scoured the wisdom of the ancients from the surface of the Urth. Only shards of their discoveries remain, but the merest glimpses of what once was are enough to compel some to dedicate their lives to a desperate search for those squandered truths_.
 
@@ -552,7 +555,7 @@ _The Great Collapse scoured the wisdom of the ancients from the surface of the U
 <tr><td>20</td><td>Mind Control</td><td>Ritualised Feud With Rival Guild</td></tr>
 </table>
 
-# Gang of Criminals
+## Gang of Criminals
 
 _Those who cannot buy and sell must either steal or starve. Little wonder that there are many in the city of shaded markets who choose the mantle of the thief._
 
@@ -628,7 +631,7 @@ _Those who cannot buy and sell must either steal or starve. Little wonder that t
 <tr><td>20</td><td>Psychic Blackmailers</td><td>Another Criminal Gang</td><td>Household of a Noble Family</td></tr>
 </table>
 
-# Tavern
+## Tavern
 
 _The Water Baron may have a monopoly on fresh water, but he does not have one on booze. Gnomon is awash with alcohol and drugs, brought from the four corners of Vaarn and beyond. In the tavern, Gnomonians from all walks of life gather to forget the day’s troubles, meet friends old and new, and get drawn into petty conflicts with heavily-armed, drunken strangers._
 
@@ -704,7 +707,7 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>20</td><td>Hegemony Whiskey</td><td>Seating Opposite Gallows</td><td>Hologram Bartender</td></tr>
 </table>
 
-# NPC Creation
+## NPC Creation
 ---
 
 <table>
@@ -817,7 +820,7 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>Bureaucrat</td><td>Engineer</td><td>Locksmith</td><td>Rag Gatherer</td><td>Woolwinder</td></tr>
 </table>
 
-# Random Drama
+## Random Drama
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Desires To</th><th>NPC B</th></thead>

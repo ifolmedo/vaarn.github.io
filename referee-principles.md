@@ -1,4 +1,5 @@
 # Referee Principles
+---
 
 - It’s not always necessary to roll dice. Only ask players to make a Save when the outcome is uncertain, the stakes are interesting, and there are consequences for failure.
 

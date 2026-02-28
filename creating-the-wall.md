@@ -544,8 +544,6 @@ _Biological_
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-## Needle Ship
-
 _To be a Needlesman takes no small courage. You must endure gruelling dives through an airless, lightless labyrinth of pipes, navigating with sonar and prayers, using your grapple-anchor to dock at harbours and your sharpened ram to breach blockages in the pipe, the roil of the ikor tumbling your ship like a sand grain in a storm._
 
 _To be a Needlesman is to train for years, memorising the three-dimensional maps of the Wall's waterways until you can see them in your dreams, and even this is not enough to prevent capable crews losing their way, if a pipe has sprung a new breach or a new blockage has formed. Little wonder that Needle Ship crews develop intense camaraderie, and are known for their courage and their lunacy in equal measure._
