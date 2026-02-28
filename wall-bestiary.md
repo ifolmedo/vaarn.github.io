@@ -11,8 +11,22 @@ _Biological_
 </table>
 
 ## Cannon Beetle
+_Biological / Synthetic_
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="stat"><td>3</td><td>16</td><td>+3</td><td>d6</td></tr>
+<tr class="attack"><td colspan="4"><b>Attack:</b> Cannon (d12 blast)</td></tr>
+<tr><td colspan="4">The Wall's voracious predators necessitate an evolutionary response of equal potency. These herbivores are half-beetle and half-armament, and they have learned to shoot first.</td></tr>
+</table>
 
 ## Carnifex Mantis
+_Biological_
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="stat"><td>0</td><td>10</td><td>0</td><td>d0</td></tr>
+<tr><td colspan="4"><b>Attack:</b> </td></tr>
+<tr><td colspan="4"></td></tr>
+</table>
 
 ## Chattersnipe
 
