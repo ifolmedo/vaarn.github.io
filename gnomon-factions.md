@@ -16,10 +16,11 @@
 
 ### Ancamulla, The Water Baron of Gnomon
 _Synthetic_
-<table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 24 (Ancient Warding Field)</td></tr>
-<tr><td><b>Morale</b>: 1</td><td><b>Attacks</b>: Feeble Swipe (d4)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Ancamulla does not expect to fight; he has mercenaries for that. If in mortal danger he will likely flee or try to bargain using his wealth. His chassis is fitted with an ancient Warding Field, which renders most kinetic attacks against his person harmless. A well-timed EMP would disrupt the warding field, reducing him to his natural Armour of 11.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>3</td><td>24 (Ancient Warding Field)</td><td>+1</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Attack</b>: Feeble Swipe (d4)</td></tr>
+<tr class="statlast"><td colspan="3">Ancamulla does not expect to fight; he has mercenaries for that. If in mortal danger he will likely flee or try to bargain using his wealth. His chassis is fitted with an ancient Warding Field, which renders most kinetic attacks against his person harmless. A well-timed EMP would disrupt the warding field, reducing him to his natural Armour of 11.</td></tr>
 </table>
 
 ## The Baron's Militia
@@ -38,20 +39,20 @@ _Synthetic_
 
 ### Militiaman
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 13</td></tr>
-<tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d8</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Cheap Blade (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Swaggering bullies who will only attack if they outnumber their opponents.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>13</td><td>+3</td><td>d8</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Cheap Blade (d6)</td></tr>
+<tr class="statlast"><td colspan="4">Swaggering bullies who will only attack if they outnumber their opponents.</td></tr>
 </table>
 
 ### Militia Captain
 _Biological_
-<table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 13</td></tr>
-<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Assault Laser (d8 beam)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Commands a group of militiamen; will always be found guarding a public fountain.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>3</td><td>13</td><td>+5</td><td>1</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Assault Laser (d8 beam)</td></tr>
+<tr class="statlast"><td colspan="4">Commands a group of militiamen; will always be found guarding a public fountain.</td></tr>
 </table>
 
 ## Hegemony Consul, Larke Xan Lonrot
@@ -69,10 +70,11 @@ _Biological_
 
 ### Hegemony Consul, Larke Xan Lonrot
 _Biological_
-<table>
-<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 16 (Adamant Linen Robes)</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Attacks</b>: Monofilament Sword (2d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Always accompanied by Lictors. Lonrot is a competent enough duelist, but will not have any interest in risking his life in battle. If cornered he will use the active camouflage rig inside his robes to become invisible and attempt to escape.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>4</td><td>16 (Adamant Linen Robes)</td><td>+2</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Attack</b>: Monofilament Sword (2d8)</td></tr>
+<tr class="statlast"><td colspan="3">Always accompanied by Lictors. Lonrot is a competent enough duelist, but will not have any interest in risking his life in battle. If cornered he will use the active camouflage rig inside his robes to become invisible and attempt to escape.</td></tr>
 </table>
 
 ## House Lonrot
@@ -91,20 +93,20 @@ _Biological_
 
 ### Household Guard
 _Biological_
-<table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Pulse Rifle (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Well-equipped and trained, but not as numerous as the Legionaries or the Baron’s militiamen.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>3</td><td>14</td><td>+4</td><td>d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack:</b> Pulse Rifle (d8)</td></tr>
+<tr class="statlast"><td colspan="4">Well-equipped and trained, but not as numerous as the Legionaries or the Baron’s militiamen.</td></tr>
 </table>
 
 ### Consul's Lictor
 _Biological_
-<table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 18</td></tr>
-<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Anbaric Pike (d10 electrical)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: When Consul Larke would take lethal damage, a Lictor can choose to die instead.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>5</td><td>18</td><td>+7</td><td>d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Anbaric Pike (d10 electrical)</td></tr>
+<tr class="statlast"><td colspan="4">When Consul Larke would take lethal damage, a Lictor can choose to die instead.</td></tr>
 </table>
 
 ## Commander Loonflower
@@ -123,10 +125,11 @@ _Biological_
 
 ### Hegemony Commander, Eldwall Loonflower
 _Biological_
-<table>
-<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 16 (Hegemony Ferro-Plate)</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Hegemony Sidearm (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Unlikely to fight alone; he will be accompanied by four Hegemony Centurions. Hegemony troops will never fail Morale checks while Loonflower is alive and fighting with them.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>6</td><td>16 (Hegemony Ferro-Plate)</td><td>+10</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Attack</b>: Hegemony Sidearm (d6)</td></tr>
+<tr class="statlast"><td colspan="3">Unlikely to fight alone; he will be accompanied by four Hegemony Centurions. Hegemony troops will never fail Morale checks while Loonflower is alive and fighting with them.</td></tr>
 </table>
 
 ## The Fifth Hegemony Legion
@@ -146,20 +149,20 @@ _Biological_
 
 ### Hegemony Legionary
 _Biological_
-<table>
-<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d8</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) / Grenade (d10 blast, DEX save to throw back)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: When fought in streets of Gnomon, will call for backup every second turn, summoning another d8 Legionaries.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>2</td><td>14</td><td>+6</td><td>d8</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Autorifle (d8) / Grenade (d10 blast, DEX save to throw back)</td></tr>
+<tr class="statlast"><td colspan="4">When fought in streets of Gnomon, will call for backup every second turn, summoning another d8 Legionaries.</td></tr>
 </table>
 
 ### Hegemony Centurion
 _Biological_
-<table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 16</td></tr>
-<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) + Rapier (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Legionaries in presence of Centurion use the Centurion’s morale score.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>5</td><td>16</td><td>+8</td><td>1</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Autorifle (d8) + Rapier (d8)</td></tr>
+<tr class="statlast"><td colspan="4">Legionaries in presence of Centurion use the Centurion’s morale score.</td></tr>
 </table>
 
 ## Abbess Faunia
@@ -177,10 +180,11 @@ _Biological_
 
 ### Abbess Faunia, Apostle Of The Promised Sun
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 11 (Golden Robes)</td></tr>
-<tr><td><b>Morale</b>: 3</td><td><b>Attacks</b>: Fists (d4)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Faunia is no warrior, but her ambient psychic powers mean that she is impossible to surprise. If attacked, she will activate her most precious artefact: a hard-light projector that creates seven solid-state holograms of her, which will scatter in all directions. In the confusion she will attempt to escape. Note these holograms are physical objects, and can be restrained by the PCs.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>11 (Golden Robes)</td><td>+3</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Attack</b>: Fists (d4)</td></tr>
+<tr class="statlast"><td colspan="3">Faunia is no warrior, but her ambient psychic powers mean that she is impossible to surprise. If attacked, she will activate her most precious artefact: a hard-light projector that creates seven solid-state holograms of her, which will scatter in all directions. In the confusion she will attempt to escape. Note these holograms are physical objects, and can be restrained by the PCs.</td></tr>
 </table>
 
 ## Church Of The Promised Sun
@@ -200,20 +204,20 @@ _Biological_
 
 ### Priest Of The Promised Sun
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 10</td></tr>
-<tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Staff (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Carry doses of Summerbalm (heals for d8 HP).</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>10</td><td>+1</td><td>d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Staff (d6)</td></tr>
+<tr class="statlast"><td colspan="4">Carry doses of Summerbalm (heals for d8 HP).</td></tr>
 </table>
 
 ### Temple Guard
 _Biological_
-<table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 15</td></tr>
-<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d10</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Heavy Club (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Will do everything they can to avoid spilling red blood inside the Temple.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>3</td><td>15</td><td>+7</td><td>d10</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Heavy Club (d8)</td></tr>
+<tr class="statlast"><td colspan="4">Will do everything they can to avoid spilling red blood inside the Temple.</td></tr>
 </table>
 
 ## Prieval Prise
@@ -231,10 +235,11 @@ _Biological_
 
 ### Prieval Prise
 _Biological_
-<table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 13 (Gaudy Robes)</td></tr>
-<tr><td><b>Morale</b>: See Below</td><td><b>Attacks</b>: Pistol (d8) + Bite (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: If combat breaks out, the referee should roll to determine which drug Prieval is high on. Even numbers designate amphetamines; Prieval is twitchy and fast, and will always act twice before the PCs do. However, he will bug out and run as soon as the fight goes against him. Odd numbers designate opiates; Prieval is disassociating and will always attack last. However, he has no concept of the danger he is in, cannot feel pain, and will never run away.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>5</td><td>13 (Gaudy Robes)</td><td>See Below</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Attack</b>: Pistol (d8) + Bite (d6)</td></tr>
+<tr class="statlast"><td colspan="3">If combat breaks out, the referee should roll to determine which drug Prieval is high on. Even numbers designate amphetamines; Prieval is twitchy and fast, and will always act twice before the PCs do. However, he will bug out and run as soon as the fight goes against him. Odd numbers designate opiates; Prieval is disassociating and will always attack last. However, he has no concept of the danger he is in, cannot feel pain, and will never run away.</td></tr>
 </table>
 
 ## Prieval's Crew
@@ -256,20 +261,20 @@ laugh at his jokes.
 
 ### Smuggler
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d12</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Club (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The gang’s runners are lightly-armed layabouts, more used to vandalism and intimidation than pitched battle with competent adversaries.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>12</td><td>+2</td><td>d12</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Club (d6)</td></tr>
+<tr class="statlast"><td colspan="4">The gang’s runners are lightly-armed layabouts, more used to vandalism and intimidation than pitched battle with competent adversaries.</td></tr>
 </table>
 
 ### Hired Killer
 _Biological_
-<table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Knife (d6) + Plasma Grenade (d8 blast)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Assassination technique involves bombing targets’ homes with ancient plasma grenades.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>3</td><td>14</td><td>+4</td><td>d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Knife (d6) + Plasma Grenade (d8 blast)</td></tr>
+<tr class="statlast"><td colspan="4">Assassination technique involves bombing targets’ homes with ancient plasma grenades.</td></tr>
 </table>
 
 ## Nyxia, The Wall-Shadow
@@ -287,10 +292,11 @@ _Biological_
 
 ### Nyxia, The Wall-Shadow
 _Hypergeometric_
-<table>
-<tr><td><b>Level</b>: 8</td><td><b>Armour</b>: 11</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: d8 CON drain</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Nyxia cannot be injured by regular weapons or by psychic Gifts. Only hypergeometric weapons have any hope of harming her. She attacks by latching onto an opponent and draining the energy from their body. When their CON defence is reduced to 0, they are dead.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>8</td><td>11</td><td>+10</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Attack</b>: d8 CON drain</td></tr>
+<tr class="statlast"><td colspan="3">Nyxia cannot be injured by regular weapons or by psychic Gifts. Only hypergeometric weapons have any hope of harming her. She attacks by latching onto an opponent and draining the energy from their body. When their CON defence is reduced to 0, they are dead.</td></tr>
 </table>
 
 ## The Crimson Court
@@ -310,20 +316,20 @@ _Hypergeometric_
 
 ### Bailiff
 _Biological_
-<table>
-<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d10</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Shock Baton (d6, electrical)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Dressed in dark red armour and featureless shadow-helms.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>2</td><td>14</td><td>+4</td><td>d10</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Shock Baton (d6, electrical)</td></tr>
+<tr class="statlast"><td colspan="4">Dressed in dark red armour and featureless shadow-helms.</td></tr>
 </table>
 
 ### Advocate
 _Biological_
-<table>
-<tr><td><b>Level</b>: 7</td><td><b>Armour</b>: 15</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Spear (d8) + Net (DEX save or your Armor drops to 9)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Each Advocate uses unique fighting styles and weaponry. This stat-block should be considered a starting point.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>7</td><td>15</td><td>+10</td><td>1</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Spear (d8) + Net (DEX save or your Armor drops to 9)</td></tr>
+<tr class="statlast"><td colspan="4">Each Advocate uses unique fighting styles and weaponry. This stat-block should be considered a starting point.</td></tr>
 </table>
 
 ## Longtooth Jak
@@ -342,10 +348,11 @@ _Biological_
 
 ### Longtooth Jak
 _Biological_
-<table>
-<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 15 (Thick hide)</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Claw (d8) + Claw (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: If both of Jak’s claws hit the same target, she will follow up with a bite attack that deals 2d6 damage, with no to-hit roll required. She will deal another automatic 2d6 damage to the target she has grabbed each turn, unless they pass a STR save to wrestle her off.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>6</td><td>15 (Thick hide)</td><td>+10</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Attack</b>: Claw (d8) + Claw (d8)</td></tr>
+<tr class="statlast"><td colspan="3">If both of Jak’s claws hit the same target, she will follow up with a bite attack that deals 2d6 damage, with no to-hit roll required. She will deal another automatic 2d6 damage to the target she has grabbed each turn, unless they pass a STR save to wrestle her off.</td></tr>
 </table>
 
 ## Friends of Jak
@@ -366,20 +373,20 @@ _Biological_
 
 ### Cultist
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d10</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Dagger (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Robed and hooded when it is time to gather. They use Jak’s morale score if she is present.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>12</td><td>+2</td><td>d10</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Dagger (d6)</td></tr>
+<tr class="statlast"><td colspan="4">Robed and hooded when it is time to gather. They use Jak’s morale score if she is present.</td></tr>
 </table>
 
 ### Exalted Ghoul
 _Biological_
-<table>
-<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Claw (d8) + Claw (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The advanced stages of the transformation brought about by Jak’s rituals elongate the limbs and teeth.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>4</td><td>14</td><td>+5</td><td>d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Claw (d8) + Claw (d8)</td></tr>
+<tr class="statlast"><td colspan="4">The advanced stages of the transformation brought about by Jak’s rituals elongate the limbs and teeth.</td></tr>
 </table>
 
 ## Faction Conflicts

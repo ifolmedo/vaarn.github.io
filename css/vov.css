@@ -61,16 +61,16 @@ section.cover .cover-main > p:last-child a { border-color:#92BEC7 }
     background-color: #fff;
 }
 
-.statscore td {
+.statvalue td {
     border-style: none dashed none none;
     border-width: .12rem;
     border-color: #a4acb4;
     text-align: center;
 }
 
-.statattack td { padding-top: 1rem; }
-.statinfo td { padding-bottom: 1rem; }
+.statfirst td { padding-top: 1rem; }
+.statlast td { padding-bottom: 1rem; }
 
-.statblock th:last-child, .statscore td:last-child {
+.statblock th:last-child, .statvalue td:last-child {
     border-right-style: none;
 }

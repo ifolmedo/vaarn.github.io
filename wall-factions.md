@@ -16,20 +16,20 @@ __Enemies__: While it is impossible to befriend every member of this squabbling 
 
 ### Sargattean Beetle Knight
 _Biological_
-<table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 15</td></tr>
-<tr><td><b>Morale</b>: +6</td><td><b>Encountered</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Lance (d10, when charging) / Axe (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Beetleback jousting is the traditional method of settling serious disputes amongst Sargattean gentry.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>3</td><td>15</td><td>+6</td><td>d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Lance (d10, when charging) / Axe (d6)</td></tr>
+<tr class="statlast"><td colspan="4">Beetleback jousting is the traditional method of settling serious disputes amongst Sargattean gentry.</td></tr>
 </table>
 
 ### Sargattean War Beetle
 _Biological_
-<table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 18</td></tr>
-<tr><td><b>Morale</b>: +10</td><td><b>Encountered</b>: As Knights</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Pincers (d10)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: War beetles are bred for speed, aggression, and the shininess of their shells. Intelligence is valued a distant fourth.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>5</td><td>18</td><td>+10</td><td>As Knights</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Pincers (d10)</td></tr>
+<tr class="statlast"><td colspan="4">War beetles are bred for speed, aggression, and the shininess of their shells. Intelligence is valued a distant fourth.</td></tr>
 </table>
 
 ## Priam Houndsfoot, Harbourkeeper of Sargattea
@@ -45,10 +45,10 @@ __Enemy__: Priam operates behind closed doors, working against his foes without 
 
 ### Priam Houndsfoot
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 11</td></tr>
-<tr><td colspan="2"><b>Morale</b>: +0</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Guilded Knife (d6)</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>11</td><td>+0</td></tr>
+<tr class="statfirst statlast"><td colspan="3"><b>Attack</b>: Guilded Knife (d6)</td></tr>
 </table>
 
 ## Sargattean Guard
@@ -65,11 +65,11 @@ __Enemies__: Those suspected of an Ostrielese allegiance will be taken prisoner 
 
 ### Sargattean Guard
 _Biological_
-<table>
-<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: +4</td><td><b>Encountered</b>: 2d6</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Rifle (d8) / Dagger (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: War beetles are bred for speed, aggression, and the shininess of their shells. Intelligence is valued a distant fourth.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>2</td><td>14</td><td>+4</td><td>2d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Rifle (d8) / Dagger (d6)</td></tr>
+<tr class="statlast"><td colspan="4">War beetles are bred for speed, aggression, and the shininess of their shells. Intelligence is valued a distant fourth.</td></tr>
 </table>
 
 ## Grand General Dyud, Keeper of the Narrow Pass
@@ -85,10 +85,10 @@ __Enemy__: Dyud’s enemies are not just the Ostrielese, but anyone who would ma
 
 ### Grand General Dyud
 _Biological_
-<table>
-<tr><td><b>Level</b>: 8</td><td><b>Armour</b>: 18</td></tr>
-<tr><td colspan="2"><b>Morale</b>: +8</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Obsidian Mace (d10) / Ornamental Revolver (d6)</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>8</td><td>18</td><td>+8</td></tr>
+<tr class="statfirst statlast"><td colspan="3"><b>Attack</b>: Obsidian Mace (d10) / Ornamental Revolver (d6)</td></tr>
 </table>
 
 ## The Royal Roost
@@ -104,11 +104,11 @@ __Enemies__: It is impossible to navigate court politics in Ostriel without ruff
 
 ### Harpy Goldenwing
 _Biological_
-<table>
-<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 18</td></tr>
-<tr><td><b>Morale</b>: +10</td><td><b>Encountered</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Greatbow (d10) / Talons (2d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The Queen's devoted guards, clad in golden armour. She is protected by three Goldenwing at all times. One is always a Krypteia agent.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>6</td><td>18</td><td>+10</td><td>d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Greatbow (d10) / Talons (2d6)</td></tr>
+<tr class="statlast"><td colspan="4">The Queen's devoted guards, clad in golden armour. She is protected by three Goldenwing at all times. One is always a Krypteia agent.</td></tr>
 </table>
 
 ## Eyazema III, Queen Beyond the Sky
@@ -126,10 +126,10 @@ __Enemy__: The Queen Beyond the Sky has many enemies. The Royal Roost’s vendet
 
 ### Eyazema III
 _Biological_
-<table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 18</td></tr>
-<tr><td colspan="2"><b>Morale</b>: +10</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Royal Greatbow (d10) / Diamond-capped Talons (2d6)</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>5</td><td>18</td><td>+10</td></tr>
+<tr class="statfirst statlast"><td colspan="3"><b>Attack</b>: Royal Greatbow (d10) / Diamond-capped Talons (2d6)</td></tr>
 </table>
 
 ## The Krypteia
@@ -146,11 +146,11 @@ __Enemies__: The enemies of the Krypteia are marked for death, in small black le
 
 ### Queen's Shadow
 _Biological_
-<table>
-<tr><td><b>Level</b>: 8</td><td><b>Armour</b>: 18</td></tr>
-<tr><td><b>Morale</b>: +10</td><td><b>Encountered</b>: Solo</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Poison Arrows (d10 TOX) / Talons (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The ruthless, fanatical assassins of the Krypteia. They dye their feathers and palms midnight black. All will take poison rather than submit to capture.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>8</td><td>18</td><td>+10</td><td>Solo</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Poison Arrows (d10 TOX) / Talons (d8)</td></tr>
+<tr class="statlast"><td colspan="4">The ruthless, fanatical assassins of the Krypteia. They dye their feathers and palms midnight black. All will take poison rather than submit to capture.</td></tr>
 </table>
 
 ## Chatelaine Occluria, The Queen's Left Hand
@@ -166,10 +166,10 @@ __Enemy__: Despite her desire for peace, Occluria is a sinister figure and makes
 
 ### Chatelaine Occluria
 _Biological_
-<table>
-<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 13</td></tr>
-<tr><td colspan="2"><b>Morale</b>: +5</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Venomous Talons (d6 + d12 TOX)</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>2</td><td>13</td><td>+5</td></tr>
+<tr class="statfirst statlast"><td colspan="3"><b>Attack</b>: Venomous Talons (d6 + d12 TOX)</td></tr>
 </table>
 
 ## The Levellers
@@ -186,11 +186,11 @@ __Enemies__: The Levellers are hunted and despised by all other factions, for th
 
 ### Leveller
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 11</td></tr>
-<tr><td><b>Morale</b>: +1</td><td><b>Encountered</b>: 2d6</td></tr>
-<tr><td colspan="2"><b>Attack</b>: Wall Pick (d6, x2 damage against structures)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Ragged devotees of Qua. Prophet of the Fall. They dream of the Age Without Boundaries.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>11</td><td>+1</td><td>2d6</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Wall Pick (d6, x2 damage against structures)</td></tr>
+<tr class="statlast"><td colspan="4">Ragged devotees of Qua. Prophet of the Fall. They dream of the Age Without Boundaries.</td></tr>
 </table>
 
 ## Qua, Prophet of the Fall
@@ -209,8 +209,8 @@ An obvious narrative in which Qua could play a villain role is one in which the 
 
 ### Qua
 _Synthetic_
-<table>
-<tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 11</td></tr>
-<tr><td colspan="2"><b>Morale</b>: +10</td></tr>
-<tr><td colspan="2"><b>Attack</b>: None</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th></tr></thead>
+<tr class="statvalue"><td>0 (1 HP)</td><td>11</td><td>+10</td></tr>
+<tr class="statfirst statlast"><td colspan="3"><b>Attack</b>: None</td></tr>
 </table>
