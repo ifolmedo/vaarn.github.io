@@ -8,13 +8,14 @@
 3. Draw circles around the dice where they fell, and note the number showing on the dice. Consult the [Location Type table](creating-the-wall.md#location-types) to find what kind of location has been created. Note that the three strata of the Wall have different columns. Use the d20 tables on the appropriate page to fill out the locations.
 
 4. Some locations have special properties that affect the space above, below, or level with them. These location types are marked with an asterisk. Their special effects are as follows:
+
     - Giant Tree: the tree grows upwards, and all Locations directly above the tree are entangled or shaded by its trunk and branches.
 
     - Hanging Jungle - The jungle spreads voraciously in both directions. Locations horizontally adjacent to the jungle's origin point are also jungles, as well as containing a second Location type.
 
-    - Weep - both pale and sable ikor weeps affect all locations below them, flooding them with ikor (see p.49 for details).
+    - Weep - both pale and sable ikor weeps affect all locations below them, [flooding them with ikor](creating-the-wall.md#weeps).
 
-5. Now that you have a rough map of the region, sketch out the routes between Locations. Even-numbered Locations connect to all their beighbouring Locations via safe routes. Two odd-numbered Locations connect via a route with a hazard (see table opposite). Use the Routes table to generate descrptors for the route if desired. Roll 1d6 to determine the base travel time in days (climbing upwards takes double the base time, climbing down takes half the base time, see p26).
+5. Now that you have a rough map of the region, sketch out the routes between Locations. Even-numbered Locations connect to all their neighbouring Locations via safe routes. Two odd-numbered Locations connect via a route with a [hazard](creating-the-wall.md#routes). Use the [Routes table](creating-the-wall.md#routes) to generate descriptors for the route if desired. Roll 1d6 to determine the base [travel time](wall-travel.md#travel-between-locations) in days (climbing upwards takes double the base time, climbing down takes half the base time).
 
 6. The following locations will always connect to an ikorvein, an alternative method of transport through the Wall: Beetle Ranch, Needle Ship Port, Low Wall Settlement, Sargattean Fort, Monastery, Way Station, Upper Wall Settlement, and Weep (Both). Connect them with dotted lines to indicate the vein routes. A Needle Ship (p.43) can sail between two locations within hours.
 
@@ -22,37 +23,37 @@
 
 8. Look at any settlements or outposts in the region, and attach a few named NPCs to them. Use the table on p.62 for inspiration.
 
-<a href="/#/creating-the-wall"></a>
+<a href="/#/creating-the-wall?id="></a>
 
 ## Location Types
 <table>
 <thead><td>1d20</td><td>LOW WALL LOCATION</td><td>MID-WALL LOCATION</td><td>UPPER WALL LOCATION</td></thead>
-<tr><td>1</td><td rowspan="2"><a href="/#/creating-the-wall#beetle-ranch">Beetle Ranch</a></td><td><a href="/#/creating-the-wall#zeppelin-port">Zeppelin Port</a></td><td><a href="/#/creating-the-wall#crash-site">Crash Site</a></td></tr>
-<tr><td>2</td><td><a href="/#/creating-the-wall#weeps">Weep: Sable Ikor</a>*</td><td rowspan="2"><a href="/#/creating-the-wall#cloudspire">Cloudspire</a></td></tr>
-<tr><td>3</td><td><a href="/#/creating-the-wall#crash-site">Crash Site</a></td><td><a href="/#/creating-the-wall#weeps">Weep: Pale Ikor</a>*</td></tr>
-<tr><td>4</td><td rowspan="2"><a href="/#/creating-the-wall#giant-tree">Giant Tree</a>*</td><td><a href="/#/creating-the-wall#way-station">Way Station</a></td><td><a href="/#/creating-the-wall#hanging-jungle">Hanging Jungle</a>*</td></tr>
-<tr><td>5</td><td><a href="/#/creating-the-wall#upper-wall-settlement">Upper Wall Settlement</a></td><td rowspan="2"><a href="/#/creating-the-wall#harpy-roost">Harpy Roost</a></td></tr>
-<tr><td>6</td><td><a href="/#/creating-the-wall#lair">Lair</a></td><td><a href="/#/creating-the-wall#sky-pirate-den">Sky Pirate Den</a></td></tr>
-<tr><td>7</td><td><a href="/#/creating-the-wall#leveller-camp">Leveller Camp</a></td><td><a href="/#/creating-the-wall#sargattean-fort">Sargattean Fort</a></td><td><a href="/#/creating-the-wall#krypteia-prison">Krypteia Prison</a></td></tr>
-<tr><td>8</td><td rowspan="2"><a href="/#/creating-the-wall#low-wall-settlement">Low Wall Settlement</a></td><td><a href="/#/creating-the-wall#needle-ship-port">Needle Ship Port</a></td><td><a href="/#/creating-the-wall#lair">Lair</a></td></tr>
-<tr><td>9</td><td><a href="/#/creating-the-wall#monastery">Monastery</a></td><td><a href="/#/creating-the-wall#leveller-camp">Leveller Camp</a></td></tr>
-<tr><td>10</td><td><a href="/#/creating-the-wall#monastery">Monastery</a></td><td><a href="/#/creating-the-wall#low-wall-settlement">Low Wall Settlement</a></td><td><a href="/#/creating-the-wall#monastery">Monastery</a></td></tr>
-<tr><td>11</td><td rowspan="2"><a href="/#/creating-the-wall#needle-ship-port">Needle Ship Port</a></td><td><a href="/#/creating-the-wall#leveller-camp">Leveller Camp</a></td><td><a href="/#/creating-the-wall#needle-ship-port">Needle Ship Port</a></td></tr>
-<tr><td>12</td><td><a href="/#/creating-the-wall#lair">Lair</a></td><td><a href="/#/creating-the-wall#sky-pirate-den">Sky Pirate Den</a></td></tr>
-<tr><td>13</td><td rowspan="2"><a href="/#/creating-the-wall#sargattean-fort">Sargattean Fort</a></td><td><a href="/#/creating-the-wall#krypteia-prison">Krypteia Prison</a></td><td><a href="/#/creating-the-wall#stratosfolk-village">Stratosfolk Village</a></td></tr>
-<tr><td>14</td><td><a href="/#/creating-the-wall#harpy-roost">Harpy Roost</a></td><td rowspan="2"><a href="/#/creating-the-wall#upper-wall-settlement">Upper Wall Settlement</a></td></tr>
-<tr><td>15</td><td><a href="/#/creating-the-wall#sky-pirate-den">Sky Pirate Den</a></td><td rowspan="2"><a href="/#/creating-the-wall#hanging-jungle">Hanging Jungle</a>*</td></tr>
-<tr><td>16</td><td><a href="/#/creating-the-wall#vineyard">Vineyard</a></td><td><a href="/#/creating-the-wall#way-station">Way Station</a></td></tr>
-<tr><td>17</td><td><a href="/#/creating-the-wall#way-station">Way Station</a></td><td><a href="/#/creating-the-wall#giant-tree">Giant Tree</a>*</td><td><a href="/#/creating-the-wall#weeps">Weep: Pale Ikor</a>*</td></tr>
-<tr><td>18</td><td><a href="/#/creating-the-wall#weeps">Weep: Pale Ikor</a>*</td><td><a href="/#/creating-the-wall#crash-site">Crash Site</a></td><td><a href="/#/creating-the-wall#weeps">Weep: Sable Ikor</a>*</td></tr>
-<tr><td>19</td><td><a href="/#/creating-the-wall#weeps">Weep: Sable Ikor</a>*</td><td><a href="/#/creating-the-wall#beetle-ranch">Beetle Ranch</a></td><td><a href="/#/creating-the-wall#zeppelin-port">Zeppelin Port</a></td></tr>
+<tr><td>1</td><td rowspan="2"><a href="/#/creating-the-wall?id=beetle-ranch">Beetle Ranch</a></td><td><a href="/#/creating-the-wall?id=zeppelin-port">Zeppelin Port</a></td><td><a href="/#/creating-the-wall?id=crash-site">Crash Site</a></td></tr>
+<tr><td>2</td><td><a href="/#/creating-the-wall?id=weeps">Weep: Sable Ikor</a>*</td><td rowspan="2"><a href="/#/creating-the-wall?id=cloudspire">Cloudspire</a></td></tr>
+<tr><td>3</td><td><a href="/#/creating-the-wall?id=crash-site">Crash Site</a></td><td><a href="/#/creating-the-wall?id=weeps">Weep: Pale Ikor</a>*</td></tr>
+<tr><td>4</td><td rowspan="2"><a href="/#/creating-the-wall?id=giant-tree">Giant Tree</a>*</td><td><a href="/#/creating-the-wall?id=way-station">Way Station</a></td><td><a href="/#/creating-the-wall?id=hanging-jungle">Hanging Jungle</a>*</td></tr>
+<tr><td>5</td><td><a href="/#/creating-the-wall?id=upper-wall-settlement">Upper Wall Settlement</a></td><td rowspan="2"><a href="/#/creating-the-wall?id=harpy-roost">Harpy Roost</a></td></tr>
+<tr><td>6</td><td><a href="/#/creating-the-wall?id=lair">Lair</a></td><td><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirate Den</a></td></tr>
+<tr><td>7</td><td><a href="/#/creating-the-wall?id=leveller-camp">Leveller Camp</a></td><td><a href="/#/creating-the-wall?id=sargattean-fort">Sargattean Fort</a></td><td><a href="/#/creating-the-wall?id=krypteia-prison">Krypteia Prison</a></td></tr>
+<tr><td>8</td><td rowspan="2"><a href="/#/creating-the-wall?id=low-wall-settlement">Low Wall Settlement</a></td><td><a href="/#/creating-the-wall?id=needle-ship-port">Needle Ship Port</a></td><td><a href="/#/creating-the-wall?id=lair">Lair</a></td></tr>
+<tr><td>9</td><td><a href="/#/creating-the-wall?id=monastery">Monastery</a></td><td><a href="/#/creating-the-wall?id=leveller-camp">Leveller Camp</a></td></tr>
+<tr><td>10</td><td><a href="/#/creating-the-wall?id=monastery">Monastery</a></td><td><a href="/#/creating-the-wall?id=low-wall-settlement">Low Wall Settlement</a></td><td><a href="/#/creating-the-wall?id=monastery">Monastery</a></td></tr>
+<tr><td>11</td><td rowspan="2"><a href="/#/creating-the-wall?id=needle-ship-port">Needle Ship Port</a></td><td><a href="/#/creating-the-wall?id=leveller-camp">Leveller Camp</a></td><td><a href="/#/creating-the-wall?id=needle-ship-port">Needle Ship Port</a></td></tr>
+<tr><td>12</td><td><a href="/#/creating-the-wall?id=lair">Lair</a></td><td><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirate Den</a></td></tr>
+<tr><td>13</td><td rowspan="2"><a href="/#/creating-the-wall?id=sargattean-fort">Sargattean Fort</a></td><td><a href="/#/creating-the-wall?id=krypteia-prison">Krypteia Prison</a></td><td><a href="/#/creating-the-wall?id=stratosfolk-village">Stratosfolk Village</a></td></tr>
+<tr><td>14</td><td><a href="/#/creating-the-wall?id=harpy-roost">Harpy Roost</a></td><td rowspan="2"><a href="/#/creating-the-wall?id=upper-wall-settlement">Upper Wall Settlement</a></td></tr>
+<tr><td>15</td><td><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirate Den</a></td><td rowspan="2"><a href="/#/creating-the-wall?id=hanging-jungle">Hanging Jungle</a>*</td></tr>
+<tr><td>16</td><td><a href="/#/creating-the-wall?id=vineyard">Vineyard</a></td><td><a href="/#/creating-the-wall?id=way-station">Way Station</a></td></tr>
+<tr><td>17</td><td><a href="/#/creating-the-wall?id=way-station">Way Station</a></td><td><a href="/#/creating-the-wall?id=giant-tree">Giant Tree</a>*</td><td><a href="/#/creating-the-wall?id=weeps">Weep: Pale Ikor</a>*</td></tr>
+<tr><td>18</td><td><a href="/#/creating-the-wall?id=weeps">Weep: Pale Ikor</a>*</td><td><a href="/#/creating-the-wall?id=crash-site">Crash Site</a></td><td><a href="/#/creating-the-wall?id=weeps">Weep: Sable Ikor</a>*</td></tr>
+<tr><td>19</td><td><a href="/#/creating-the-wall?id=weeps">Weep: Sable Ikor</a>*</td><td><a href="/#/creating-the-wall?id=beetle-ranch">Beetle Ranch</a></td><td><a href="/#/creating-the-wall?id=zeppelin-port">Zeppelin Port</a></td></tr>
 <tr><td>20</td><td colspan="3">Roll d20 Twice and Combine Results</td></tr>
 </table>
 
 ## Routes
 <table>
 <thead><td>1d20</td><td>DESCRIPTOR A</td><td>DESCRIPTOR B</td><td>ROUTE MAPPED BY</td><td>ROUTE HAZARD</td></thead>
-<tr><td>1</td><td>Windswept</td><td>Bridges</td><td>Fugitive Poet</td><td rowspan="10"><a href="/#/creating-the-wall#lair">Monster Lair</a></td></tr>
+<tr><td>1</td><td>Windswept</td><td>Bridges</td><td>Fugitive Poet</td><td rowspan="10"><a href="/#/creating-the-wall?id=lair">Monster Lair</a></td></tr>
 <tr><td>2</td><td>Verdant</td><td>Chasms</td><td>Beetle Ranchers</td></tr>
 <tr><td>3</td><td>Mouldering</td><td>Labyrinths</td><td>Goat Herders</td></tr>
 <tr><td>4</td><td>Rusting</td><td>Ducts</td><td>Mystics</td></tr>
@@ -69,7 +70,7 @@
 <tr><td>15</td><td>Vine-wrapped</td><td>Power Cells</td><td>A Lithling Scholar</td><td>Soldiers Turned Bandit</td></tr>
 <tr><td>16</td><td>Graffiti-covered</td><td>Gantries</td><td>Bounty Hunters</td><td>Unstable Ground</td></tr>
 <tr><td>17</td><td>Fungus-filled</td><td>Hallways</td><td>Relic Thieves</td><td>Flash Ikorfloods</td></tr>
-<tr><td>18</td><td>Silent</td><td>Debris-fields</td><td>Krypteia Assassins</td><td><a href="/#/">Huge Hangman Vine</a></td></tr>
+<tr><td>18</td><td>Silent</td><td>Debris-fields</td><td>Krypteia Assassins</td><td><a href="/#/wall-bestiary?id=hangman-vine">Huge Hangman Vine</a></td></tr>
 <tr><td>19</td><td>Mossy</td><td>Shafts</td><td>Monks</td><td>Bellowing Winds</td></tr>
 <tr><td>20</td><td>Bomb-damaged</td><td>Caverns</td><td>Daemon Worshippers</td><td>Frequent Fogs</td></tr>
 </table>
@@ -125,11 +126,11 @@
 
 ### Pack Beetle
 _Biological_
-<table>
-<thead><tr><td>Level</td><td>Armour</td><td>Morale</td><td>Item Slots</td></tr></thead>
-<tr><td>2</td><td>18</td><td>+1</td><td>50</td></tr>
-<tr><td colspan="4"><b>Attack</b>: Mandibles (d4)</td></tr>
-<tr><td colspan="4">Sargattean pack beetles are amongst the Narrow City's most prestigious exports, famed throughout Vaarn for their obedience and loyalty. As large and strong as an ox, they are capable of climbing sheer surfaces while carrying both a rider and a substantial quantity of baggage, making the creatures superior to iron mules or zorses for exploring the vertiginous inner regions of the Wall. They are docile herbivores, easily pleased by the promise of honeyed apples and other sugared treats.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Item Slots</th></tr></thead>
+<tr class="statvalue"><td>2</td><td>18</td><td>+1</td><td>50</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attack</b>: Mandibles (d4)</td></tr>
+<tr class="statlast"><td colspan="4">Sargattean pack beetles are amongst the Narrow City's most prestigious exports, famed throughout Vaarn for their obedience and loyalty. As large and strong as an ox, they are capable of climbing sheer surfaces while carrying both a rider and a substantial quantity of baggage, making the creatures superior to iron mules or zorses for exploring the vertiginous inner regions of the Wall. They are docile herbivores, easily pleased by the promise of honeyed apples and other sugared treats.</td></tr>
 </table>
 
 ## Crash Site
@@ -550,11 +551,12 @@ _To be a Needlesman is to train for years, memorising the three-dimensional maps
 
 ### Needle Ship
 _Mechanical_
-<table>
-<thead><tr><td>Hull Points</td><td>Armour</td><td>Crew Size</td></tr></thead>
-<tr><td>2d6</td><td>10 + 3d6</td><td>3d10</td></tr>
-<tr><td colspan="3"><b>Weapon</b>: Ram (2d12)</td></tr>
-<tr><td colspan="3">Needle Ships are submarines, named for their slender shape and piercing prows. These craft sail inside the arteries that carry seawater and ikor through the Wall, surfacing in 'harbours' that have been carved into the Wall's flanks. Needle Ships have sailed the Wall for centuries, and are a time-honored method of trade and communication inside the superstructure.</td></tr>
+
+<table class="statblock">
+<thead><tr><th>Hull Points</th><th>Armour</th><th>Crew Size</th></tr></thead>
+<tr class="statvalue"><td>2d6</td><td>10 + 3d6</td><td>3d10</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Weapon</b>: Ram (2d12)</td></tr>
+<tr class="statlast"><td colspan="4">Needle Ships are submarines, named for their slender shape and piercing prows. These craft sail inside the arteries that carry seawater and ikor through the Wall, surfacing in 'harbours' that have been carved into the Wall's flanks. Needle Ships have sailed the Wall for centuries, and are a time-honored method of trade and communication inside the superstructure.</td></tr>
 </table>
 
 <table>
@@ -921,22 +923,22 @@ Synthetic beings who drink sable ikor must make a PSY save. On failure, they are
 
 ### Trade Balloon
 _Mechanical_
-<table>
-<thead><tr><td>Hull Points</td><td>Armour</td><td>Crew Size</td></tr></thead>
-<tr><td>d6</td><td>10 + d4</td><td>d10</td></tr>
-<tr><td colspan="3"><b>Weapon:</b> Cannon (d10)</td></tr>
+<table class="statblock">
+<thead><tr><th>Hull Points</th><th>Armour</th><th>Crew Size</th></tr></thead>
+<tr class="statvalue"><td>d6</td><td>10 + d4</td><td>d10</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Weapon:</b> Cannon (d10)</td></tr>
 <tr><td colspan="3">The colourful sky-craft favoured by the Wall’s merchants. Hung with cloth charms which announce the trader’s guild and family heritage.</td></tr>
-<tr><td colspan="3"><b>Flammable:</b> if damaged by flames, the Trade Balloon takes an additional 5d10 damage immediately, and continues to burn until destroyed.</td></tr>
+<tr class="statlast"><td colspan="3"><b>Flammable:</b> if damaged by flames, the Trade Balloon takes an additional 5d10 damage immediately, and continues to burn until destroyed.</td></tr>
 </table>
 
 ### War Zeppelin
 _Mechanical_
-<table>
-<thead><tr><td>Hull Points</td><td>Armour</td><td>Crew Size</td></tr></thead>
-<tr><td>3d6</td><td>10 + 2d6</td><td>3d20</td></tr>
-<tr><td colspan="3"><b>Weapon:</b> 2x Gauss Gun (d12) + Bombs (2d20 blast)</td></tr>
+<table class="statblock">
+<thead><tr><th>Hull Points</th><th>Armour</th><th>Crew Size</th></tr></thead>
+<tr class="statvalue"><td>3d6</td><td>10 + 2d6</td><td>3d20</td></tr>
+<tr class="statfirst"><td colspan="3"><b>Weapon:</b> 2x Gauss Gun (d12) + Bombs (2d20 blast)</td></tr>
 <tr><td colspan="3">Airship production is a mature technology upon the Wall, and the zeppelin armadas maintained by the rival cities are formidable in design. A single war-balloon can easily subjugate a rebellious settlement.</td></tr>
-<tr><td colspan="3"><b>Flammable:</b> if damaged by flames, the War Zeppelin takes an additional 5d10 damage immediately, and continues to burn until destroyed.</td></tr>
+<tr class="statlast"><td colspan="3"><b>Flammable:</b> if damaged by flames, the War Zeppelin takes an additional 5d10 damage immediately, and continues to burn until destroyed.</td></tr>
 </table>
 
 <table>

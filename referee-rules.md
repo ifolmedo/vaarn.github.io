@@ -21,7 +21,7 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 
 **Abilities:** Adversaries have ability bonuses equal to their level, with the corresponding defenses. (**Example**: a Level 4 adversary has an attack bonus of +4 and a defense of 14 in all of its abilities, unless modified by the Referee.)
 
-**Attacks:** Number of attacks an adversary can make per round, and the damage dice rolled for each. Attacks separated by a / symbol are mutually exclusive, the adversary must use one or the other. Attacks joined by a + symbol are multi-attacks, the adversary can use all in the same round.
+**Attack:** Number of attacks an adversary can make per round, and the damage dice rolled for each. Attacks separated by a / symbol are mutually exclusive, the adversary must use one or the other. Attacks joined by a + symbol are multi-attacks, the adversary can use all in the same round.
 
 **Morale:** When adversaries face more danger than expected, the Referee can make a Morale roll by rolling d20 and adding the respective bonus. If the result is less than 15, the adversary flees, hides or attempts to parley. Morale rolls can be triggered by defeating half of an enemy group, their leader or similar.
 

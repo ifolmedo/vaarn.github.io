@@ -35,7 +35,7 @@ A Potency 5 Elixir will have a permanent consequence for a PC, such as giving th
 Brewing requires three elements: a heat source, a pan, and a receptacle for the finished Elixir. The brewing process takes several hours and cannot be truncated - interruptions will spoil the Elixir and render it useless. 
 The ingredients of an Elixir are **one Component**, which must be directly related to the Elixir's intended effect, and a number of **Essences equal to its Potency.** The Essences used must be of **different types.**  
 
-**Example:** *A Potency 3 Elixir can be brewed using one dose each of Blood, Supercoolant, and Mycelium, but not using three doses of Blood.*
+?>**Example:** *A Potency 3 Elixir can be brewed using one dose each of Blood, Supercoolant, and Mycelium, but not using three doses of Blood.*
 
 ## Antidotes
 Antidotes to the venom of toxic creatures can be brewed using the creature's venom as a Component. The Potency of the antidote is decided by the strength of the toxin: a d6 TOX attack requires a Potency 1 antidote, a d8 TOX attack requires a Potency 2 antidote, and so on. Ingesting an antidote prior to battle renders that character immune to the Toxin Dice inflicted by that creature. 

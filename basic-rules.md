@@ -19,7 +19,7 @@ If the save is opposed by another character, then instead of aiming to exceed 15
 If there are situational factors that make a save significantly easier or harder, the referee may grant the roll __advantage__ or __disadvantage__. If a roll has advantage, roll 2d20 and use the better of the two dice. If it has disadvantage, roll 2d20 and use the worse of the two dice.
 
 ## Item Slots
-PCs have a number of item slots **equal to their Constitution defence.** Most items, including light weapons, tools and so on take up 1 slot, but particularly heavy or bulky items like armour or medium to heavy weapons will take up more slots. Groups of small, identical items may be bundled into the same slot, at the referee's discretion. Carrying more items than your slot limit will make your character __Encumbered__, which imposes disadvantage on all physical saves. It is impossible to carry more than 20 slots worth of items.
+PCs have a number of item slots __equal to their Constitution defence__. Most items, including light weapons, tools and so on take up 1 slot, but particularly heavy or bulky items like armour or medium to heavy weapons will take up more slots. Groups of small, identical items may be bundled into the same slot, at the referee's discretion. Carrying more items than your slot limit will make your character __Encumbered__, which imposes disadvantage on all physical saves. It is impossible to carry more than 20 slots worth of items.
 
 ## Combat
 Initiative in combat is decided each turn. All sides of a conflict roll d6, and whichever side rolls higher acts first. Resolve ties in favor of the players.
@@ -33,7 +33,7 @@ Alternatively, an attack roll can also be resolved by the defender rolling a d20
 On a hit, the attacker rolls their weapon's damage die to determine how many __Hit Points__ (__HP__) the defender loses. A bonus damage die of the weapon's type may be added to the roll if the ideal weapon was used against an enemy type.
 
 ## Wounds and Healing
-When a character takes damage and their HP drops below 0, they receive a corresponding **Wound** from the chart below. Their HP remains at a negative value until they are healed, with all subsequent damage incurring more severe Wounds. Wounds occupy item slots. If 10 item slots fill with Wounds, the character dies. A character also dies if any ability defense drops to 0. When a character is healed, their HP recovers as though starting from 0.
+When a character takes damage and their HP drops below 0, they receive a corresponding __Wound__ from the chart below. Their HP remains at a negative value until they are healed, with all subsequent damage incurring more severe Wounds. Wounds occupy item slots. If 10 item slots fill with Wounds, the character dies. A character also dies if any ability defense drops to 0. When a character is healed, their HP recovers as though starting from 0.
 
 |DAMAGE PAST 0HP|WOUND|SLOTS|DESCRIPTION|
 |---------------|-----|-----|-----------|
@@ -60,9 +60,9 @@ When a character takes damage and their HP drops below 0, they receive a corresp
 
 HP is replenished via Short and Long Rests.  
 
-**Short Rest:** quick sit-down, with a ration of water or meal. Replenishes d8 + CON bonus HP.
+__Short Rest:__ quick sit-down, with a ration of water or meal. Replenishes d8 + CON bonus HP.
 
-**Long Rest:** full night’s sleep, with both a ration of water and a meal. This either replenishes all HP or heals one Wound. Ability defenses that have been depleted by enemy attacks replenish at the rate of one point per day.  
+__Long Rest:__ full night’s sleep, with both a ration of water and a meal. This either replenishes all HP or heals one Wound. Ability defenses that have been depleted by enemy attacks replenish at the rate of one point per day.  
 
 If your character is __Deprived__ they cannot benefit from Short or Long Rests. Deprivation can be incurred through many means, but the most common are starvation or thirst.
 
@@ -74,16 +74,17 @@ Biological PCs must drink one ration of water every day. Synthetic PCs must imbi
 Merchants will usually trade an item slots’ worth of goods for similar, putting a premium on rations of water and items of Exotica. There is no set list of prices for goods in Vaarn. The deals characters can strike will depend upon context, the merchant’s disposition, and how persuasive they are. 
 
 ## Mystic Gifts
-Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fungus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are referred to as **Gifts**.
-- Each Mystic Gift uses **one item slot**; this represents the burden these unnatural powers exert on the body of the wielder.
-- Using a Gift costs HP, determined by the Referee once the player describes what they want to accomplish. The baseline cost for using a Gift is **d6 HP.**
+Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fungus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are referred to as __Gifts__
+
+- Each Mystic Gift uses __one item slot__; this represents the burden these unnatural powers exert on the body of the wielder.
+- Using a Gift costs HP, determined by the Referee once the player describes what they want to accomplish. The baseline cost for using a Gift is __d6 HP__.
 - Combat Gifts always hit their target, dealing damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. (Example: paying d6 HP results in a damage roll of d8 + PSY bonus).
 - The same ratio applies when healing an ally using a Gift. Gifts like mind control or force barriers can be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
 
 Mystic Gifts are not earned by gaining Levels; they must be hunted for. Sources of new Gifts include consuming psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, or meditating in front of a hypergeometric obelisk. The Referee can decide. 
 
 ### Psyche Slots
-Psyche slots are an alternative method of tracking Gifts. A PC has psyche slots **equal to their PSY bonus.** Each Gift occupies one psyche slot. If using this method, do not add the PC's PSY bonus to damage or healing caused by their Gifts.
+Psyche slots are an alternative method of tracking Gifts. A PC has psyche slots __equal to their PSY bonus__. Each Gift occupies one psyche slot. If using this method, do not add the PC's PSY bonus to damage or healing caused by their Gifts.
 
 ## Exotica
 Exotica are the strange relics of the many extinct civilizations that preceded your own. Exotica may take the form of weaponry, clothing, tools, or bizarre constructions that are beyond the understanding of mortal minds.
@@ -92,10 +93,11 @@ When a new item of Exotica is found, the Referee may ask for an INT save in orde
 
 ## Advancement
 As PCs adventure in Vaarn, they will grow from novices into seasoned explorers. All new characters start at Level 1. A PC’s maximum Level is 10. When a PC's Level increases:
+
 - They get three points to allocate to any Abilities of their choosing. Abilities may never be raised higher than 20 /+10.
 - They roll a d8 and add the result to the maximum HP.
 
-There are different triggers for Advancement which the Referee may consider using. It is reccomended that a group settles on one of these options before the campaign begins.
+There are different triggers for Advancement which the Referee may consider using. It is recommended that a group settles on one of these options before the campaign begins.
 
 ### Exotica for XP
 PCs advance by trading in Exotica at settlements or oases. Trading in an item of Exotica grants 1 XP to the PC who traded it in. When a PC's XP tally equals their current Level, they advance by one Level and erase their current XP tally.
