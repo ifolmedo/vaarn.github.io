@@ -707,6 +707,32 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>20</td><td>Hegemony Whiskey</td><td>Seating Opposite Gallows</td><td>Hologram Bartender</td></tr>
 </table>
 
+## Fine Dining
+
+<table>
+<thead><th>d20</th><th>Ingredients (2x)</th><th>Main Dish</th><th>Side Dishes (x2)</th><th>Beverage</th></thead>
+<tr><td>1</td><td>Baboon Brains</td><td>Tagine</td><td>Bell Peppers</td><td>Turquoise Wine</td></tr>
+<tr><td>2</td><td>Ghost Pepper</td><td>Curry</td><td>Flatbread</td><td>Umber Wine</td></tr>
+<tr><td>3</td><td>Sandworm Egg</td><td>Stew</td><td>Humous</td><td>Peach Wine</td></tr>
+<tr><td>4</td><td>Pthalo-Jackal Haunch</td><td>Tangia</td><td>Olives</td><td>Xanthine Wine</td></tr>
+<tr><td>5</td><td>Brain Slug</td><td>Soup</td><td>Dates</td><td>Aurum Wine</td></tr>
+<tr><td>6</td><td>Peach Fungus</td><td>Kebab</td><td>Rasins</td><td>Azure Wine</td></tr>
+<tr><td>7</td><td>Skull Pepper</td><td>Omelette</td><td>Yoghurt</td><td>Ashen Wine</td></tr>
+<tr><td>8</td><td>Honeyed Lamb</td><td>Pie</td><td>Falafel</td><td>Pale Wine</td></tr>
+<tr><td>9</td><td>Salt Pork</td><td>Stir-Fry</td><td>Sweet Cucumber</td><td>Sable Wine</td></tr>
+<tr><td>10</td><td>Aubergine</td><td>Pancake</td><td>Honeyed Locusts</td><td>Vaarnish Small Beer</td></tr>
+<tr><td>11</td><td>Spiced Goat</td><td>Sausage</td><td>Baba Ghanoush</td><td>Orange Juice</td></tr>
+<tr><td>12</td><td>Leopard Worm</td><td>Meatballs</td><td>Almonds</td><td>Lemon Juice</td></tr>
+<tr><td>13</td><td>Land Parrot</td><td>Rechta</td><td>Fried Potatoes</td><td>Alabaster Beer</td></tr>
+<tr><td>14</td><td>Crayfish Egg</td><td>Couscous</td><td>Vinegar Egg</td><td>Emerald Beer</td></tr>
+<tr><td>15</td><td>Fennec Fox</td><td>Pastilla</td><td>Rice</td><td>Lazulite Beer</td></tr>
+<tr><td>16</td><td>Cliff Ghar</td><td>Brik</td><td>Crayfish</td><td>Dusken Champagne</td></tr>
+<tr><td>17</td><td>Land Shark</td><td>Shakshouka</td><td>Blue Cheese</td><td>Black Coffee</td></tr>
+<tr><td>18</td><td>Yurling</td><td>Stuffed Peppers</td><td>Persimmon</td><td>Honeyed Milk</td></tr>
+<tr><td>19</td><td>Blood Orange</td><td>Sandwich</td><td>Jellied Eels</td><td>Lambent Whiskey</td></tr>
+<tr><td>20</td><td>Deacon Pepper</td><td>Wonton</td><td>Sand Oysters</td><td>Lotus Tea</td></tr>
+</table>
+
 ## NPC Creation
 ---
 
