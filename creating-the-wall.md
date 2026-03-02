@@ -17,17 +17,15 @@
 
 5. Now that you have a rough map of the region, sketch out the routes between Locations. Even-numbered Locations connect to all their neighbouring Locations via safe routes. Two odd-numbered Locations connect via a route with a [hazard](creating-the-wall.md#routes). Use the [Routes table](creating-the-wall.md#routes) to generate descriptors for the route if desired. Roll 1d6 to determine the base [travel time](wall-travel.md#travel-between-locations) in days (climbing upwards takes double the base time, climbing down takes half the base time).
 
-6. The following locations will always connect to an ikorvein, an alternative method of transport through the Wall: Beetle Ranch, Needle Ship Port, Low Wall Settlement, Sargattean Fort, Monastery, Way Station, Upper Wall Settlement, and Weep (Both). Connect them with dotted lines to indicate the vein routes. A Needle Ship (p.43) can sail between two locations within hours.
+6. The following locations will always connect to an ikorvein, an alternative method of transport through the Wall: [Beetle Ranch](creating-the-wall.md#beetle-ranch), [Needle Ship Port](creating-the-wall.md#needle-ship-port), [Low Wall Settlement](creating-the-wall.md#low-wall-settlement), [Sargattean Fort](creating-the-wall.md#sargattean-fort), [Monastery](creating-the-wall.md#monastery), [Way Station](creating-the-wall.md#way-station), [Upper Wall Settlement](creating-the-wall.md#upper-wall-settlement), and [Weep](creating-the-wall.md#weeps) (Both). Connect them with dotted lines to indicate the vein routes. A [Needle Ship](creating-the-wall.md#needle-ship) can sail between two locations within hours.
 
 7. Populate the region with encounter tables. The Wall's ecology changes as one climbs through its strata, so it may be worth creating multiple smaller encounter tables for each layer. Examples can be found on p.62.
 
 8. Look at any settlements or outposts in the region, and attach a few named NPCs to them. Use the table on p.62 for inspiration.
 
-<a href="/#/creating-the-wall?id="></a>
-
 ## Location Types
 <table>
-<thead><td>1d20</td><td>LOW WALL LOCATION</td><td>MID-WALL LOCATION</td><td>UPPER WALL LOCATION</td></thead>
+<thead><th>d20</th><th>LOW WALL LOCATION</th><th>MID-WALL LOCATION</th><th>UPPER WALL LOCATION</th></thead>
 <tr><td>1</td><td rowspan="2"><a href="/#/creating-the-wall?id=beetle-ranch">Beetle Ranch</a></td><td><a href="/#/creating-the-wall?id=zeppelin-port">Zeppelin Port</a></td><td><a href="/#/creating-the-wall?id=crash-site">Crash Site</a></td></tr>
 <tr><td>2</td><td><a href="/#/creating-the-wall?id=weeps">Weep: Sable Ikor</a>*</td><td rowspan="2"><a href="/#/creating-the-wall?id=cloudspire">Cloudspire</a></td></tr>
 <tr><td>3</td><td><a href="/#/creating-the-wall?id=crash-site">Crash Site</a></td><td><a href="/#/creating-the-wall?id=weeps">Weep: Pale Ikor</a>*</td></tr>
@@ -52,7 +50,7 @@
 
 ## Routes
 <table>
-<thead><td>1d20</td><td>DESCRIPTOR A</td><td>DESCRIPTOR B</td><td>ROUTE MAPPED BY</td><td>ROUTE HAZARD</td></thead>
+<thead><th>d20</th><th>DESCRIPTOR A</th><th>DESCRIPTOR B</th><th>ROUTE MAPPED BY</th><th>ROUTE HAZARD</th></thead>
 <tr><td>1</td><td>Windswept</td><td>Bridges</td><td>Fugitive Poet</td><td rowspan="10"><a href="/#/creating-the-wall?id=lair">Monster Lair</a></td></tr>
 <tr><td>2</td><td>Verdant</td><td>Chasms</td><td>Beetle Ranchers</td></tr>
 <tr><td>3</td><td>Mouldering</td><td>Labyrinths</td><td>Goat Herders</td></tr>
@@ -77,7 +75,7 @@
 
 ## Beetle Ranch
 <table>
-<thead><td>1d20</td><td>LOCATION</td><td>THE BEETLES (x2)</td><td>THE STAFF</td><td>REPUTATION</td></thead>
+<thead><th>d20</th><th>LOCATION</th><th>THE BEETLES (x2)</th><th>THE STAFF</th><th>REPUTATION</th></thead>
 <tr><td>1</td><td>Inside Dead Tree</td><td>Tasty</td><td>Rude and Surly</td><td rowspan="2">Bottom of the Heap</td></tr>
 <tr><td>2</td><td>Behind Ikorfall</td><td>Overfed</td><td>Enslaved Debtors</td></tr>
 <tr><td>3</td><td>Inside Huge Vent</td><td>Hardy</td><td>Superstitious</td><td rowspan="2">No Better Than Bandits</td></tr>
@@ -95,13 +93,13 @@
 <tr><td>15</td><td>Heavily Guarded</td><td>Hibernating</td><td>Talkative Idiots</td><td rowspan="2">Respected by All</td></tr>
 <tr><td>16</td><td>Easy to Miss</td><td>Mad</td><td>Afraid of the Beetles</td></tr>
 <tr><td>17</td><td>Inside Huge Carcass</td><td>Carnivorous</td><td>On Strike</td><td rowspan="2">Best of the Best</td></tr>
-<tr><td>18</td><td>Near Settlement (p.40)</td><td>Out of Control</td><td>Joyless Gluttons</td></tr>
-<tr><td>19</td><td>Near Way-station (p.48)</td><td>Stubborn</td><td>Young and Lazy</td><td rowspan="2">Way Too Expensive, For Patricians Only</td></tr>
-<tr><td>20</td><td>Inside Giant Tree (p34)</td><td>Absurdly Pampered</td><td>Worship the Beetles</td></tr>
+<tr><td>18</td><td><a href="/#/creating-the-wall?id=low-wall-settlement">Near Settlement</a></td><td>Out of Control</td><td>Joyless Gluttons</td></tr>
+<tr><td>19</td><td><a href="/#/creating-the-wall?id=way-station">Near Way-station</a></td><td>Stubborn</td><td>Young and Lazy</td><td rowspan="2">Way Too Expensive, For Patricians Only</td></tr>
+<tr><td>20</td><td><a href="/#/creating-the-wall?id=giant-tree">Inside Giant Tree</a></td><td>Absurdly Pampered</td><td>Worship the Beetles</td></tr>
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">The Ranch Owner</td><td>Envy (Property)</td><td rowspan="2">Owner of Rival Ranch</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">The Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Rival Rancher’s Spouse</td></tr>
@@ -135,7 +133,7 @@ _Biological_
 
 ## Crash Site
 <table>
-<thead><td>1d20</td><td>VEHICLE</td><td>CARGO</td><td>CAUSE OF CRASH</td><td>NOW</td></thead>
+<thead><th>d20</th><th>VEHICLE</th><th>CARGO</th><th>CAUSE OF CRASH</th><th>NOW</th></thead>
 <tr><td>1</td><td>House Balloon</td><td>Toxins</td><td>Prismatic Tempest</td><td>Deliberately Forgotten</td></tr>
 <tr><td>2</td><td>War Zeppelin (Sargattea)</td><td>Prisoners</td><td>Falling Orbital Debris</td><td>Often Sung About</td></tr>
 <tr><td>3</td><td>War Zeppelin (Ostriel)</td><td>Gladiators</td><td>Falling Piece of the Wall</td><td>Believed Cursed</td></tr>
@@ -148,24 +146,24 @@ _Biological_
 <tr><td>10</td><td>Scout Balloon (Ostriel)</td><td>Spies</td><td>Ran out of Fuel</td><td>Meeting Spot for Lovers</td></tr>
 <tr><td>11</td><td>Hegemony Ornithopter</td><td>Wounded Soldiers</td><td>Engine Failed</td><td>Tourist Attraction</td></tr>
 <tr><td>12</td><td>Autarch’s Sky Yacht</td><td>Parasites</td><td>Sandstorm</td><td>Shunned By All</td></tr>
-<tr><td>13</td><td>Autarchy Troopship</td><td>Soldiers</td><td>Suicidal Pilot</td><td>Sky Pirate Den (p.45)</td></tr>
+<tr><td>13</td><td>Autarchy Troopship</td><td>Soldiers</td><td>Suicidal Pilot</td><td><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirate Den</a></td></tr>
 <tr><td>14</td><td>Bounty Hunter’s Balloon</td><td>Bombs</td><td>Reckless Pilot</td><td>Krypteia Safehouse</td></tr>
-<tr><td>15</td><td>Alchemist’s Balloon</td><td>Edible Grubs</td><td>Deliberate; Elaborate Fraud</td><td>Leveller Camp (p.39)</td></tr>
+<tr><td>15</td><td>Alchemist’s Balloon</td><td>Edible Grubs</td><td>Deliberate; Elaborate Fraud</td><td><a href="/#/creating-the-wall?id=leveller-camp">Leveller Camp</a></td></tr>
 <tr><td>16</td><td>Floating Monastery</td><td>Memory Crystals</td><td>Autopilot Failure</td><td>Painter’s Campsite</td></tr>
-<tr><td>17</td><td>Floating Fortress</td><td>Sacred Tablets</td><td>Biotech Infestation</td><td>Albino Ape Den (p.38)</td></tr>
-<tr><td>18</td><td>Needle Ship</td><td>Wine</td><td>Attack (Sky Pirates)</td><td>Chattersnipe Lair (p.38)</td></tr>
-<tr><td>19</td><td>Ancient Helicopter</td><td>Unquiet Dead</td><td>Attack (Harpies)</td><td>Drillbill Nest (p.38)</td></tr>
-<tr><td>20</td><td>Ancient Spacecraft</td><td>Exotica</td><td>Attack (Monster)</td><td>Goliath Gecko Den (p.38)</td></tr>
+<tr><td>17</td><td>Floating Fortress</td><td>Sacred Tablets</td><td>Biotech Infestation</td><td><a href="/#/creating-the-wall?id=lair">Albino Ape Den</a></td></tr>
+<tr><td>18</td><td>Needle Ship</td><td>Wine</td><td>Attack (Sky Pirates)</td><td><a href="/#/creating-the-wall?id=lair">Chattersnipe Lair</a></td></tr>
+<tr><td>19</td><td>Ancient Helicopter</td><td>Unquiet Dead</td><td>Attack (Harpies)</td><td><a href="/#/creating-the-wall?id=lair">Drillbill Nest</a></td></tr>
+<tr><td>20</td><td>Ancient Spacecraft</td><td>Exotica</td><td>Attack (Monster)</td><td><a href="/#/creating-the-wall?id=lair">Goliath Gecko Den</a></td></tr>
 </table>
 
 ## Cloudspire
 <table>
-<thead><td>1d20</td><td>HEIGHT</td><td>APPEARANCE (x2)</td><td>INSIDE (x2)</td><td>SUMMIT RUMOUR</td></thead>
+<thead><th>d20</th><th>HEIGHT</th><th>APPEARANCE (x2)</th><th>INSIDE (x2)</th><th>SUMMIT RUMOUR</th></thead>
 <tr><td>1</td><td rowspan="5">Broken (Only extends into troposphere)</td><td>Knife-like</td><td>Many Bird Nests</td><td rowspan="2">Home of a God</td></tr>
 <tr><td>2</td><td>Mirrored</td><td>Roosting Bats</td></tr>
 <tr><td>3</td><td>Antennae-studded</td><td>Ancient Computers</td><td rowspan="2">Haunted by Quantum Daemon</td></tr>
 <tr><td>4</td><td>Vine-wrapped</td><td>Vine-wrapped Walls</td></tr>
-<tr><td>5</td><td>Tilting</td><td>Missing Floors</td><td rowspan="2">Lair of Voidmaw (p.60)</td></tr>
+<tr><td>5</td><td>Tilting</td><td>Missing Floors</td><td rowspan="2"><a href="/#/creating-the-wall?id=lair">Lair of Voidmaw</a></td></tr>
 <tr><td>6</td><td rowspan="5">Small (Extends into stratosphere)</td><td>Burned</td><td>Burned</td></tr>
 <tr><td>7</td><td>Wires Everywhere</td><td>Gas Vents</td><td rowspan="2">Secret Garden, Planted by Autarch</td></tr>
 <tr><td>8</td><td>Rusting</td><td>Rusting Walls</td></tr>
@@ -185,57 +183,57 @@ _Biological_
 
 ## Giant Tree
 <table>
-<thead><td>1d20</td><td>TRUNK</td><td>LEAVES</td><td>FRUIT</td><td>OTHER FEATURE</td></thead>
+<thead><th>d20</th><th>TRUNK</th><th>LEAVES</th><th>FRUIT</th><th>OTHER FEATURE</th></thead>
 <tr><td>1</td><td>Dark and Rough</td><td>Star-shaped</td><td>Bears None</td><td>Wild Beetle Herd</td></tr>
-<tr><td>2</td><td>Brindled</td><td>Rust Orange</td><td>Covered in Itchy Hairs</td><td>Graves in Roots</td></tr>
-<tr><td>3</td><td>Burn-scarred</td><td>Blood Red</td><td>Glass-like</td><td>Graves in Canopy</td></tr>
+<tr><td>2</td><td>Brindled</td><td>Rust Orange</td><td>Covered in Itchy Hairs</td><td><a href="/#/creating-regions?id=grave">Graves in Roots</a></td></tr>
+<tr><td>3</td><td>Burn-scarred</td><td>Blood Red</td><td>Glass-like</td><td><a href="/#/creating-regions?id=grave">Graves in Canopy</a></td></tr>
 <tr><td>4</td><td>Luminous</td><td>Luminous</td><td>Irresistible to Gibbons</td><td>Machinery Inside Trunk</td></tr>
 <tr><td>5</td><td>Warm and Fleshy</td><td>Fuchsia</td><td>Irresistible to Wasps</td><td>Shrine in Roots</td></tr>
 <tr><td>6</td><td>Warty</td><td>Hand-shaped</td><td>Honey-flavoured</td><td>Shrine in Canopy</td></tr>
 <tr><td>7</td><td>Full of Holes</td><td>Circular</td><td>Decays Immediately</td><td>Observatory in Canopy</td></tr>
-<tr><td>8</td><td>Like Knotted Rope</td><td>Square</td><td>Intoxicating</td><td>Crash Site in Canopy (p.31)</td></tr>
+<tr><td>8</td><td>Like Knotted Rope</td><td>Square</td><td>Intoxicating</td><td><a href="/#/creating-the-wall?id=crash-site">Crash Site in Canopy</a></td></tr>
 <tr><td>9</td><td>Smooth and Pale</td><td>Sunshine Yellow</td><td>Psychedelic</td><td>Secret Weapons Cache</td></tr>
 <tr><td>10</td><td>Needle-coated</td><td>Sharp</td><td>Spiny</td><td>Deserters Hide Here</td></tr>
-<tr><td>11</td><td>Vascular</td><td>Waxed</td><td>Square</td><td>Albino Ape Den (p.38)</td></tr>
-<tr><td>12</td><td>Lichen-coated</td><td>Bearded</td><td>Poisonous (d8 TOX)</td><td>Carnifex Mantis Lair (p.38)</td></tr>
-<tr><td>13</td><td>Like Stone</td><td>Grey and Slender</td><td>Black and Oily</td><td>Chattersnipe Nest (p.38)</td></tr>
-<tr><td>14</td><td>Fungus-riddled</td><td>Serrated</td><td>House-sized</td><td>Flyfolk Colony (p.38)</td></tr>
-<tr><td>15</td><td>Vine-wrapped</td><td>Tooth White</td><td>Plastic-coated</td><td>Goliath Gecko Lair (p.38)</td></tr>
-<tr><td>16</td><td>Graffitied</td><td>Mirrored</td><td>Parasitic</td><td>Beetle Ranch (p.30)</td></tr>
-<tr><td>17</td><td>Metallic</td><td>Metallic</td><td>Synthetic</td><td>Stratosfolk Village (p.46)</td></tr>
-<tr><td>18</td><td>Jagged</td><td>Helix-shaped</td><td>Hard-shelled</td><td>Harpy Roost (p.36)</td></tr>
-<tr><td>19</td><td>Golden</td><td>Golden</td><td>Pungent</td><td>Monastery (p.41)</td></tr>
-<tr><td>20</td><td>Zebra Striped</td><td>Sky Blue</td><td>Addictive</td><td>Zeppelin Port (p.50)</td></tr>
+<tr><td>11</td><td>Vascular</td><td>Waxed</td><td>Square</td><td><a href="/#/creating-the-wall?id=lair">Albino Ape Den</a></td></tr>
+<tr><td>12</td><td>Lichen-coated</td><td>Bearded</td><td>Poisonous (d8 TOX)</td><td><a href="/#/creating-the-wall?id=lair">Carnifex Mantis Lair</a></td></tr>
+<tr><td>13</td><td>Like Stone</td><td>Grey and Slender</td><td>Black and Oily</td><td><a href="/#/creating-the-wall?id=lair">Chattersnipe Nest</a></td></tr>
+<tr><td>14</td><td>Fungus-riddled</td><td>Serrated</td><td>House-sized</td><td><a href="/#/creating-the-wall?id=lair">Flyfolk Colony</a></td></tr>
+<tr><td>15</td><td>Vine-wrapped</td><td>Tooth White</td><td>Plastic-coated</td><td><a href="/#/creating-the-wall?id=lair">Goliath Gecko Lair</a></td></tr>
+<tr><td>16</td><td>Graffitied</td><td>Mirrored</td><td>Parasitic</td><td><a href="/#/creating-the-wall?id=beetle-ranch">Beetle Ranch</a></td></tr>
+<tr><td>17</td><td>Metallic</td><td>Metallic</td><td>Synthetic</td><td><a href="/#/creating-the-wall?id=stratosfolk-village">Stratosfolk Village</a></td></tr>
+<tr><td>18</td><td>Jagged</td><td>Helix-shaped</td><td>Hard-shelled</td><td><a href="/#/creating-the-wall?id=harpy-roost">Harpy Roost</a></td></tr>
+<tr><td>19</td><td>Golden</td><td>Golden</td><td>Pungent</td><td><a href="/#/creating-the-wall?id=monastery">Monastery</a></td></tr>
+<tr><td>20</td><td>Zebra Striped</td><td>Sky Blue</td><td>Addictive</td><td><a href="/#/creating-the-wall?id=zeppelin-port">Zeppelin Port</a></td></tr>
 </table>
 
 ## Hanging Jungle
 <table>
-<thead><td>1d20</td><td>AMBIENCE (x2)</td><td>FLORA (x3)</td><td>FAUNA (x3)</td><td>HIDDEN FEATURE</td></thead>
+<thead><th>d20</th><th>AMBIENCE (x2)</th><th>FLORA (x3)</th><th>FAUNA (x3)</th><th>HIDDEN FEATURE</th></thead>
 <tr><td>1</td><td>Foggy</td><td>Spikemoss</td><td>Wall Goats</td><td>Ancient Hunter’s Hide</td></tr>
 <tr><td>2</td><td>Tangled</td><td>Clubmoss</td><td>Sloths</td><td>Lost Needle Ship Dock</td></tr>
 <tr><td>3</td><td>Moss-furred</td><td>Colossus Fern</td><td>Winged Salamanders</td><td>Vine-choked Shrine</td></tr>
 <tr><td>4</td><td>Labyrinthine</td><td>Jewelled Orchid</td><td>Parrots</td><td>Smuggler’s Stash</td></tr>
 <tr><td>5</td><td>Shadowed</td><td>Pontiff Orchid</td><td>Tree Frogs</td><td>Ascetic Hermit’s House</td></tr>
 <tr><td>6</td><td>Wind-swept</td><td>Spider Orchid</td><td>Giant Damselflies</td><td>Disgraced Poet’s Colony</td></tr>
-<tr><td>7</td><td>Stagnant</td><td>Widow’s Palm</td><td>Geckos</td><td>Leveller Camp (p.39)</td></tr>
-<tr><td>8</td><td>Slimy</td><td>Feathered Vines</td><td>Sky Crabs</td><td>Crash Site (p.31)</td></tr>
-<tr><td>9</td><td>Worm-riddled</td><td>Pyramid Tree</td><td>Ibex</td><td>Monastery (p.41)</td></tr>
-<tr><td>10</td><td>Sodden</td><td>Ficklefruit Tree</td><td>Flying Monkeys</td><td>Krypteia Prison (p.37)</td></tr>
+<tr><td>7</td><td>Stagnant</td><td>Widow’s Palm</td><td>Geckos</td><td><a href="/#/creating-the-wall?id=leveller-camp">Leveller Camp</a></td></tr>
+<tr><td>8</td><td>Slimy</td><td>Feathered Vines</td><td>Sky Crabs</td><td><a href="/#/creating-the-wall?id=crash-site">Crash Site</a></td></tr>
+<tr><td>9</td><td>Worm-riddled</td><td>Pyramid Tree</td><td>Ibex</td><td><a href="/#/creating-the-wall?id=monastery">Monastery</a></td></tr>
+<tr><td>10</td><td>Sodden</td><td>Ficklefruit Tree</td><td>Flying Monkeys</td><td><a href="/#/creating-the-wall?id=krypteia-prison">Krypteia Prison</a></td></tr>
 <tr><td>11</td><td>Fungal</td><td>Stormshade Fern</td><td>Tree Kangaroos</td><td>Krypteia Safehouse</td></tr>
-<tr><td>12</td><td>Thorny</td><td>Titan Bromeliad</td><td>Giant Butterflies</td><td>Sky Pirate Den (p.45)</td></tr>
-<tr><td>13</td><td>Braided</td><td>Legiontree</td><td>Wall Wasps</td><td>Stratosfolk Village (p.46)</td></tr>
-<tr><td>14</td><td>Lush</td><td>Cloud Cactus</td><td>Tarsiers</td><td>Albino Ape Den (p.38)</td></tr>
-<tr><td>15</td><td>Contorted</td><td>Hanging Oak</td><td>Giant Genets</td><td>Dreamsnake Lair (p.38)</td></tr>
-<tr><td>16</td><td>Pendulous</td><td>Autarch’s Beard Tree</td><td>Silky Anteaters</td><td>Goliath Gecko Lair (p.38)</td></tr>
-<tr><td>17</td><td>Swaying</td><td>Rot-glob Tree</td><td>Toucans</td><td>Myrmidon Beetle Lair (p.38)</td></tr>
-<tr><td>18</td><td>Creaking</td><td>Helix Vines</td><td>Leaf-cutter Ants</td><td>Ogre Harpy Lair (p.38)</td></tr>
-<tr><td>19</td><td>Fluorescent</td><td>Bird’s Nest Fern</td><td>Tarantulas</td><td>Chattersnipe Nest (p.38)</td></tr>
-<tr><td>20</td><td>Strangling</td><td>Coiled Creeper</td><td>Stinkbirds</td><td>Flyfolk Colony (p.38)</td></tr>
+<tr><td>12</td><td>Thorny</td><td>Titan Bromeliad</td><td>Giant Butterflies</td><td><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirate Den</a></td></tr>
+<tr><td>13</td><td>Braided</td><td>Legiontree</td><td>Wall Wasps</td><td><a href="/#/creating-the-wall?id=stratosfolk-village">Stratosfolk Village</a></td></tr>
+<tr><td>14</td><td>Lush</td><td>Cloud Cactus</td><td>Tarsiers</td><td><a href="/#/creating-the-wall?id=lair">Albino Ape Den</a></td></tr>
+<tr><td>15</td><td>Contorted</td><td>Hanging Oak</td><td>Giant Genets</td><td><a href="/#/creating-the-wall?id=lair">Dreamsnake Lair</a></td></tr>
+<tr><td>16</td><td>Pendulous</td><td>Autarch’s Beard Tree</td><td>Silky Anteaters</td><td><a href="/#/creating-the-wall?id=lair">Goliath Gecko Lair</a></td></tr>
+<tr><td>17</td><td>Swaying</td><td>Rot-glob Tree</td><td>Toucans</td><td><a href="/#/creating-the-wall?id=lair">Myrmidon Beetle Lair</a></td></tr>
+<tr><td>18</td><td>Creaking</td><td>Helix Vines</td><td>Leaf-cutter Ants</td><td><a href="/#/creating-the-wall?id=lair">Ogre Harpy Lair</a></td></tr>
+<tr><td>19</td><td>Fluorescent</td><td>Bird’s Nest Fern</td><td>Tarantulas</td><td><a href="/#/creating-the-wall?id=lair">Chattersnipe Nest</a></td></tr>
+<tr><td>20</td><td>Strangling</td><td>Coiled Creeper</td><td>Stinkbirds</td><td><a href="/#/creating-the-wall?id=lair">Flyfolk Colony</a></td></tr>
 </table>
 
 ## Harpy Roost
 <table>
-<thead><td>1d20</td><td>APPEARANCE (x2)</td><td>ROOST SIGIL</td><td>REPUTATION</td><td>DARK SECRET</td></thead>
+<thead><th>d20</th><th>APPEARANCE (x2)</th><th>ROOST SIGIL</th><th>REPUTATION</th><th>DARK SECRET</th></thead>
 <tr><td>1</td><td>Looming</td><td>Widow Spider</td><td>Card Cheats</td><td rowspan="2">Chatelaine Plots Against the Queen</td></tr>
 <tr><td>2</td><td>Messy</td><td>Black Orchid</td><td>Diseased</td></tr>
 <tr><td>3</td><td>Battle-scarred</td><td>Gutted Carp</td><td>Liars</td><td rowspan="2">Chatelaine Plots Against the Krypteia</td></tr>
@@ -244,7 +242,7 @@ _Biological_
 <tr><td>6</td><td>Hung with Charms</td><td>Hourglass</td><td>Petty</td></tr>
 <tr><td>7</td><td>Hung with Corpses</td><td>Crossed Arrows</td><td>Two-Faced</td><td rowspan="2">Chatelaine Gone Mad; Kept Hidden</td></tr>
 <tr><td>8</td><td>Collapsing</td><td>Frowning Titan</td><td>Melancholy</td></tr>
-<tr><td>9</td><td>Spiralling</td><td>Solar Eclipse</td><td>Idiots</td><td rowspan="2">Chatelaine Controlled by Janus Moth (p.58)</td></tr>
+<tr><td>9</td><td>Spiralling</td><td>Solar Eclipse</td><td>Idiots</td><td rowspan="2"><a href="/#/wall-bestiary?id=janus-moth">Chatelaine Controlled by Janus Moth</a></td></tr>
 <tr><td>10</td><td>Covered in Trees</td><td>Leaping Panther</td><td>Rude</td></tr>
 <tr><td>11</td><td>Square and Bulky</td><td>Maiden Moon</td><td>Drug Addled</td><td rowspan="2">Eldest Daughter Cannot Fly</td></tr>
 <tr><td>12</td><td>Flower Gardens</td><td>Twinned Snakes</td><td>Obsessive</td></tr>
@@ -259,7 +257,7 @@ _Biological_
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">The Chatelaine</td><td>Envy (Property)</td><td rowspan="2">Chatelaine’s Maid in Waiting</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Chatelaine’s First Husband</td><td>Love (Forbidden)</td><td rowspan="2">Chatelaine’s Bodyguard</td></tr>
@@ -284,7 +282,7 @@ _Biological_
 
 ## Krypteia Prison
 <table>
-<thead><td>1d20</td><td>STRUCTURE</td><td>PRISONERS (x2)</td><td>GUARDS (x2)</td><td>CRUELTY (x2)</td></thead>
+<thead><th>d20</th><th>STRUCTURE</th><th>PRISONERS (x2)</th><th>GUARDS (x2)</th><th>CRUELTY (x2)</th></thead>
 <tr><td>1</td><td>Ominous</td><td>All Perished</td><td>All Dead</td><td>Regular Beatings</td></tr>
 <tr><td>2</td><td>Concealed</td><td>Driven Mad</td><td>Completely Insane</td><td>Simulated Death</td></tr>
 <tr><td>3</td><td>Dismal</td><td>Sargattean Guardsmen</td><td>Brainwashed</td><td>Sensory Deprivation</td></tr>
@@ -296,20 +294,20 @@ _Biological_
 <tr><td>9</td><td>Electrified</td><td>A Powerful Chatelaine</td><td>A Sadistic Lithling</td><td>Overheated Cells</td></tr>
 <tr><td>10</td><td>Invisible</td><td>Flightless Harpies</td><td>Automated Drones</td><td>Freezing Cells</td></tr>
 <tr><td>11</td><td>Mist-shrouded</td><td>Accused Assassins</td><td>Threatening Holograms</td><td>Tiny Cells</td></tr>
-<tr><td>12</td><td>In Giant Tree (p.34)</td><td>Faa Nomads</td><td>Gun-worshippers</td><td>Prisoners Held Immobile</td></tr>
+<tr><td>12</td><td><a href="/#/creating-the-wall?id=giant-tree">In Giant Tree</a></td><td>Faa Nomads</td><td>Gun-worshippers</td><td>Prisoners Held Immobile</td></tr>
 <tr><td>13</td><td>Beneath Ikorlake</td><td>Science-Mystics</td><td>Hired Cacklemaw</td><td>Mind-Control Drugs</td></tr>
 <tr><td>14</td><td>Rusting</td><td>Planeyfolk</td><td>Rogue Faa</td><td>Psychic Interrogations</td></tr>
 <tr><td>15</td><td>Sterile</td><td>Titan Cultists</td><td>Sargattean Deserters</td><td>Ritual Bloodletting</td></tr>
 <tr><td>16</td><td>Inverted</td><td>Cacklemaw Raiders</td><td>Planeyfolk</td><td>Ritual Tattooing</td></tr>
 <tr><td>17</td><td>Looming</td><td>Lithling Scholars</td><td>Secret Levellers</td><td>Rampant Diseases</td></tr>
 <tr><td>18</td><td>Iridescent</td><td>Stratosfolk</td><td>Harpy Warriors</td><td>Unsettling Diet</td></tr>
-<tr><td>19</td><td>Floating</td><td>A Quantum Daemon</td><td>Trained Monster (p.38)</td><td>Starvation</td></tr>
+<tr><td>19</td><td>Floating</td><td>A Quantum Daemon</td><td><a href="/#/creating-the-wall?id=lair">Trained Monster</a></td><td>Starvation</td></tr>
 <tr><td>20</td><td>Boring</td><td>Mycomorphs</td><td>Krypteia Priestess</td><td>Held in Darkness</td></tr>
 </table>
 
 ## Lair
 <table>
-<thead><td>1d20</td><td>INHABITANTS</td><td>LOCATION</td><td>OMEN</td></thead>
+<thead><th>d20</th><th>INHABITANTS</th><th>LOCATION</th><th>OMEN</th></thead>
 <tr><td>1</td><td>2d8 Albino Apes</td><td>High Hidden Nests</td><td>White Turds</td></tr>
 <tr><td>2</td><td>2d8 Cannon Beetles</td><td>Derelict Fort</td><td>Smell of Sulphur</td></tr>
 <tr><td>3</td><td>Carnifex Mantis</td><td>Inside Ceiling Vent</td><td>A Severed Limb</td></tr>
@@ -333,17 +331,17 @@ _Biological_
 </table>
 
 <table>
-<thead><td>1d12</td><td>CREATURE ACTIVITY</td><td>LAIR QUIRK</td></thead>
+<thead><th>1d12</th><th>CREATURE ACTIVITY</th><th>LAIR QUIRK</th></thead>
 <tr><td>1</td><td>In Combat (roll again for opponent)</td><td>Exotica Hidden In Lair</td></tr>
 <tr><td>2</td><td>Sleeping / Motionless</td><td>Cybernetic Implant Hidden in Lair</td></tr>
 <tr><td>3</td><td>Sheltering / Hiding</td><td>Source of Mystic Gift Hidden in Lair</td></tr>
 <tr><td>4</td><td>Repairing Lair</td><td>Site of Worship by Locals</td></tr>
 <tr><td>5</td><td>Hunting / Scavenging</td><td>Site of Local Coming-of-Age Ritual</td></tr>
-<tr><td>6</td><td>Patrolling / Travelling</td><td>Leveller Camp (p.39) Have Learned to Tame Monsters</td></tr>
+<tr><td>6</td><td>Patrolling / Travelling</td><td><a href="/#/creating-the-wall?id=leveller-camp">Leveller Camp Have Learned to Tame Monsters</a></td></tr>
 <tr><td>7</td><td>Basking / Resting</td><td>Inedible Lithling Naturalist Observing Monsters</td></tr>
 <tr><td>8</td><td>Squabbling / Infighting</td><td>Staked Out By Big Game Hunter and Their Assistants</td></tr>
 <tr><td>9</td><td>Eating / Storing Food</td><td>Krypteia Radio Transmitter Hidden Inside</td></tr>
-<tr><td>10</td><td>Defecating / Venting</td><td>Monsters Possessed by Janus Moths (p.58)</td></tr>
+<tr><td>10</td><td>Defecating / Venting</td><td><a href="/#/wall-bestiary?id=janus-moth">Monsters Possessed by Janus Moths</a></td></tr>
 <tr><td>11</td><td>Psychedelic State / Ritual</td><td>Monsters Wear Intellect-Boosting Hats, Can Speak</td></tr>
 <tr><td>12</td><td>Injured / Ill</td><td>Monsters Sick and Weak (1 HP per Level)</td></tr>
 </table>
@@ -351,10 +349,10 @@ _Biological_
 
 ## Leveller Camp
 <table>
-<thead><td>1d20</td><td>HIDDEN LOCATION</td><td>CAMP MOOD</td><td>ACTIVITY</td><td>THEY WANT TO</td></thead>
-<tr><td>1</td><td>Inside Dead Tree</td><td>Jubilant</td><td>Group Study</td><td rowspan="2">Rescue Comrade from Sargattean Fort (p.44)</td></tr>
+<thead><th>d20</th><th>HIDDEN LOCATION</th><th>CAMP MOOD</th><th>ACTIVITY</th><th>THEY WANT TO</th></thead>
+<tr><td>1</td><td>Inside Dead Tree</td><td>Jubilant</td><td>Group Study</td><td rowspan="2"><a href="/#/creating-the-wall?id=sargattean-fort">Rescue Comrade from Sargattean Fort</a></td></tr>
 <tr><td>2</td><td>Underneath False Floor</td><td>Frustrated</td><td>Weapons Drill</td></tr>
-<tr><td>3</td><td>Concealed in Pipes</td><td>Morose</td><td>Card Game</td><td rowspan="2">Rescue Comrade from Krypteia Prison (p.37)</td></tr>
+<tr><td>3</td><td>Concealed in Pipes</td><td>Morose</td><td>Card Game</td><td rowspan="2"><a href="/#/creating-the-wall?id=krypteia-prison">Rescue Comrade from Krypteia Prison</a></td></tr>
 <tr><td>4</td><td>Behind Ikorfall</td><td>Intoxicated</td><td>Dice Game</td></tr>
 <tr><td>5</td><td>Inside Giant Shell</td><td>Fervent</td><td>Lecture</td><td rowspan="2">Track down Lost Leveller Cell</td></tr>
 <tr><td>6</td><td>Concealed by Hologram</td><td>Anxious</td><td>Hunting Food</td></tr>
@@ -362,20 +360,20 @@ _Biological_
 <tr><td>8</td><td>Basement of Ruined Fort</td><td>Afraid</td><td>Patrolling</td></tr>
 <tr><td>9</td><td>In Rusting Cavern</td><td>Weary</td><td>Waiting</td><td rowspan="2">Locate Suspected Spy Amongst Them</td></tr>
 <tr><td>10</td><td>Beneath Ikorlake</td><td>Tranquil</td><td>Stalking</td></tr>
-<tr><td>11</td><td>Hypergeometric Room</td><td>Hungry</td><td>Listening</td><td rowspan="2">Attack a Harpy Roost (p.36)</td></tr>
+<tr><td>11</td><td>Hypergeometric Room</td><td>Hungry</td><td>Listening</td><td rowspan="2"><a href="/#/creating-the-wall?id=harpy-roost">Attack a Harpy Roost</a></td></tr>
 <tr><td>12</td><td>Inside Forbidden Grave</td><td>Mutinous</td><td>Preparing to Travel</td></tr>
-<tr><td>13</td><td>Concealed by Vines</td><td>Welcoming</td><td>Preparing for Battle</td><td rowspan="2">Track and Kill Local Monster (p.38)</td></tr>
+<tr><td>13</td><td>Concealed by Vines</td><td>Welcoming</td><td>Preparing for Battle</td><td rowspan="2"><a href="/#/creating-the-wall?id=lair">Track and Kill Local Monster</a></td></tr>
 <tr><td>14</td><td>Wrecked Needle Ship</td><td>Ecstatic</td><td>Making Bombs</td></tr>
-<tr><td>15</td><td>Secluded Tower</td><td>Brooding</td><td>Brewing Tea</td><td rowspan="2">Send Message to Distant Monastery (p.41)</td></tr>
+<tr><td>15</td><td>Secluded Tower</td><td>Brooding</td><td>Brewing Tea</td><td rowspan="2"><a href="/#/creating-the-wall?id=monastery">Send Message to Distant Monastery</a></td></tr>
 <tr><td>16</td><td>Overgrown Gardens</td><td>Cynical</td><td>Praying</td></tr>
-<tr><td>17</td><td>Inside Crash Site (p.31)</td><td>Exhausted</td><td>Fasting</td><td rowspan="2">Send Message to Distant Sky Pirate Den (p.45)</td></tr>
-<tr><td>18</td><td>Beneath Monastery (p.41)</td><td>Guilty</td><td>Interrogating Prisoner</td></tr>
-<tr><td>19</td><td>In Stratosfolk Village (p.46)</td><td>Tense</td><td>Awaiting a Signal</td><td rowspan="2">Kidnap a Sargattean Noble for Ransom</td></tr>
-<tr><td>20</td><td>Beneath Waystation (p.48)</td><td>Violent</td><td>Healing their Sick</td></tr>
+<tr><td>17</td><td><a href="/#/creating-the-wall?id=crash-site">Inside Crash Site</a></td><td>Exhausted</td><td>Fasting</td><td rowspan="2"><a href="/#/creating-the-wall?id=sky-pirate-den">Send Message to Distant Sky Pirate Den</a></td></tr>
+<tr><td>18</td><td><a href="/#/creating-the-wall?id=monastery">Beneath Monastery</a></td><td>Guilty</td><td>Interrogating Prisoner</td></tr>
+<tr><td>19</td><td><a href="/#/creating-the-wall?id=stratosfolk-village">In Stratosfolk Village</a></td><td>Tense</td><td>Awaiting a Signal</td><td rowspan="2">Kidnap a Sargattean Noble for Ransom</td></tr>
+<tr><td>20</td><td><a href="/#/creating-the-wall?id=way-station">Beneath Waystation</a></td><td>Violent</td><td>Healing their Sick</td></tr>
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Charismatic Cell Leader</td><td>Envy (Property)</td><td rowspan="2">Argumentative, Disliked Leveller</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Leader’s Trusted Second</td><td>Love (Forbidden)</td><td rowspan="2">Overly Trusting Leveller</td></tr>
@@ -400,31 +398,31 @@ _Biological_
 
 ## Low Wall Settlement
 <table>
-<thead><td>1d20</td><td>POPULACE</td><td>INDUSTRY</td><td>GOVERNMENT</td><td>PROBLEM</td></thead>
+<thead><th>d20</th><th>POPULACE</th><th>INDUSTRY</th><th>GOVERNMENT</th><th>PROBLEM</th></thead>
 <tr><td>1</td><td>Cheerful</td><td>Subsistence Farming</td><td rowspan="4">Tithes to Sargattean Patrician</td><td rowspan="2">Sargattea Demands Higher Taxes</td></tr>
 <tr><td>2</td><td>Murderous</td><td>Gecko Herding</td></tr>
 <tr><td>3</td><td>Unruly</td><td>Beetle Herding</td><td rowspan="2">Sargattea Demands Military Conscripts</td></tr>
 <tr><td>4</td><td>Sleepy</td><td>Goat Herding</td></tr>
-<tr><td>5</td><td>Paranoid</td><td>Glassblowing</td><td rowspan="2">Sargattean Client Administration (Loyal)</td><td rowspan="2">Nearby Monster Lair (p.38)</td></tr>
+<tr><td>5</td><td>Paranoid</td><td>Glassblowing</td><td rowspan="2">Sargattean Client Administration (Loyal)</td><td rowspan="2"><a href="/#/creating-the-wall?id=lair">Nearby Monster Lair</a></td></tr>
 <tr><td>6</td><td>Cloistered</td><td>Brewers</td></tr>
 <tr><td>7</td><td>Vengeful</td><td>Weapon Smithing</td><td rowspan="2">Sargattean Clients (Treacherous)</td><td rowspan="2">Young People All Moving to the Cities</td></tr>
 <tr><td>8</td><td>Carnivalesque</td><td>Edible Grubs</td></tr>
-<tr><td>9</td><td>Vigilant</td><td>Ape Fur Exports</td><td rowspan="2">Occupied by Sargattean Guard (p.14)</td><td rowspan="2">Local Blood-Feud Has Raged for Decades</td></tr>
+<tr><td>9</td><td>Vigilant</td><td>Ape Fur Exports</td><td rowspan="2"><a href="/#/wall-factions?id=sargattean-guard">Occupied by Sargattean Guard</a></td><td rowspan="2">Local Blood-Feud Has Raged for Decades</td></tr>
 <tr><td>10</td><td>Exhausted</td><td>Tourist Trap</td></tr>
 <tr><td>11</td><td>Industrious</td><td>Trap Tourists</td><td>Cautious Neutrals</td><td rowspan="2">Humiliated by Rival Settlement in Annual Contest</td></tr>
-<tr><td>12</td><td>Proud</td><td>Crew Needle Ships (p.43)</td><td>Hates Both Cities</td></tr>
-<tr><td>13</td><td>Defeated</td><td>Build Needle Ships (p.43)</td><td>Sky Pirate King</td><td rowspan="2">Sky Pirates Strangling Honest Trade (p.45)</td></tr>
+<tr><td>12</td><td>Proud</td><td><a href="/#/creating-the-wall?id=needle-ships">Crew Needle Ships</a></td><td>Hates Both Cities</td></tr>
+<tr><td>13</td><td>Defeated</td><td><a href="/#/creating-the-wall?id=needle-ship-port">Build Needle Ships</a></td><td>Sky Pirate King</td><td rowspan="2"><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirates Strangling Honest Trade</a></td></tr>
 <tr><td>14</td><td>Pious</td><td>Crew Zeppelins</td><td>Reclusive Priests</td></tr>
 <tr><td>15</td><td>Bitter</td><td>Build Zeppelins</td><td>Squabbling Oracles</td><td rowspan="2">Levelers Bombing Trade Routes</td></tr>
 <tr><td>16</td><td>Nostalgic</td><td>Famous Healers</td><td>Krypteia Sleeper Agent</td></tr>
-<tr><td>17</td><td>Adventurous</td><td>Make Musical Instruments</td><td rowspan="2">Ruled by Harpy Roost (p.36)</td><td rowspan="2">Krypteia Abducted Locals for 'Questioning'</td></tr>
+<tr><td>17</td><td>Adventurous</td><td>Make Musical Instruments</td><td rowspan="2"><a href="/#/creating-the-wall?id=harpy-roost">Ruled by Harpy Roost</a></td><td rowspan="2">Krypteia Abducted Locals for 'Questioning'</td></tr>
 <tr><td>18</td><td>Fearful</td><td>Make Furniture</td></tr>
-<tr><td>19</td><td>Creative</td><td>Weave Carpets</td><td rowspan="2">Ruled by the Queen Beyond the Sky (p.16)</td><td rowspan="2">Ostriel Demands Show of Loyalty</td></tr>
+<tr><td>19</td><td>Creative</td><td>Weave Carpets</td><td rowspan="2"><a href="/#/wall-factions?id=eyazema-iii-queen-beyond-the-sky">Ruled by the Queen Beyond the Sky</a></td><td rowspan="2">Ostriel Demands Show of Loyalty</td></tr>
 <tr><td>20</td><td>Envious</td><td>Cultivate Fungus</td></tr>
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Community Leader</td><td>Envy (Property)</td><td rowspan="2">Community Leader’s Rival</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Leader’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Sickly, Pitiable Resident</td></tr>
@@ -449,7 +447,7 @@ _Biological_
 
 ## Monastery
 <table>
-<thead><td>1d20</td><td>APPEARANCE</td><td>THE MONKS</td><td>THEY WORSHIP</td><td>THEY WANT</td></thead>
+<thead><th>d20</th><th>APPEARANCE</th><th>THE MONKS</th><th>THEY WORSHIP</th><th>THEY WANT</th></thead>
 <tr><td>1</td><td>Dour</td><td>Placid Vegetarians</td><td>Ikara, Mother of Harpies</td><td rowspan="2">Novices to Join their Order</td></tr>
 <tr><td>2</td><td>Ornate</td><td>Sleazy, not very Holy</td><td>Ikara, Daughter of Storms</td></tr>
 <tr><td>3</td><td>Hung with Lamps</td><td>Disorganised, Dismal</td><td>Ikara, Bringer of Silence</td><td rowspan="2">Rival Monastery Humiliated</td></tr>
@@ -460,20 +458,20 @@ _Biological_
 <tr><td>8</td><td>Delicate</td><td>Keen Brewers</td><td>Mummified Harpy Queen</td></tr>
 <tr><td>9</td><td>Vine-wrapped</td><td>Plagued by Nightmares</td><td>The Titan KRONOS</td><td rowspan="2">A Pilgrim Escorted Elsewhere in the Wall</td></tr>
 <tr><td>10</td><td>Sinister</td><td>Problem Drinkers</td><td>The Titan METIS</td></tr>
-<tr><td>11</td><td>Welcoming</td><td>Leveller Sympathisers</td><td>The Titan MNEMOSYM</td><td rowspan="2">Stolen Relic Retrieved from Sky Pirates (p.45)</td></tr>
+<tr><td>11</td><td>Welcoming</td><td>Leveller Sympathisers</td><td>The Titan MNEMOSYM</td><td rowspan="2"><a href="/#/creating-the-wall?id=sky-pirate-den">Stolen Relic Retrieved from Sky Pirates</a></td></tr>
 <tr><td>12</td><td>Translucent</td><td>Tend Sacred Flame</td><td>The Titan HYPERION</td></tr>
-<tr><td>13</td><td>Secluded</td><td>Really Very Celibate</td><td>The Titan GAEA</td><td rowspan="2">To Collect Tithes from Settlement (p.40)</td></tr>
+<tr><td>13</td><td>Secluded</td><td>Really Very Celibate</td><td>The Titan GAEA</td><td rowspan="2"><a href="/#/creating-the-wall?id=low-wall-settlement">To Collect Tithes from Settlement</a></td></tr>
 <tr><td>14</td><td>Half-ruined</td><td>Obsessive Gamblers</td><td>The Titan COEUS</td></tr>
 <tr><td>15</td><td>Verdant</td><td>Only One Left</td><td>The Titan THEMIS</td><td rowspan="2">Uncover Krypteia Spy in Their Midst</td></tr>
 <tr><td>16</td><td>Sterile</td><td>All Krypteia Infiltrators</td><td>Azathoth, the Daemon Sultan</td></tr>
-<tr><td>17</td><td>Crooked</td><td>Skilled Artisans</td><td>A Colossal Ape</td><td rowspan="2">Remove Monster Lair from Their Crypts (p.38)</td></tr>
+<tr><td>17</td><td>Crooked</td><td>Skilled Artisans</td><td>A Colossal Ape</td><td rowspan="2"><a href="/#/creating-the-wall?id=lair">Remove Monster Lair from Their Crypts</a></td></tr>
 <tr><td>18</td><td>Rusting</td><td>Really Into Chanting</td><td>A Fungal Saint</td></tr>
 <tr><td>19</td><td>Hundreds of Idols</td><td>Can Levitate</td><td>A Void Saint</td><td rowspan="2">Dead Monk’s Body Retrieved from Dangerous Locale</td></tr>
 <tr><td>20</td><td>Opulent</td><td>All Flightless Harpies</td><td>A Petty God of Vaarn</td></tr>
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Abbott</td><td>Envy (Property)</td><td rowspan="2">Master of Novices</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Prior (Abbott’s Helper)</td><td>Love (Forbidden)</td><td rowspan="2">Master of Servants</td></tr>
@@ -498,7 +496,7 @@ _Biological_
 
 ## Needle Ship Port
 <table>
-<thead><td>1d20</td><td>PORT VIBE</td><td>ENTERTAINMENT (x2)</td><td>WHO'S HERE? (x2)</td><td>PORT AUTHORITY</td></thead>
+<thead><th>d20</th><th>PORT VIBE</th><th>ENTERTAINMENT (x2)</th><th>WHO'S HERE? (x2)</th><th>PORT AUTHORITY</th></thead>
 <tr><td>1</td><td>Jubilant</td><td>Gladiators</td><td>Sargattean Guardsmen</td><td rowspan="2">Sargattean Noble Family</td></tr>
 <tr><td>2</td><td>Sleazy</td><td>Beetle Races</td><td>Sargattean Deserters</td></tr>
 <tr><td>3</td><td>Bleak</td><td>Gambling (Cards)</td><td>Sky Pirates</td><td rowspan="2">Sargattean Administrator (Honest)</td></tr>
@@ -522,7 +520,7 @@ _Biological_
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Port Authority</td><td>Envy (Property)</td><td rowspan="2">Port Authority’s Rival</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Port Authority’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Customs Official (Honest)</td></tr>
@@ -545,6 +543,8 @@ _Biological_
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
+## Needle Ships <!-- {docsify-ignore} -->
+
 _To be a Needlesman takes no small courage. You must endure gruelling dives through an airless, lightless labyrinth of pipes, navigating with sonar and prayers, using your grapple-anchor to dock at harbours and your sharpened ram to breach blockages in the pipe, the roil of the ikor tumbling your ship like a sand grain in a storm._
 
 _To be a Needlesman is to train for years, memorising the three-dimensional maps of the Wall's waterways until you can see them in your dreams, and even this is not enough to prevent capable crews losing their way, if a pipe has sprung a new breach or a new blockage has formed. Little wonder that Needle Ship crews develop intense camaraderie, and are known for their courage and their lunacy in equal measure._
@@ -560,7 +560,7 @@ _Mechanical_
 </table>
 
 <table>
-<thead><td>1d20</td><td>SHIP NAME A</td><td>SHIP NAME B</td><td>SHIP INTERIOR</td><td>CREW</td><td>CAPTAIN</td></thead>
+<thead><th>d20</th><th>SHIP NAME A</th><th>SHIP NAME B</th><th>SHIP INTERIOR</th><th>CREW</th><th>CAPTAIN</th></thead>
 <tr><td>1</td><td>The Saucy</td><td>Widow</td><td>Cramped</td><td>Wretched Idiots</td><td rowspan="2">Courageous New-Crocodile</td></tr>
 <tr><td>2</td><td>The Weeping</td><td>Judge</td><td>Homely</td><td>Drunkards</td></tr>
 <tr><td>3</td><td>The Pale</td><td>Autarch</td><td>Rusting</td><td>Disagreeable</td><td rowspan="2">One-armed Cacogen</td></tr>
@@ -585,7 +585,7 @@ _Mechanical_
 
 ## Sargattean Fort
 <table>
-<thead><td>1d20</td><td>TROOPS</td><td>CAPTAIN</td><td>ACTIVITY</td><td>PROBLEM</td></thead>
+<thead><th>d20</th><th>TROOPS</th><th>CAPTAIN</th><th>ACTIVITY</th><th>PROBLEM</th></thead>
 <tr><td>1</td><td>Lonely</td><td>Dead</td><td>Gymnastics</td><td rowspan="2">Sickly Cavalry Beetles</td></tr>
 <tr><td>2</td><td>Jubilant</td><td>Missing</td><td>Weapons Drill</td></tr>
 <tr><td>3</td><td>Numb</td><td>In Hiding</td><td>Cleaning Barracks</td><td rowspan="2">Rebellious Cavalry Beetles</td></tr>
@@ -600,16 +600,16 @@ _Mechanical_
 <tr><td>12</td><td>Relaxed</td><td>Troubled by Dreams</td><td>Transporting Prisoners</td></tr>
 <tr><td>13</td><td>Freshly Arrived</td><td>Inexperienced</td><td>Executing Prisoners</td><td rowspan="2">Leveller Sabotage</td></tr>
 <tr><td>14</td><td>Predatory</td><td>Lovesick</td><td>Extorting Merchants</td></tr>
-<tr><td>15</td><td>Optimistic</td><td>Serene</td><td rowspan="2">Conflict with Harpies (see p.36)</td><td rowspan="2">Krypteia Infiltration</td></tr>
+<tr><td>15</td><td>Optimistic</td><td>Serene</td><td rowspan="2"><a href="/#/creating-the-wall?id=harpy-roost">Conflict with Harpies</a></td><td rowspan="2">Krypteia Infiltration</td></tr>
 <tr><td>16</td><td>Overconfident</td><td>Krypteia Agent</td></tr>
-<tr><td>17</td><td>Mutinous</td><td>Blind</td><td rowspan="2">Conflict with Levellers (see p.39)</td><td rowspan="2">Unit Riven by Political Differences</td></tr>
+<tr><td>17</td><td>Mutinous</td><td>Blind</td><td rowspan="2"><a href="/#/creating-the-wall?id=leveller-camp">Conflict with Levellers</a></td><td rowspan="2">Unit Riven by Political Differences</td></tr>
 <tr><td>18</td><td>Wounded</td><td>Senile</td></tr>
-<tr><td>19</td><td>Cynical</td><td>Guilty</td><td rowspan="2">Conflict with Monster (see p.38)</td><td rowspan="2">Fort Flooded by Ikor</td></tr>
+<tr><td>19</td><td>Cynical</td><td>Guilty</td><td rowspan="2"><a href="/#/creating-the-wall?id=lair">Conflict with Monster</a></td><td rowspan="2">Fort Flooded by Ikor</td></tr>
 <tr><td>20</td><td>Driven Mad</td><td>Beloved</td></tr>
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">The Captain</td><td>Envy (Property)</td><td rowspan="2">Medical Officer</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">First Lieutenant</td><td>Love (Forbidden)</td><td rowspan="2">Communications Officer</td></tr>
@@ -634,7 +634,7 @@ _Mechanical_
 
 ## Sky Pirate Den
 <table>
-<thead><td>1d20</td><td>LOCATION</td><td>PIRATES</td><td>THEIR AIRSHIP</td><td>ILL-GOTTEN LOOT</td></thead>
+<thead><th>d20</th><th>LOCATION</th><th>PIRATES</th><th>THEIR AIRSHIP</th><th>ILL-GOTTEN LOOT</td></thead>
 <tr><td>1</td><td>Wind-ravaged</td><td>Fond of Singing</td><td>Rusting</td><td>Edible Grubs</td></tr>
 <tr><td>2</td><td>Verdant</td><td>Vile, Deranged</td><td>Immense</td><td>Morose Captives</td></tr>
 <tr><td>3</td><td>Mouldering</td><td>Sinister Ex-Monks</td><td>Serpent-like</td><td>Jubilant Captives</td></tr>
@@ -652,13 +652,13 @@ _Mechanical_
 <tr><td>15</td><td>Vine-wrapped</td><td>Escaped Gladiators</td><td>Midnight Black</td><td>Profane Texts</td></tr>
 <tr><td>16</td><td>Smoky</td><td>Amnesiac Clones</td><td>Belches Smoke</td><td>Ancient Bombs</td></tr>
 <tr><td>17</td><td>Vulture-haunted</td><td>Fancy Themselves Wits</td><td>Can Shrink</td><td>Olive Oil</td></tr>
-<tr><td>18</td><td>Towering</td><td>Weeping Maniacs</td><td>Hovering Castle</td><td>Vats of Wine (p.48)</td></tr>
+<tr><td>18</td><td>Towering</td><td>Weeping Maniacs</td><td>Hovering Castle</td><td><a href="/#/creating-the-wall?id=vineyard">Vats of Wine</a></td></tr>
 <tr><td>19</td><td>Mossy</td><td>Ostracised Harpies</td><td>Cloaking Device</td><td>Ape Fur Cloaks</td></tr>
 <tr><td>20</td><td>Invisible</td><td>Dream of Retiring</td><td>Armoured in Bone</td><td>Medicinal Honey</td></tr>
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Sky Pirate Captain</td><td>Envy (Property)</td><td rowspan="2">Greedy, Malicious Pirate</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Captain’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Sober, Thoughtful Pirate</td></tr>
@@ -683,7 +683,7 @@ _Mechanical_
 
 ## Stratosfolk Village
 <table>
-<thead><td>1d20</td><td>DWELLINGS</td><td>POPULACE</td><td>LEADER</td><td>CLAN FAMED FOR</td></thead>
+<thead><th>d20</th><th>DWELLINGS</th><th>POPULACE</th><th>LEADER</th><th>CLAN FAMED FOR</th></thead>
 <tr><td>1</td><td>Concealed</td><td>Zealous</td><td>Belligerent</td><td>Boring Conversation</td></tr>
 <tr><td>2</td><td>Bulbous</td><td>Transient</td><td>Neglectful</td><td>Well-trained Pets</td></tr>
 <tr><td>3</td><td>Fungal</td><td>In Mourning</td><td>Arrogant</td><td>Odd Mannerisms</td></tr>
@@ -699,7 +699,7 @@ _Mechanical_
 <tr><td>13</td><td>Fire-ravaged</td><td>Terrified</td><td>Anxious</td><td>Skill in Hunting</td></tr>
 <tr><td>14</td><td>Gilded</td><td>Gluttonous</td><td>Greedy</td><td>Have Voyaged to Luna</td></tr>
 <tr><td>15</td><td>Warlike</td><td>Violent</td><td>Diligent</td><td>Travel Throughout Vaarn</td></tr>
-<tr><td>16</td><td>Bat-infested</td><td>Envious</td><td>Pompous</td><td>Climbed a Cloudspire (p.33)</td></tr>
+<tr><td>16</td><td>Bat-infested</td><td>Envious</td><td>Pompous</td><td><a href="/#/creating-the-wall?id=cloudspire">Climbed a Cloudspire</a></td></tr>
 <tr><td>17</td><td>Morbid</td><td>Jovial</td><td>Gullible</td><td>Feud with Other Clan</td></tr>
 <tr><td>18</td><td>Verdant</td><td>Mischievous</td><td>Pious</td><td>Quixotic Obsession</td></tr>
 <tr><td>19</td><td>Towering</td><td>Sick</td><td>Vulgar</td><td>Elaborate Weddings</td></tr>
@@ -707,7 +707,7 @@ _Mechanical_
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Clan Leader</td><td>Envy (Property)</td><td rowspan="2">Industrious Algae Farmer</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Leader’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Skilled Hunter</td></tr>
@@ -732,8 +732,8 @@ _Mechanical_
 
 ## Upper Wall Settlement
 <table>
-<thead><td>1d20</td><td>POPULACE</td><td>INDUSTRY</td><td>GOVERNMENT</td><td>PROBLEM</td></thead>
-<tr><td>1</td><td>Cheerful</td><td>Raise Tame Bats</td><td rowspan="2">Sargattean Client Administration (Loyal)</td><td rowspan="2">Must Pay Tribute to Harpy Raiders (p.57)</td></tr>
+<thead><th>d20</th><th>POPULACE</th><th>INDUSTRY</th><th>GOVERNMENT</th><th>PROBLEM</th></thead>
+<tr><td>1</td><td>Cheerful</td><td>Raise Tame Bats</td><td rowspan="2">Sargattean Client Administration (Loyal)</td><td rowspan="2"><a href="/#/wall-bestiary?id=harpy-raider">Must Pay Tribute to Harpy Raiders</a></td></tr>
 <tr><td>2</td><td>Murderous</td><td>Gecko Herding</td></tr>
 <tr><td>3</td><td>Unruly</td><td>Beetle Herding</td><td rowspan="2">Sargattean Clients (Treacherous)</td><td rowspan="2">Outbreak of Odd Disease</td></tr>
 <tr><td>4</td><td>Sleepy</td><td>Goat Herding</td></tr>
@@ -745,18 +745,18 @@ _Mechanical_
 <tr><td>10</td><td>Exhausted</td><td>Parachute Makers</td><td>Hedonistic Commune</td></tr>
 <tr><td>11</td><td>Industrious</td><td>Shoemakers</td><td>Xenophobic Matriarchy</td><td rowspan="2">Local Beauty Has Married Unsuitable Outsider</td></tr>
 <tr><td>12</td><td>Proud</td><td>Crew Needle Ships</td><td>Austere Patriarchy</td></tr>
-<tr><td>13</td><td>Defeated</td><td>Build Needle Ships</td><td>Leveller Sympathisers</td><td rowspan="2">Local Monastery (p.41) No Longer Opens Doors</td></tr>
+<tr><td>13</td><td>Defeated</td><td>Build Needle Ships</td><td>Leveller Sympathisers</td><td rowspan="2"><a href="/#/creating-the-wall?id=monastery">Local Monastery No Longer Opens Doors</a></td></tr>
 <tr><td>14</td><td>Pious</td><td>Crew Zeppelins</td><td>Council of Elders</td></tr>
 <tr><td>15</td><td>Bitter</td><td>Build Zeppelins</td><td>Mad Alchemist</td><td rowspan="2">Levellers Preach Destruction; Many Enthralled</td></tr>
 <tr><td>16</td><td>Nostalgic</td><td>Cheesemaking</td><td>Krypteia Agent</td></tr>
-<tr><td>17</td><td>Adventurous</td><td>Cloning</td><td rowspan="2">Ruled by Harpy Roost (p.36)</td><td rowspan="2">Head of Government Possessed by Janus Moth (p.58)</td></tr>
+<tr><td>17</td><td>Adventurous</td><td>Cloning</td><td rowspan="2"><a href="/#/creating-the-wall?id=harpy-roost">Ruled by Harpy Roost</a></td><td rowspan="2"><a href="/#/wall-bestiary?id=janus-moth">Head of Government Possessed by Janus Moth</a></td></tr>
 <tr><td>18</td><td>Fearful</td><td>Bell-making</td></tr>
-<tr><td>19</td><td>Creative</td><td>Rope-making</td><td rowspan="2">Ruled by the Queen Beyond the Sky (p.16)</td><td rowspan="2">Harpy Queen Soon to Visit; Not Enough Food</td></tr>
+<tr><td>19</td><td>Creative</td><td>Rope-making</td><td rowspan="2"><a href="/#/wall-factions?id=eyazema-iii-queen-beyond-the-sky">Ruled by the Queen Beyond the Sky</a></td><td rowspan="2">Harpy Queen Soon to Visit; Not Enough Food</td></tr>
 <tr><td>20</td><td>Envious</td><td>Spider-silk Weavers</td></tr>
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Community Leader</td><td>Envy (Property)</td><td rowspan="2">Feared Local Sorcerer</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Leader’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Stratosfolk Mystic</td></tr>
@@ -781,7 +781,7 @@ _Mechanical_
 
 ## Vineyard
 <table>
-<thead><td>1d20</td><td>GRAPES</td><td>WINE (x2)</td><td>WORKERS</td><td>OWNERS</td><td>PROBLEM</td></thead>
+<thead><th>d20</th><th>GRAPES</th><th>WINE (x2)</th><th>WORKERS</th><th>OWNERS</th><th>PROBLEM</th></thead>
 <tr><td>1</td><td>Black</td><td>Honeyed</td><td>Depressed</td><td rowspan="2">Charismatic Sargattean Criminal</td><td rowspan="2">Disgruntled Employee Poisoning Wine</td></tr>
 <tr><td>2</td><td>Silver</td><td>Fiery</td><td>Arrogant</td></tr>
 <tr><td>3</td><td>Golden</td><td>Sickly</td><td>Mutinous</td><td rowspan="2">Retired Sargattean General</td><td rowspan="2">Looming Visit By Major Buyer</td></tr>
@@ -794,7 +794,7 @@ _Mechanical_
 <tr><td>10</td><td>Armoured</td><td>Oily</td><td>Devious</td></tr>
 <tr><td>11</td><td>Enormous</td><td>Medicinal</td><td>Insane</td><td rowspan="2">Obnoxious New-Slug</td><td rowspan="2">Both Cities Claim Taxes</td></tr>
 <tr><td>12</td><td>Furry</td><td>Milky</td><td>Complacent</td></tr>
-<tr><td>13</td><td>Pink</td><td>Spiced</td><td>Blissful</td><td rowspan="2">Voice From Vat of Wine</td><td rowspan="2">Sky Pirates Extract Tribute (p.45)</td></tr>
+<tr><td>13</td><td>Pink</td><td>Spiced</td><td>Blissful</td><td rowspan="2">Voice From Vat of Wine</td><td rowspan="2"><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirates Extract Tribute</a></td></tr>
 <tr><td>14</td><td>Crimson</td><td>Mildly Psychedelic</td><td>Afraid</td></tr>
 <tr><td>15</td><td>Zebra-striped</td><td>Sour</td><td>Jovial</td><td rowspan="2">Drunken Flightless Harpy</td><td rowspan="2">Rival Vinyard Sabotaging Operations</td></tr>
 <tr><td>16</td><td>White</td><td>Glutinous</td><td>Incompetent</td></tr>
@@ -806,7 +806,7 @@ _Mechanical_
 
 ## Way Station
 <table>
-<thead><td>1d20</td><td>NAME A</td><td>NAME B</td><td>VIBE</td><td>SERVES (x2)</td><td>FEATURE</td></thead>
+<thead><th>d20</th><th>NAME A</th><th>NAME B</th><th>VIBE</th><th>SERVES (x2)</th><th>FEATURE</th></thead>
 <tr><td>1</td><td>The Singing</td><td>Sword</td><td>Rowdy</td><td>Violet Beer</td><td>Huge Fish-tank</td></tr>
 <tr><td>2</td><td>The Burning</td><td>Goblet</td><td>Melancholy</td><td>Pink Cider</td><td>Nightly Karaoke</td></tr>
 <tr><td>3</td><td>The Widow &</td><td>Boar</td><td>Sinister</td><td>Jade Wine</td><td>Barbecue Pit</td></tr>
@@ -826,7 +826,7 @@ _Mechanical_
 <tr><td>17</td><td>The Last</td><td>Warship</td><td>Greasy</td><td>Gecko Steak</td><td>Rare Bromeliads</td></tr>
 <tr><td>18</td><td>The Ape &</td><td>Chameleon</td><td>Smoky</td><td>Fried Goat Cheese</td><td>Too Many Beehives</td></tr>
 <tr><td>19</td><td>The Chatelaine’s</td><td>Mask</td><td>Expensive</td><td>Baked Beetle Cheese</td><td>Beetle-Fighting Pit</td></tr>
-<tr><td>20</td><td>The Dolorous</td><td>Hangman</td><td>Reputable</td><td>Grilled Ape</td><td>Tame Monster (p.38)</td></tr>
+<tr><td>20</td><td>The Dolorous</td><td>Hangman</td><td>Reputable</td><td>Grilled Ape</td><td><a href="/#/creating-the-wall?id=lair">Tame Monster</a></td></tr>
 </table>
 
 ## Weeps
@@ -848,24 +848,24 @@ Sable ikor is deadly to biological creatures. If ingested or touched it acts as 
 Synthetic beings who drink sable ikor must make a PSY save. On failure, they are overwhelmed by fragmented nightmare-memories of the Titan AIs. They take d6 PSY damage and roll on the nightmare table below. On a success, they take d6 PSY damage and develop a new Mystic Gift, either random or chosen.
 
 <table>
-<thead><td>1d20</td><td>NIGHTMARE IMAGE A</td><td>NIGHTMARE IMAGE B</td><td>SIDE EFFECT</td></thead>
-<tr><td>1</td><td>Fractal Screams Echo Eternally</td><td>Planet Core Filled with Blood</td><td rowspan="4">Incompatible Motive Interface You tear off a limb, believing it to be malignant hardware. Gain a Wound: Severed Limb (see p.53)</td></tr>
+<thead><th>d20</th><th>NIGHTMARE IMAGE A</th><th>NIGHTMARE IMAGE B</th><th>SIDE EFFECT</th></thead>
+<tr><td>1</td><td>Fractal Screams Echo Eternally</td><td>Planet Core Filled with Blood</td><td rowspan="4"><b>Incompatible Motive Interface</b><br /> You tear off a limb, believing it to be malignant hardware.<br /><a href="/#/wall-bestiary?id=carnifex-mantis">Gain a Wound: Severed Limb</a></td></tr>
 <tr><td>2</td><td>Tidal Wave of Oil</td><td>Chasms Rent in the Urth</td></tr>
 <tr><td>3</td><td>Bottomless Glass Canyons</td><td>Orbital Weapon Strike</td></tr>
 <tr><td>4</td><td>Dizzying Accelerating Stars</td><td>Transparent Labyrinth Shattering</td></tr>
-<tr><td>5</td><td>Corpse-choked Jungles</td><td>Stillborn Titan Infant</td><td rowspan="4">General Kinesthetics Crash Take d6 DEX damage. You cannot walk unaided for the next day.</td></tr>
+<tr><td>5</td><td>Corpse-choked Jungles</td><td>Stillborn Titan Infant</td><td rowspan="4"><b>General Kinesthetics Crash</b><br /> Take d6 DEX damage.<br />You cannot walk unaided for the next day.</td></tr>
 <tr><td>6</td><td>Flickering Dying Logic Gates</td><td>Red Sun Swallows the Urth</td></tr>
 <tr><td>7</td><td>Braincoral Overgrowth</td><td>Azathoth Opens His Eye</td></tr>
 <tr><td>8</td><td>Crowd of Cannibal Clones</td><td>Ouroboros of Mutant Flesh</td></tr>
-<tr><td>9</td><td>Comet Strikes Voidcraft</td><td>Ocean Floods Memory Crypts</td><td rowspan="4">Vischip Pathing Overload You are blinded for one day. Disadvantage on melee attacks. Cannot make ranged attacks.</td></tr>
+<tr><td>9</td><td>Comet Strikes Voidcraft</td><td>Ocean Floods Memory Crypts</td><td rowspan="4"><b>Vischip Pathing Overload</b><br /> You are blinded for one day.<br /> Disadvantage on melee attacks.<br />Cannot make ranged attacks.</td></tr>
 <tr><td>10</td><td>Sneering Pixelated Fatherface</td><td>Rusting Chrome Ziggurats</td></tr>
 <tr><td>11</td><td>Neon Abyss</td><td>Black Glass Tesseract</td></tr>
 <tr><td>12</td><td>Boiling Birth Vats</td><td>Malformed Thoughtforms</td></tr>
-<tr><td>13</td><td>Plastic Avalanche</td><td>Whispering Shadow Clones</td><td rowspan="4">Titanscion Delusive Malignancy You believe yourself to be an heir of the Titans. You must travel north to Golgotha and inherit their power.</td></tr>
+<tr><td>13</td><td>Plastic Avalanche</td><td>Whispering Shadow Clones</td><td rowspan="4"><b>Titanscion Delusive Malignancy</b><br /> You believe yourself to be an heir of the Titans.<br />You must travel north to Golgotha and inherit their power.</td></tr>
 <tr><td>14</td><td>Silvery Logic-Parasites</td><td>Dazzling Mirrorball Brain</td></tr>
 <tr><td>15</td><td>Smothering Morass of Wires</td><td>Star Devoured by Black Hole</td></tr>
 <tr><td>16</td><td>Stygian Underwater Caverns</td><td>Undulating Tyrant Serpent</td></tr>
-<tr><td>17</td><td>Mountain of Synthetic Skulls</td><td>Wailing Forest of Knives</td><td rowspan="4">Core Ego Function Overwrite You become comatose for d4 days. When you wake up, gain +2 EGO permanently.</td></tr>
+<tr><td>17</td><td>Mountain of Synthetic Skulls</td><td>Wailing Forest of Knives</td><td rowspan="4"><b>Core Ego Function Overwrite</b><br /> You become comatose for d4 days. When you wake up, gain +2 EGO permanently.</td></tr>
 <tr><td>18</td><td>Caught in Pseudoneural Net</td><td>Incestuous Mothermonster</td></tr>
 <tr><td>19</td><td>Mirrored Mask of Own Face</td><td>Colourless Plain of Bones</td></tr>
 <tr><td>20</td><td>White-tiled Time Tombs</td><td>Volcanoes Vomit Forth Filth</td></tr>
@@ -874,12 +874,12 @@ Synthetic beings who drink sable ikor must make a PSY save. On failure, they are
 
 ## Zeppelin Port
 <table>
-<thead><td>1d20</td><td>PORT VIBE (x2)</td><td>ENTERTAINMENT (x2)</td><td>WHO'S HERE? (x2)</td><td>PORT AUTHORITY</td></thead>
+<thead><th>d20</th><th>PORT VIBE (x2)</th><th>ENTERTAINMENT (x2)</th><th>WHO'S HERE? (x2)</th><th>PORT AUTHORITY</th></thead>
 <tr><td>1</td><td>Mournful</td><td>Too Much Wine</td><td>Sargattean Guardsmen</td><td rowspan="2">Sargattean Administrator (Honest)</td></tr>
 <tr><td>2</td><td>Sleazy</td><td>Caged Songbirds</td><td>Sargattean Deserters</td></tr>
 <tr><td>3</td><td>Half-burnt</td><td>Gambling (Cards)</td><td>Sky Pirates</td><td rowspan="2">Sargattean Administrator (Corrupt)</td></tr>
 <tr><td>4</td><td>Rope-strewn</td><td>Gambling (Dice)</td><td>Gnomonian Merchants</td></tr>
-<tr><td>5</td><td>Bird-ravaged</td><td>Gambling (Ape Fights)</td><td>Ghoul Cultists</td><td rowspan="2">Sky Pirate Crew (p.45)</td></tr>
+<tr><td>5</td><td>Bird-ravaged</td><td>Gambling (Ape Fights)</td><td>Ghoul Cultists</td><td rowspan="2"><a href="/#/creating-the-wall?id=sky-pirate-den">Sky Pirate Crew</a></td></tr>
 <tr><td>6</td><td>Labyrinthine</td><td>Religious Plays</td><td>Harpy Raiders</td></tr>
 <tr><td>7</td><td>Lantern-hung</td><td>Travelling Poet</td><td>Harpy Diplomats</td><td rowspan="2">Stratosfolk Warlord</td></tr>
 <tr><td>8</td><td>Brutal</td><td>Dancing Hippo</td><td>Bat Riders</td></tr>
@@ -898,7 +898,7 @@ Synthetic beings who drink sable ikor must make a PSY save. On failure, they are
 </table>
 
 <table>
-<thead><td>1d20</td><td>NPC A</td><td>SOURCE OF CONFLICT</td><td>NPC B</td></thead>
+<thead><th>d20</th><th>NPC A</th><th>SOURCE OF CONFLICT</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Port Authority</td><td>Envy (Property)</td><td rowspan="2">Port Authority’s Rival</td></tr>
 <tr><td>2</td><td>Envy (Success)</td></tr>
 <tr><td>3</td><td rowspan="2">Port Authority’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Customs Official (Honest)</td></tr>
@@ -942,7 +942,7 @@ _Mechanical_
 </table>
 
 <table>
-<thead><td>1d20</td><td>GASBAG</td><td>GONDOLA</td><td>CREW</td><td>CAPTAIN</td></thead>
+<thead><th>d20</th><th>GASBAG</th><th>GONDOLA</th><th>CREW</th><th>CAPTAIN</th></thead>
 <tr><td>1</td><td>Bulbous</td><td>Rusting</td><td>Sky-maddened</td><td rowspan="2">Mycomorph with Huge Thistle-down Head</td></tr>
 <tr><td>2</td><td>Lurid</td><td>Crooked</td><td>Dangerously Ill</td></tr>
 <tr><td>3</td><td>Pendulous</td><td>Wooden</td><td>Amphetamine Addled</td><td rowspan="2">Brusque and Irritable New-Snake</td></tr>
