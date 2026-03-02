@@ -32,6 +32,7 @@ The referee should check for an encounter once during the morning of a travel da
 **2 - Passing Encounter.** The PCs encounter a creature or situation in passing - it may be happening far away, or be a creature that is not interested in the PCs.  
 **3 - Hint**. The PCs find a hint of an encounter. This may be an object or footprint left in the sand, a flying creature glimpsed on the horizon, or similar. The entity the Hint concerned will always appear as the next Active or Passing Encounter.  
 **4-6 - Nothing.**  
+
 _If the PCs are traveling in an extremely slow, noisy, or obvious manner, the referee may choose to roll 2d6 or even 3d6 for encounter checks, and use the lowest result._  
 
 ## Vigilance

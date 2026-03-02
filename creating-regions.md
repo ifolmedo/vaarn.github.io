@@ -4,13 +4,21 @@
 The Referee can generate regions of Vaarn using the following method. This technique will not create detailed maps encompassing every feature of the terrain, but rather a simulacra of a landscape that will fuel a few sessions of gaming.
 
 1. Take a sheet of blank paper. A4, or something of equivalent size, will do nicely.
+
 2. Drop a handful of dice onto the paper. I suggest using five or six dice to create a decent sized region, but there is no upper limit. The more dice you drop, the more regional features you will create. You may use any size of dice up to d20, but be aware that using smaller dice sizes will constrain the results.
+
 3. Draw circles around the dice where they fell, and note the number showing on the dice. Consult the Location Type table below to find what kind of location has been created.
+
 4. Draw lines connecting each location to its neighbors. Locations need not connect to every other location on the map; two or three connections per location is quite adequate. These lines represent known travel routes between the locations. If the locations are very close on the page, roll d6. If they are a moderate distance apart, roll 2d6, and if they are very far apart roll 3d6. This dice roll gives you the number of days it will take to travel on foot between the two locations.
+
 5. Travel routes that connect two even-numbered locations, or an odd and an even-numbered location, are (relatively) safe. Travel routes between two odd-numbered locations, however, have a hazard associated with them. Consult the table below for inspiration.
+
 6. Now that the broad shape of the region has been created, return to each location and use the tables provided in this zine to generate more specific details about each one. Write down your ideas for each location inside the circles. You are not obliged to abide by the results of the tables if they don’t fit your concept for the region.
+
 7. If you need more details about the region as a whole, roll on the Landscape Type table below to get an idea of the general terrain. You can also roll to find out the origin of the region’s name.
+
 8. Build a region-specific encounter table using the <a href="#/bestiary">bestiary</a>. There sample encounter table in VOV #1 if you need inspiration. The character of the region you have generated should inform the encounters you seed it with. A region that contains the ruins of a synth factory will likely have malfunctioning synths lurking around, whereas a region with lots of settlements may have an abundance of trading caravans.
+
 9. Last but by no means least, think of a few NPCs who might be found in the region, and what they might want from the party. Use the [Story Seeds](creating-npcs.md?id=story-seeds) table if you are stuck.
 
 <table>

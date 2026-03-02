@@ -19,7 +19,9 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 
 **Armour:** The Armour score gives the number a PC’s attack roll must exceed to damage them.
 
-**Abilities:** Adversaries have ability bonuses equal to their level, with the corresponding defenses. (**Example**: a Level 4 adversary has an attack bonus of +4 and a defense of 14 in all of its abilities, unless modified by the Referee.)
+**Abilities:** Adversaries have ability bonuses equal to their level, with the corresponding defenses. 
+
+?>**Example**: a Level 4 adversary has an attack bonus of +4 and a defense of 14 in all of its abilities, unless modified by the Referee.
 
 **Attack:** Number of attacks an adversary can make per round, and the damage dice rolled for each. Attacks separated by a / symbol are mutually exclusive, the adversary must use one or the other. Attacks joined by a + symbol are multi-attacks, the adversary can use all in the same round.
 
@@ -36,6 +38,6 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 
 **Outsider:** A being that is alien to our reality. Too strange to be categorised. Resistances and vulnerabilities vary wildly.
 
-**Psychic:** A creature with psychic powers. May utilize Gifts and can detect **Psychic Gleam** (see below).
+**Psychic:** A creature with psychic powers. May utilize Gifts and can detect [**Psychic Gleam**](mystic-gifts.md#psychic-gleam).
 
 **Synthetic:** An artificial creature, made from metal, plastic, and an ego-engine. Immune to damage from suffocation, poison, radiation, or fungal spores. Takes double damage from electrical attacks. Vulnerable to weaponised LogLang syntax. 

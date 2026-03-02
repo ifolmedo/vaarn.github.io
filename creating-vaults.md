@@ -6,12 +6,19 @@ The Vaults of Vaarn are subterranean ruins that riddle the blue desert. Cruciall
 Follow these steps to begin drafting a Vault.
 
 1. Roll a d20 to determine the basics: the entrance type, tunnel type, and original function of the Vault. This will form the base for your inspiration. 
+
 2. Next, list five ideas for rooms, but don’t map them yet. Just picture five locations that might be found in the Vault you’re creating. If you can’t think of anything or need fresh ideas, roll on both Room Feature lists below, and combine the two features. 
+
 3. Attach hazards to the second and fourth rooms in the list. These may flow logically from the room features you rolled; alternatively use the Hazards table below to generate ideas. Some hazards should be immediately obvious, while others might be more insidious.
-4. Attach an item of Exotica to the fifth room using the [d100 table provided](100-exotica.md). These items are the goal of a vault-raiding expedition, so make sure they’re challenging to reach, but obtainable if the characters persevere. 
+
+4. Attach an item of Exotica to the fifth room using the [d100 table provided](stuff-in-vaarn.md#_100-exotica). These items are the goal of a vault-raiding expedition, so make sure they’re challenging to reach, but obtainable if the characters persevere. 
+
 5. You now have five rooms for exploration. Sketch out a map of how they connect to one another. Think about doors, but also elevator shafts, staircases, teleporters, air vents, drainage systems, and other passageways. Make sure most rooms have at least two exits. 
+
 6. Add an NPC into the Vault for the players to talk with. This could be a forgotten prisoner, an AI, a sentient ant colony, another scavenger, or anyone from the [NPC table](creating-npcs.md). They don’t have to be friendly, but think about why they’re in the Vault, and what they might want from the PCs.
+
 7. Write up an encounter table. This is a list of d8 active creatures or phenomena that may be found as you move around the Vault. Think about the encounters that would emerge logically from the details you have created so far; one of them could be the NPC you created in step 6. Use the [Bestiary](bestiary.md) for ideas if you are stuck. As the PCs explore, roll a d6 each time they enter a location or make a loud noise. If you roll a 1, roll on the encounter table. You can find some generic, unthemed encounter tables below.
+
 8. With a map, an encounter table, and a reward for the PCs, you are now ready to play! If you want a larger Vault, return to step 2 and begin adding more ideas for rooms. Make sure to keep adding Exotica as the Vault grows in size. A party of four PCs will need to find four Exotica to reach level 2 and eight to reach level 3, so ensure it is possible for your players to advance if they are bold and clever.
 
 ## Vault Basics
