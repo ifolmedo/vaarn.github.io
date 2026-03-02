@@ -20,7 +20,6 @@
   - [Weather](weather.md)
   - [Desert Encounters](desert-encounters.md)
   - [Bestiary](bestiary.md)
-  - [100 Exotica](100-exotica.md)
 
 - Generating Your Own Setting
 
