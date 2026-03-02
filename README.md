@@ -26,7 +26,7 @@ Finally and most importantly, Vaarn is never the same twice. The fall of the dic
 ## Where to get Vaarn Zines <!-- {docsify-ignore} -->
 
 <table>
-  <thead><th>Issues</th><th>In Print</th><th>Print on Demand</th><th>PDF</th<</thead>
+  <thead><th>Issues</th><th>In Print</th><th>Print on Demand</th><th>PDF</th></thead>
   <tr>
     <td>Vaults of Vaarn Issue 1</td>
     <td><a href="https://antipodezines.com/products/vaults-of-vaarn-1">Antipode</a></td>
