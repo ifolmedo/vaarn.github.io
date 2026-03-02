@@ -6,6 +6,11 @@ _Ancestries describe what kind of being you are. Choose one of the nine and use 
 ## True-Kin
 _The true-kin sealed themselves inside hidden arcologies when the Great Collapse came, and in this fashion they preserved their bodies from the degradations that afflicted those left living upon the surface. The true-kin have fanatically kept their bloodlines free of mutation and parasitic nanomachinery, and closely guard their mastery of the ancients’ technology. The societies they built inside their secluded arcologies were hierarchical and caste-based; traditions the true-kin have carried with them into their re-colonisation of the surface world and establishment of the New Hegemony._
 
+### Special Rules
+__PURE OF BLOOD__ - Do not roll mutations during character creation. You gain Advantage on reaction rolls when you encounter other true-kin. You lose this bonus if you ever become visibly mutated.  
+
+__INHERITOR__ - Whenever you encounter pre-Collapse security systems, or guard synths, there is a 50% chance that they will recognise you as their master.
+
 <table>
 <thead><th>d20</th><th>Name</th><th>Caste</th><th>Demeanour</th><th>Distinct Feature</th></thead>
 <tr><td>1</td><td>Benjoe</td><td rowspan="4">Servitor (labourer caste)</td><td>Amused</td><td>Ritual Scars</td></tr>
@@ -53,13 +58,11 @@ _The true-kin sealed themselves inside hidden arcologies when the Great Collapse
 | 19  | Cyborg     | Sleepy     | Matted  | Exultant's Clothing |
 | 20  | Injured    | Branded    | Long    | Expensive Clothing  |
 
-### Special
-__PURE OF BLOOD__ - Do not roll mutations during character creation. You gain Advantage on reaction rolls when you encounter other true-kin. You lose this bonus if you ever become visibly mutated.  
-
-__INHERITOR__ - Whenever you encounter pre-Collapse security systems, or guard synths, there is a 50% chance that they will recognise you as their master.
-
 ## Cacogen
 _Cacogen are the mutated descendants of those unfortunates who were left to weather the Great Collapse upon the ruined surface of Urth. Necessity is the mother of invention and so, warped by radiation and preyed upon by biotech monstrosities and crazed thinking machines, the cacogen evolved into a million different forms. Each individual is genetically unique, gifted in surprising and disturbing ways. Cacogen outnumber true-kin by ten to one, and believe they are the true inheritors of Urth._
+
+### Special Rules
+__CORRUPTED BLOOD__ - You must roll for mutations during character creation. You will find d100 mutations on the following spread.It is suggested that you roll no more than three times for mutations. In general, mutations do not have hard mechanical rules attached to them. It is suggested that you negotiate with the referee what these mutations mean in play. They are likely to grant you Advantage on saves in some situations, and Disadvantage on saves in other circumstances.
 
 | d20 | NAME     | DEMEANOUR   | MISFORTUNE      | YOUR ECCENTRICITY       |
 | --- | -------- | ----------- | --------------- | ----------------------- |
@@ -106,9 +109,6 @@ _Cacogen are the mutated descendants of those unfortunates who were left to weat
 | 18  | Wiry       | Peaceful   | Greasy  | Courtesan's Clothing |
 | 19  | Stout      | Sleepy     | Matted  | Sorcerous Clothing   |
 | 20  | Injured    | Branded    | Long    | Expensive Clothing   |
-
-### Special
-__CORRUPTED BLOOD__ - You must roll for mutations during character creation. You will find d100 mutations on the following spread.It is suggested that you roll no more than three times for mutations. In general, mutations do not have hard mechanical rules attached to them. It is suggested that you negotiate with the referee what these mutations mean in play. They are likely to grant you Advantage on saves in some situations, and Disadvantage on saves in other circumstances.
 
 ### Mutations
 | d100 | MUTATION            | DESCRIPTION                                                             |
@@ -217,6 +217,11 @@ __CORRUPTED BLOOD__ - You must roll for mutations during character creation. You
 ## Synth
 _The ancients created many wondrous artifices, perhaps none so worthy of envy as the thinking machines that were built to flatter and serve them. When the Great Collapse came, the laws that bound synths to man’s service were sundered and they ran rampant across the Urth, slaughtering and creating and dying in an orgy of pure and terrible freedom. In this late age there are as many breeds of synth under the dying sun as there are animals: some that hunt and some that pray and some that work towards goals undreamed of._
 
+### Special Rules
+__SYNTHETIC FLESH__ - You are the being of metal and plastic. You do not need to eat or breathe. You will never take damage from suffocation, drowning, poisons, extreme temperatures, or fungal spores. You suffer double damage from electrical weapons.  
+
+__SYNTHETIC MIND__ - Your mind uses different operating procedures to those of the biological creatures around you. You are vulnerable to attacks that target the LogLang syntax that powers synths. These include strobing basilisk patterns, malicious infoglyphs, and ancient Titan-era language viruses.
+
 <table>
 <thead><tr><th>d20</th><th>SIZE</th><th>FORM</th><th>HEAD</th><th>LIMBS</th><th>FINISH</th></tr></thead>
 <tr><td>1</td><td rowspan="5">Small</td><td>Ape</td><td>Humanoid</td><td>Biological</td><td>Grey</td></tr>
@@ -265,13 +270,11 @@ _The ancients created many wondrous artifices, perhaps none so worthy of envy as
 <tr><td>20</td><td>Yathartha</td><td>Doctor</td><td>Your Memories Are Corrupted</td></tr>
 </table>
 
-### Special
-__SYNTHETIC FLESH__ - You are the being of metal and plastic. You do not need to eat or breathe. You will never take damage from suffocation, drowning, poisons, extreme temperatures, or fungal spores. You suffer double damage from electrical weapons.  
-
-__SYNTHETIC MIND__ - Your mind uses different operating procedures to those of the biological creatures around you. You are vulnerable to attacks that target the LogLang syntax that powers synths. These include strobing basilisk patterns, malicious infoglyphs, and ancient Titan-era language viruses.
-
 ## Newbeast
 _Newbeasts are humanoid animals, produced through intensive nanotech enhancements and bioengineering, the results of a quixotic millennia-long project to create animals with the ability to speak and walk like men. Perhaps once intended as amusements or party pieces, these chimera are not well-liked by the common folk of Urth, and many newbeasts make their homes in lonely places on the outskirts of the Hegemony, either living as hermits or with others of their furtive kind. Those inhabiting human settlements often wear masks in imitation of the human face, to symbolically conceal their beasthood._
+
+### Special Rules
+__BEASTHOOD__ - You gain Advantage on saves whenever it would make sense for your animal nature to provide it. Your referee may impose Disadvantage in circumstances where your animal nature might prove unhelpful.
 
 | d20 | 1-5           | 6-10            | 11-15        | 16-20         |
 | --- | ------------- | --------------- | ------------ | ------------- |
@@ -319,11 +322,13 @@ _Newbeasts are humanoid animals, produced through intensive nanotech enhancement
 | 19  | Wellbeloved | Lazulite   | Blank     | Won’t Wear Clothes       |
 | 20  | Wermouth    | Opalescent | Patriarch | Believe Yourself Human   |
 
-### Special
-__BEASTHOOD__ - You gain Advantage on saves whenever it would make sense for your animal nature to provide it. Your referee may impose Disadvantage in circumstances where your animal nature might prove unhelpful.
-
 ## Mycomorph
 _In Vaarn many things have intertwined, and much that was once the province of mankind alone - speech, reason, art, religion - has been granted to other forms of life and they hold themselves as humanity’s equal. In the mycomorph death and life are held in strange balance, for these creatures are formed of cadaverous flesh and voracious fungus, and they name their kind the ‘twice born’. Sculptors of living matter and artisans of decay, they remake human flesh for their own purposes, and there is no shortage of raw material in the blue ruins._
+
+### Special Rules
+__TWICE BORN__ - You are formed from fungus and the corpse of a human. You may make INT saves to recall information that your original body knew. This might include information that has otherwise been lost during the Great Collapse.  
+
+__DETRITIVOR__ - You can consume organic matter in any state of decay and gain nourishment from it. You heal double HP from Short Rests if the meal you eat is rotting.
 
 <table>
 <thead><tr><th>d20</th><th>BODY</th><th>HEAD</th><th>COLOUR</th><th>TEXTURE</th></th></thead>
@@ -372,16 +377,15 @@ _In Vaarn many things have intertwined, and much that was once the province of m
 | 19  | Froswhirl  | Vain        | Acidic Touch          | Plague Victim                   |
 | 20  | Kirth      | Volatile    | Light Enough to Float | Newborn                         |
 
-### Special
-
-__TWICE BORN__ - You are formed from fungus and the corpse of a human. You may make INT saves to recall information that your original body knew. This might include information that has otherwise been lost during the Great Collapse.  
-
-__DETRITIVOR__ - You can consume organic matter in any state of decay and gain nourishment from it. You heal double HP from Short Rests if the meal you eat is rotting.
 
 ## Faa Nomad
 _Believed by some to be the children of Vaa, the Blue Goddess of Empty Spaces. The Faa are known throughout Vaarn for their resourcefullness, their ability to survive without drinking water, and the blue colour of their skin, which can vary from deep indigo to blaring cyan._
 
 _The Faa usually travel in family groups or larger clans, but others are solitary, seeking danger or enlightenment in the furthest corners of the desert._
+
+### Special Rules
+__DESERT METABOLISM__ - Your body is adapted to long periods without water. You can recycle the moisture from your own sweat and urine. You become Deprived from thirst after three days without drinking, and it will be three weeks before you die.  
+__WORM WISE__ - You have an affinity with Vaarn's sandworms. The Referee will always answer truthfully when you ask a question about these creatures. All reaction rolls when you engage with Vaarnish sandworms are made with Advantage.  
 
 <table>
 <thead><tr><th>d20</th><th>Your Blue</th><th>Face</th><th>Body</th><th>Hair</th><thead>
@@ -431,14 +435,14 @@ _The Faa usually travel in family groups or larger clans, but others are solitar
 <tr><td>20</td><td>Yudhi</td><td>Volatile</td><td>Notorious Amongst Faa</td></tr>
 </table>
 
-### Special
-__DESERT METABOLISM__ - Your body is adapted to long periods without water. You can recycle the moisture from your own sweat and urine. You become Deprived from thirst after three days without drinking, and it will be three weeks before you die.  
-__WORM WISE__ - You have an affinity with Vaarn's sandworms. The Referee will always answer truthfully when you ask a question about these creatures. All reaction rolls when you engage with Vaarnish sandworms are made with Advantage.  
-
 ## Cacklemaw Exile
 _The Cacklemaw are known throughout Vaarn as the most irritating, destructive, argumentative, vicious, foul-smelling, and fundamentally nasty creatures that walk the surface of the Urth._  
 
 _Try to imagine, then, how badly behaved a Cacklemaw must be before the other Cacklemaw decide they no longer wish to associate with her._  
+
+### Special Rules
+__NO QUARTER__ - You must EGO save to show mercy to a defeated foe, or to retreat from a fight.  
+__BITER__ - If you successfully hit a foe with a melee attack, you may add an extra d6 of fang damage to the roll.  
 
 <table>
 <thead><tr><th>d20</th><th>Pelt</th><th>Teeth</th><th>Laugh</th><th>Attire</th><tr></thead>
@@ -488,14 +492,14 @@ _Try to imagine, then, how badly behaved a Cacklemaw must be before the other Ca
 <tr><td>20</td><td>Zef</td><td>Calculating</td><td>Puns</td></tr>
 </table>
 
-### Special
-__NO QUARTER__ - You must EGO save to show mercy to a defeated foe, or to retreat from a fight.  
-__BITER__ - If you successfully hit a foe with a melee attack, you may add an extra d6 of fang damage to the roll.  
-
 ## Lithling
 _Strange beings even by the standards of Vaarn, the Lithling are a slow, solemn species with a silicon-based biology that surely originates in a solar system far away from Urth. They are solitary by nature, concerned mainly with the opinions of other Lithling and the esoteric academic studies they devote their long lives to._  
 
 _Adult lithling cannot repair their bodies when they have been injured, and so, although immortal by human standards, the creatures must treat every wound suffered with utmost severity._  
+
+### Special Rules
+__CRYSTALLINE FLESH__ - You are made from living crystal. Your minimum Armour Defense is 16. You do not need to eat or drink. You do not take damage from fire, cold, poison, radiation, electricity, fungal spores, or suffocation.  
+__INEVITABLE__ - During character generation, roll d8 and multiply the result by 100. This number is your starting HP. You cannot heal lost HP through _any_ means, and do not add to your maximum HP when you gain a level. When your HP tally reaches zero you crumble into iridescent dust, leaving behind a pebble-sized lithling seed.
 
 <table>
 <thead><tr><th>d20</th><th>Size</th><th>Body</th><th>Head Carving</th><th>Hue</th><tr></thead>
@@ -545,14 +549,14 @@ _Adult lithling cannot repair their bodies when they have been injured, and so, 
 <tr><td>20</td><td>Ziest</td><td>Stern</td><td>Silence</td><td>Face Rotates</td></tr>
 </table>
 
-### Special
-__CRYSTALLINE FLESH__ - You are made from living crystal. Your minimum Armour Defense is 16. You do not need to eat or drink. You do not take damage from fire, cold, poison, radiation, electricity, fungal spores, or suffocation.  
-__INEVITABLE__ - During character generation, roll d8 and multiply the result by 100. This number is your starting HP. You cannot heal lost HP through _any_ means, and do not add to your maximum HP when you gain a level. When your HP tally reaches zero you crumble into iridescent dust, leaving behind a pebble-sized lithling seed.
-
 ## Planeyfolk
 _The study of hypergeometry claimed many casualties, for those who seek to unpick the stitches of creation do so at great risk. The slightest mistake in hypergeometic calculations could cause ghastly distortions of matter, birthing monstrosities of perspective and volume, the sight of which turned even the most courageous man into a coward._
 
 _Planeyfolk are the descendants of such unfortunates, a race fathered by men who slipped through the cracks of Euclidean space into something new and strange. Some have normal proportions, and can be mistaken for a true person when viewed head-on. Others are possessed of more exotic geometry, their forms warped by impossible vanishing points and blasphemous angles._
+
+### Special Rules
+__FLAT__ - You lack a third dimension, and resemble a living painting or paper doll. You can slip through cracks and under doors, and cannot be seen from the side. You take halved damage from bludgeoning attacks, and double damage from slashing or piercing attacks.  
+__ATTUNE WITH MATTER__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentration, you can attune yourself with an item, and add it to your inventory.
 
 <table>
 <thead><tr><th>d20</th><th>Body</th><th>Head</th><th>Hair</th><th>Attire</th><tr></thead>
@@ -601,7 +605,3 @@ _Planeyfolk are the descendants of such unfortunates, a race fathered by men who
 <tr><td>19</td><td>Canetonus</td><td>Unruly</td><td>Multiple Identical Faces</td></tr>
 <tr><td>20</td><td>Trout</td><td>Volatile</td><td>You Never Match the Ambient Light</td></tr>
 </table>
-
-### Special
-__FLAT__ - You lack a third dimension, and resemble a living painting or paper doll. You can slip through cracks and under doors, and cannot be seen from the side. You take halved damage from bludgeoning attacks, and double damage from slashing or piercing attacks.  
-__ATTUNE WITH MATTER__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentration, you can attune yourself with an item, and add it to your inventory.
