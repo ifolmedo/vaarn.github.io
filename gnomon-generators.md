@@ -157,49 +157,25 @@ _Should the party wish to engage the services of hired swords, Gnomon’s tavern
 
 ### Inferior Mercenary
 _Biological_
-<table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Crude Weapon (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Will work for meals and water.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>1</td><td>12</td><td>+2</td><td>1</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attacks</b>: Crude Weapon (d6)</td></tr>
+<tr class="statlast"><td colspan="4">Will work for meals and water.</td></tr>
 </table>
 
 ### Skilled Mercenary
 _Biological_
-<table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Well-Kept Weapon (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Will demand a retainer of two water tokens per day, plus a share of any valuables or Exotica the party finds.</td></tr>
+<table class="statblock">
+<thead><tr><th>Level</th><th>Armour</th><th>Morale</th><th>Encountered</th></tr></thead>
+<tr class="statvalue"><td>3</td><td>14</td><td>+5</td><td>1</td></tr>
+<tr class="statfirst"><td colspan="4"><b>Attacks</b>: Well-Kept Weapon (d8)</td></tr>
+<tr class="statlast"><td colspan="4">Will demand a retainer of two water tokens per day, plus a share of any valuables or Exotica the party finds.</td></tr>
 </table>
 
 ## Noble House
 
 _The Noble Houses of Gnomon trace their ancestries to the reign of the Autarchs, with land-holdings that have been maintained for millennia. These families are decadent, lethargic, insular, greedy, suspicious of outsiders, contemptuous of those who work for a living, and seethingly jealous of the growing power of the merchant class. Many nobles have never set foot outside the decaying complex of mansions that encrusts the Apex. Within the cloistered walls of their homes, they set themselves to infighting, treachery, and the pursuit of frivolous obsessions_.
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Patriarch</td><td>Envy (Property)</td><td rowspan="2">Patriarch of a Rival House</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Matriarch</td><td>Love (Forbidden)</td><td rowspan="2">Matriarch of a Rival House</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Eldest Child, Heir Apparent</td><td>Love (Triangle)</td><td rowspan="2">Heir of a Rival House</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Second Child, Rival of the Heir</td><td>Debt (Water)</td><td rowspan="2">Artist, Hired to Paint the Family’s Portrait</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
-<tr><td>9</td><td rowspan="2">Estranged Child, Disinherited</td><td>Theft</td><td rowspan="2">Clone of the Patriarch</td></tr>
-<tr><td>10</td><td>Idle Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Reckless Child, Injured in a Duel</td><td>Adultery</td><td rowspan="2">Disgraced Uncle</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Softhearted, Naive Child</td><td>Gluttony</td><td rowspan="2">Head of the Servants</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Cruel and Capricious Child</td><td>Wild, Baseless Accusations</td><td rowspan="2">The Cook</td></tr>
-<tr><td>16</td><td>Obscure Matters of Etiquette</td></tr>
-<tr><td>17</td><td rowspan="2">Dull Child, Promised to the Clergy</td><td>An Impostor</td><td rowspan="2">Captain of the Guards</td></tr>
-<tr><td>18</td><td>Dispute Over Inheritance</td></tr>
-<tr><td>19</td><td rowspan="2">Youngest Child, Coddled Favourite</td><td>Blackmail</td><td rowspan="2">Master of Hounds</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
 
 <table>
 <thead><th>d20</th><th>House Sigil</th><th>Ancestral Heirloom</th><th>The Family Shame</th></thead>
@@ -249,33 +225,33 @@ _The Noble Houses of Gnomon trace their ancestries to the reign of the Autarchs,
 <tr><td>20</td><td>Secretive</td><td>Music</td></tr>
 </table>
 
+<table>
+<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">Patriarch</td><td>Envy (Property)</td><td rowspan="2">Patriarch of a Rival House</td></tr>
+<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>3</td><td rowspan="2">Matriarch</td><td>Love (Forbidden)</td><td rowspan="2">Matriarch of a Rival House</td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
+<tr><td>5</td><td rowspan="2">Eldest Child, Heir Apparent</td><td>Love (Triangle)</td><td rowspan="2">Heir of a Rival House</td></tr>
+<tr><td>6</td><td>Debt (Gambling)</td></tr>
+<tr><td>7</td><td rowspan="2">Second Child, Rival of the Heir</td><td>Debt (Water)</td><td rowspan="2">Artist, Hired to Paint the Family’s Portrait</td></tr>
+<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>9</td><td rowspan="2">Estranged Child, Disinherited</td><td>Theft</td><td rowspan="2">Clone of the Patriarch</td></tr>
+<tr><td>10</td><td>Idle Gossip</td></tr>
+<tr><td>11</td><td rowspan="2">Reckless Child, Injured in a Duel</td><td>Adultery</td><td rowspan="2">Disgraced Uncle</td></tr>
+<tr><td>12</td><td>Conspiracy</td></tr>
+<tr><td>13</td><td rowspan="2">Softhearted, Naive Child</td><td>Gluttony</td><td rowspan="2">Head of the Servants</td></tr>
+<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>15</td><td rowspan="2">Cruel and Capricious Child</td><td>Wild, Baseless Accusations</td><td rowspan="2">The Cook</td></tr>
+<tr><td>16</td><td>Obscure Matters of Etiquette</td></tr>
+<tr><td>17</td><td rowspan="2">Dull Child, Promised to the Clergy</td><td>An Impostor</td><td rowspan="2">Captain of the Guards</td></tr>
+<tr><td>18</td><td>Dispute Over Inheritance</td></tr>
+<tr><td>19</td><td rowspan="2">Youngest Child, Coddled Favourite</td><td>Blackmail</td><td rowspan="2">Master of Hounds</td></tr>
+<tr><td>20</td><td>Murder</td></tr>
+</table>
+
 ## Trade Cartel
 
 _There is lucrative business to be done in Gnomon, and great wealth arouses great passions in those who envy it. Successful merchants have deemed it prudent and profitable to band together into professional fraternities that safeguard each member and provide an insurance policy in case of losses or disputes. Outsiders may complain about shady dealings, price fixing, tax fraud, and violent extortion, but these cartels have a firm hold over much of the market, and it would take more than the sour gossip of the unsuccessful to dislodge their grasp_.
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">The Head of the Cartel</td><td>Envy (Property)</td><td rowspan="2">Head of a Rival Cartel</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">The Head’s Trusted Advisor</td><td>Love (Forbidden)</td><td rowspan="2">Scion of a Rival Cartel</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Sour, Cautious Merchant</td><td>Love (Triangle)</td><td rowspan="2">The Cartel’s Major Debt-holder</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Reckless, Dashing Merchant</td><td>Debt (Water)</td><td rowspan="2">The Cartel’s Major Creditor</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
-<tr><td>9</td><td rowspan="2">Foolish Merchant</td><td>Robbery</td><td rowspan="2">Delinquent Debtor</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">The Treasurer</td><td>Adultery</td><td rowspan="2">Crooked Customs Agent</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Elderly, Respected Merchant</td><td>Gluttony</td><td rowspan="2">Hegemony Tax Collector</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Young, Hungry Merchant</td><td>Wild, Baseless Accusations</td><td rowspan="2">Major Supplier</td></tr>
-<tr><td>16</td><td>Anonymous Letters</td></tr>
-<tr><td>17</td><td rowspan="2">Clever, Sly Clerk</td><td>Poisoning</td><td rowspan="2">Major Buyer</td></tr>
-<tr><td>18</td><td>Embezzlement</td></tr>
-<tr><td>19</td><td rowspan="2">Greedy, Corrupt Clerk</td><td>Blackmail</td><td rowspan="2">Difficult but Necessary Customer</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
 
 <table>
 <thead><th>d20</th><th>Name (A)</th><th>Name (B)</th><th>Name (C)</th></thead>
@@ -325,33 +301,33 @@ _There is lucrative business to be done in Gnomon, and great wealth arouses grea
 <tr><td>20</td><td>Tobacco</td></tr>
 </table>
 
+<table>
+<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">The Head of the Cartel</td><td>Envy (Property)</td><td rowspan="2">Head of a Rival Cartel</td></tr>
+<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>3</td><td rowspan="2">The Head’s Trusted Advisor</td><td>Love (Forbidden)</td><td rowspan="2">Scion of a Rival Cartel</td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
+<tr><td>5</td><td rowspan="2">Sour, Cautious Merchant</td><td>Love (Triangle)</td><td rowspan="2">The Cartel’s Major Debt-holder</td></tr>
+<tr><td>6</td><td>Debt (Gambling)</td></tr>
+<tr><td>7</td><td rowspan="2">Reckless, Dashing Merchant</td><td>Debt (Water)</td><td rowspan="2">The Cartel’s Major Creditor</td></tr>
+<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>9</td><td rowspan="2">Foolish Merchant</td><td>Robbery</td><td rowspan="2">Delinquent Debtor</td></tr>
+<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>11</td><td rowspan="2">The Treasurer</td><td>Adultery</td><td rowspan="2">Crooked Customs Agent</td></tr>
+<tr><td>12</td><td>Conspiracy</td></tr>
+<tr><td>13</td><td rowspan="2">Elderly, Respected Merchant</td><td>Gluttony</td><td rowspan="2">Hegemony Tax Collector</td></tr>
+<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>15</td><td rowspan="2">Young, Hungry Merchant</td><td>Wild, Baseless Accusations</td><td rowspan="2">Major Supplier</td></tr>
+<tr><td>16</td><td>Anonymous Letters</td></tr>
+<tr><td>17</td><td rowspan="2">Clever, Sly Clerk</td><td>Poisoning</td><td rowspan="2">Major Buyer</td></tr>
+<tr><td>18</td><td>Embezzlement</td></tr>
+<tr><td>19</td><td rowspan="2">Greedy, Corrupt Clerk</td><td>Blackmail</td><td rowspan="2">Difficult but Necessary Customer</td></tr>
+<tr><td>20</td><td>Murder</td></tr>
+</table>
+
 ## Urban Shrine
 
 _The Church of the Promised Sun is not the only faith followed in Gnomon. Traders have brought more than the sand in their boots and the cargo in their saddle-bags to the city of shaded markets; their creeds have been carried with them, and there are a plethora of gods, demigods, quantum daemons, fungal sages, and void-saints worshipped at shrines throughout the city. Some of these sanctums are tended by hundreds of priests and acolytes, but most are smaller affairs, that boast only a handful of curates and worshippers. They are sacred all the same_.
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">The Shrine Keeper</td><td>Envy (Property)</td><td rowspan="2">Widower, Who Often Visits to Worship</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">The Shrine Keeper’s Adopted Child</td><td>Love (Forbidden)</td><td rowspan="2">Dull, Devout Worshipper</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">The Shrine Keeper’s Wayward Child</td><td>Love (Triangle)</td><td rowspan="2">Ex-Priest, Whose Faith Deserted Them</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Young Oracle, Who Has Visions</td><td>Debt (Water)</td><td rowspan="2">Scion of a Noble House</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
-<tr><td>9</td><td rowspan="2">Drunken, Lazy Priest</td><td>Robbery</td><td rowspan="2">Mystic, Who Performs Intense Physical Feats to Prove Devotion</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">The Master of Sacrifices</td><td>Adultery</td><td rowspan="2">One Time Worshipper, Who Now Professes Another Faith</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Elderly, Blind Mystic</td><td>Gluttony</td><td rowspan="2">An Exorcist</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Devout and Fanatical Priest</td><td>Wild, Baseless Accusations</td><td rowspan="2">Candlemaker, Who Supplies the Sacred Candles</td></tr>
-<tr><td>16</td><td>Anonymous Letters</td></tr>
-<tr><td>17</td><td rowspan="2">The Keeper of a Sacred Animal</td><td>Demonic Possession</td><td rowspan="2">Ancient Oracle, Who No Longer Sees the Path</td></tr>
-<tr><td>18</td><td>Heresey</td></tr>
-<tr><td>19</td><td rowspan="2">Slave, Who Sweeps the Grounds</td><td>Blackmail</td><td rowspan="2">Beggar, Who Visits Once A Day For A Meal</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
 
 <table>
 <thead><th>d20</th><th>God Aspect (A)</th><th>God Aspect (B)</th><th>Holy Relic</th></thead>
@@ -401,34 +377,33 @@ _The Church of the Promised Sun is not the only faith followed in Gnomon. Trader
 <tr><td>20</td><td>Synths</td><td>Good Fortune</td><td>Humans</td></tr>
 </table>
 
+<table>
+<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">The Shrine Keeper</td><td>Envy (Property)</td><td rowspan="2">Widower, Who Often Visits to Worship</td></tr>
+<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>3</td><td rowspan="2">The Shrine Keeper’s Adopted Child</td><td>Love (Forbidden)</td><td rowspan="2">Dull, Devout Worshipper</td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
+<tr><td>5</td><td rowspan="2">The Shrine Keeper’s Wayward Child</td><td>Love (Triangle)</td><td rowspan="2">Ex-Priest, Whose Faith Deserted Them</td></tr>
+<tr><td>6</td><td>Debt (Gambling)</td></tr>
+<tr><td>7</td><td rowspan="2">Young Oracle, Who Has Visions</td><td>Debt (Water)</td><td rowspan="2">Scion of a Noble House</td></tr>
+<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>9</td><td rowspan="2">Drunken, Lazy Priest</td><td>Robbery</td><td rowspan="2">Mystic, Who Performs Intense Physical Feats to Prove Devotion</td></tr>
+<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>11</td><td rowspan="2">The Master of Sacrifices</td><td>Adultery</td><td rowspan="2">One Time Worshipper, Who Now Professes Another Faith</td></tr>
+<tr><td>12</td><td>Conspiracy</td></tr>
+<tr><td>13</td><td rowspan="2">Elderly, Blind Mystic</td><td>Gluttony</td><td rowspan="2">An Exorcist</td></tr>
+<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>15</td><td rowspan="2">Devout and Fanatical Priest</td><td>Wild, Baseless Accusations</td><td rowspan="2">Candlemaker, Who Supplies the Sacred Candles</td></tr>
+<tr><td>16</td><td>Anonymous Letters</td></tr>
+<tr><td>17</td><td rowspan="2">The Keeper of a Sacred Animal</td><td>Demonic Possession</td><td rowspan="2">Ancient Oracle, Who No Longer Sees the Path</td></tr>
+<tr><td>18</td><td>Heresey</td></tr>
+<tr><td>19</td><td rowspan="2">Slave, Who Sweeps the Grounds</td><td>Blackmail</td><td rowspan="2">Beggar, Who Visits Once A Day For A Meal</td></tr>
+<tr><td>20</td><td>Murder</td></tr>
+</table>
 
 ## Pit Fighters
 
 _There is nothing that clears the mind after a day of work like the sight of a stranger’s blood on freshly-raked sand, and the city is alive at night with the roars of the spectators and the cries of the fallen_.
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Owner of the Pit</td><td>Envy (Property)</td><td rowspan="2">Narcotics Seller, Who Supplies the Gladiators</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Ticket Tout, Who Works the Street Outside</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Owner's Son or Daughter</td><td>Love (Triangle)</td><td rowspan="2">Servant, Who Rakes the Sand Between Fights</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Champion Gladiator</td><td>Debt (Water)</td><td rowspan="2">Masseuse, Who Treats the Fighters</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
-<tr><td>9</td><td rowspan="2">Retired Champion, Now a Trainer</td><td>Robbery</td><td rowspan="2">Wealthy Patron, Who Pays To Spend the Night With Champions</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Rival to the Champion</td><td>Adultery</td><td rowspan="2">Obsessive Fan of One Fighter</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Green Gladiator, As Yet Unblooded</td><td>Gluttony</td><td rowspan="2">Bloodthirsty Spectator</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Ageing Gladiator, Past Their Prime</td><td>Wild, Baseless Accusations</td><td rowspan="2">Gambler, Who Bets on the Fights</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Unpopular Gladiator, Known For Extreme Sadism</td><td>Addiction (Narcotics)</td><td rowspan="2">Healer, Who Treats Wounded Fighters</td></tr>
-<tr><td>18</td><td>Match Fixing</td></tr>
-<tr><td>19</td><td rowspan="2">Retired Gladiator, Kept Employed Out Of Sentiment</td><td>Blackmail</td><td rowspan="2">Owner of a Rival Pit</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
 
 <table>
 <thead><th>d20</th><th>Gladiator Name (A)</th><th>Gladiator Name (B)</th><th>Appearance</th></thead>
@@ -478,34 +453,34 @@ _There is nothing that clears the mind after a day of work like the sight of a s
 <tr><td>20</td><td>Sacred Flamberge</td><td>Solid Gold</td></tr>
 </table>
 
+<table>
+<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">Owner of the Pit</td><td>Envy (Property)</td><td rowspan="2">Narcotics Seller, Who Supplies the Gladiators</td></tr>
+<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Ticket Tout, Who Works the Street Outside</td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
+<tr><td>5</td><td rowspan="2">Owner's Son or Daughter</td><td>Love (Triangle)</td><td rowspan="2">Servant, Who Rakes the Sand Between Fights</td></tr>
+<tr><td>6</td><td>Debt (Gambling)</td></tr>
+<tr><td>7</td><td rowspan="2">Champion Gladiator</td><td>Debt (Water)</td><td rowspan="2">Masseuse, Who Treats the Fighters</td></tr>
+<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>9</td><td rowspan="2">Retired Champion, Now a Trainer</td><td>Robbery</td><td rowspan="2">Wealthy Patron, Who Pays To Spend the Night With Champions</td></tr>
+<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>11</td><td rowspan="2">Rival to the Champion</td><td>Adultery</td><td rowspan="2">Obsessive Fan of One Fighter</td></tr>
+<tr><td>12</td><td>Conspiracy</td></tr>
+<tr><td>13</td><td rowspan="2">Green Gladiator, As Yet Unblooded</td><td>Gluttony</td><td rowspan="2">Bloodthirsty Spectator</td></tr>
+<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>15</td><td rowspan="2">Ageing Gladiator, Past Their Prime</td><td>Wild, Baseless Accusations</td><td rowspan="2">Gambler, Who Bets on the Fights</td></tr>
+<tr><td>16</td><td>Addiction (Drink)</td></tr>
+<tr><td>17</td><td rowspan="2">Unpopular Gladiator, Known For Extreme Sadism</td><td>Addiction (Narcotics)</td><td rowspan="2">Healer, Who Treats Wounded Fighters</td></tr>
+<tr><td>18</td><td>Match Fixing</td></tr>
+<tr><td>19</td><td rowspan="2">Retired Gladiator, Kept Employed Out Of Sentiment</td><td>Blackmail</td><td rowspan="2">Owner of a Rival Pit</td></tr>
+<tr><td>20</td><td>Murder</td></tr>
+</table>
+
 ## Philosopher's Guild
 
 _The Great Collapse scoured the wisdom of the ancients from the surface of the Urth. Only shards of their discoveries remain, but the merest glimpses of what once was are enough to compel some to dedicate their lives to a desperate search for those squandered truths_.
 
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Haughty, Proud Philosopher</td><td>Envy (Property)</td><td rowspan="2">Former Student, Who Has Renounced the Guild</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Kind and Naive Philosopher</td><td>Love (Forbidden)</td><td rowspan="2">Ageing Philosopher, Respected But Now Bereft of Their Wits</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Accomplished, Respected Philosopher</td><td>Love (Triangle)</td><td rowspan="2">The Head of a Rival Guild</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Loathed, Rude Philosopher</td><td>Debt (Water)</td><td rowspan="2">The Wealthy Parent of a Student</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
-<tr><td>9</td><td rowspan="2">Philosopher, Driven Mad By Their Research</td><td>Robbery</td><td rowspan="2">Spouse of A Philosopher</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Talented, Arrogant Student</td><td>Adultery</td><td rowspan="2">Former Student, Who Broke the Guild’s Code</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Stupid, Wealthy Student</td><td>Gluttony</td><td rowspan="2">Former Student, Who Founded Rival Guild</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Dull, but Cheerful Student</td><td>Theft of Rare Manuscripts</td><td rowspan="2">Rough Adventurer, Who Provides the Guild With Scavenged Technology</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Visiting Translator or Other Expert</td><td>Addiction (Narcotics)</td><td rowspan="2">Rich, Idle Noble, Who Fancies Themselves A Thinker</td></tr>
-<tr><td>18</td><td>Violation of the Guild’s Code</td></tr>
-<tr><td>19</td><td rowspan="2">Synth, Who Assists With Experiments</td><td>Blackmail</td><td rowspan="2">Psychic, Who Channels Unearthly Powers for the Philosophers</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
 
 <table>
 <thead><th>d20</th><th>Guild Name (A)</th><th>Guild Name (B)</th><th>Guild Name (C)</th></thead>
@@ -555,33 +530,33 @@ _The Great Collapse scoured the wisdom of the ancients from the surface of the U
 <tr><td>20</td><td>Mind Control</td><td>Ritualised Feud With Rival Guild</td></tr>
 </table>
 
+<table>
+<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">Haughty, Proud Philosopher</td><td>Envy (Property)</td><td rowspan="2">Former Student, Who Has Renounced the Guild</td></tr>
+<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>3</td><td rowspan="2">Kind and Naive Philosopher</td><td>Love (Forbidden)</td><td rowspan="2">Ageing Philosopher, Respected But Now Bereft of Their Wits</td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
+<tr><td>5</td><td rowspan="2">Accomplished, Respected Philosopher</td><td>Love (Triangle)</td><td rowspan="2">The Head of a Rival Guild</td></tr>
+<tr><td>6</td><td>Debt (Gambling)</td></tr>
+<tr><td>7</td><td rowspan="2">Loathed, Rude Philosopher</td><td>Debt (Water)</td><td rowspan="2">The Wealthy Parent of a Student</td></tr>
+<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>9</td><td rowspan="2">Philosopher, Driven Mad By Their Research</td><td>Robbery</td><td rowspan="2">Spouse of A Philosopher</td></tr>
+<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>11</td><td rowspan="2">Talented, Arrogant Student</td><td>Adultery</td><td rowspan="2">Former Student, Who Broke the Guild’s Code</td></tr>
+<tr><td>12</td><td>Conspiracy</td></tr>
+<tr><td>13</td><td rowspan="2">Stupid, Wealthy Student</td><td>Gluttony</td><td rowspan="2">Former Student, Who Founded Rival Guild</td></tr>
+<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>15</td><td rowspan="2">Dull, but Cheerful Student</td><td>Theft of Rare Manuscripts</td><td rowspan="2">Rough Adventurer, Who Provides the Guild With Scavenged Technology</td></tr>
+<tr><td>16</td><td>Addiction (Drink)</td></tr>
+<tr><td>17</td><td rowspan="2">Visiting Translator or Other Expert</td><td>Addiction (Narcotics)</td><td rowspan="2">Rich, Idle Noble, Who Fancies Themselves A Thinker</td></tr>
+<tr><td>18</td><td>Violation of the Guild’s Code</td></tr>
+<tr><td>19</td><td rowspan="2">Synth, Who Assists With Experiments</td><td>Blackmail</td><td rowspan="2">Psychic, Who Channels Unearthly Powers for the Philosophers</td></tr>
+<tr><td>20</td><td>Murder</td></tr>
+</table>
+
 ## Gang of Criminals
 
 _Those who cannot buy and sell must either steal or starve. Little wonder that there are many in the city of shaded markets who choose the mantle of the thief._
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Gang Leader</td><td>Envy (Property)</td><td rowspan="2">Retired Master Thief</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Brutal Enforcer</td><td>Love (Forbidden)</td><td rowspan="2">Art Forger</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Young, Naïve Orphan</td><td>Love (Triangle)</td><td rowspan="2">Crooked Customs Agent</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Quick-fingered Pickpocket</td><td>Debt (Water)</td><td rowspan="2">Owner of a Safe House</td></tr>
-<tr><td>8</td><td>Debt (To Prieval Prise)</td></tr>
-<tr><td>9</td><td rowspan="2">Fence of Stolen Goods</td><td>Robbery</td><td rowspan="2">Head of Rival Gang</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Charming Conartist</td><td>Adultery</td><td rowspan="2">Killer for Hire</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Aged, Cynical Burglar</td><td>Gluttony</td><td rowspan="2">Owner of a Passion-House</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Cunning Forger</td><td>A Risky Plan</td><td rowspan="2">Gambling House Owner</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Petty Smuggler</td><td>Addiction (Narcotics)</td><td rowspan="2">Street Musician</td></tr>
-<tr><td>18</td><td>Snitching</td></tr>
-<tr><td>19</td><td rowspan="2">Sharp-eyed Lookout</td><td>Blackmail</td><td rowspan="2">Owner of an Orphanage</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
 
 <table>
 <thead><th>d20</th><th>Gang Name (A)</th><th>Gang Name (B)</th><th>Their Leader</th></thead>
@@ -631,33 +606,33 @@ _Those who cannot buy and sell must either steal or starve. Little wonder that t
 <tr><td>20</td><td>Psychic Blackmailers</td><td>Another Criminal Gang</td><td>Household of a Noble Family</td></tr>
 </table>
 
+<table>
+<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">Gang Leader</td><td>Envy (Property)</td><td rowspan="2">Retired Master Thief</td></tr>
+<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>3</td><td rowspan="2">Brutal Enforcer</td><td>Love (Forbidden)</td><td rowspan="2">Art Forger</td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
+<tr><td>5</td><td rowspan="2">Young, Naïve Orphan</td><td>Love (Triangle)</td><td rowspan="2">Crooked Customs Agent</td></tr>
+<tr><td>6</td><td>Debt (Gambling)</td></tr>
+<tr><td>7</td><td rowspan="2">Quick-fingered Pickpocket</td><td>Debt (Water)</td><td rowspan="2">Owner of a Safe House</td></tr>
+<tr><td>8</td><td>Debt (To Prieval Prise)</td></tr>
+<tr><td>9</td><td rowspan="2">Fence of Stolen Goods</td><td>Robbery</td><td rowspan="2">Head of Rival Gang</td></tr>
+<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>11</td><td rowspan="2">Charming Conartist</td><td>Adultery</td><td rowspan="2">Killer for Hire</td></tr>
+<tr><td>12</td><td>Conspiracy</td></tr>
+<tr><td>13</td><td rowspan="2">Aged, Cynical Burglar</td><td>Gluttony</td><td rowspan="2">Owner of a Passion-House</td></tr>
+<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>15</td><td rowspan="2">Cunning Forger</td><td>A Risky Plan</td><td rowspan="2">Gambling House Owner</td></tr>
+<tr><td>16</td><td>Addiction (Drink)</td></tr>
+<tr><td>17</td><td rowspan="2">Petty Smuggler</td><td>Addiction (Narcotics)</td><td rowspan="2">Street Musician</td></tr>
+<tr><td>18</td><td>Snitching</td></tr>
+<tr><td>19</td><td rowspan="2">Sharp-eyed Lookout</td><td>Blackmail</td><td rowspan="2">Owner of an Orphanage</td></tr>
+<tr><td>20</td><td>Murder</td></tr>
+</table>
+
 ## Tavern
 
 _The Water Baron may have a monopoly on fresh water, but he does not have one on booze. Gnomon is awash with alcohol and drugs, brought from the four corners of Vaarn and beyond. In the tavern, Gnomonians from all walks of life gather to forget the day’s troubles, meet friends old and new, and get drawn into petty conflicts with heavily-armed, drunken strangers._
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">The Owner</td><td>Envy (Property)</td><td rowspan="2">Well-Liked but Foolish Regular</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Widely Loathed Regular</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Owner's Reckless Child</td><td>Love (Triangle)</td><td rowspan="2">Regular, Who Spends Too Much</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Owner’s Favoured Child</td><td>Debt (Water)</td><td rowspan="2">Brewer, Who Supplies the Tavern</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
-<tr><td>9</td><td rowspan="2">Bartender</td><td>Robbery</td><td rowspan="2">Local Thug</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Bouncer</td><td>Adultery</td><td rowspan="2">Wealthy but Miserly Regular</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Pot Scrubber</td><td>Gluttony</td><td rowspan="2">Courtesan, Who Does Business In the Tavern</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Cook</td><td>Wild, Baseless Accusations</td><td rowspan="2">Beggar, Who Sits Outside</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Hired Musician</td><td>Addiction (Narcotics)</td><td rowspan="2">Priest, Who Likes to Drink</td></tr>
-<tr><td>18</td><td>Rude Drunken Behaviour</td></tr>
-<tr><td>19</td><td rowspan="2">Dancer</td><td>Blackmail</td><td rowspan="2">Owner of a Rival Tavern</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
 
 <table>
 <thead><th>d20</th><th>Tavern Name (A)</th><th>Tavern Name (B)</th><th>Tavern Name (C)</th></thead>
@@ -705,6 +680,30 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>18</td><td>Expensive Wine</td><td>Excellent Dancers</td><td>Weird Signature Drink</td></tr>
 <tr><td>19</td><td>Expensive Beer</td><td>Excellent Musicians</td><td>Entirely Underground</td></tr>
 <tr><td>20</td><td>Hegemony Whiskey</td><td>Seating Opposite Gallows</td><td>Hologram Bartender</td></tr>
+</table>
+
+<table>
+<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">The Owner</td><td>Envy (Property)</td><td rowspan="2">Well-Liked but Foolish Regular</td></tr>
+<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Widely Loathed Regular</td></tr>
+<tr><td>4</td><td>Love (Unrequited)</td></tr>
+<tr><td>5</td><td rowspan="2">Owner's Reckless Child</td><td>Love (Triangle)</td><td rowspan="2">Regular, Who Spends Too Much</td></tr>
+<tr><td>6</td><td>Debt (Gambling)</td></tr>
+<tr><td>7</td><td rowspan="2">Owner’s Favoured Child</td><td>Debt (Water)</td><td rowspan="2">Brewer, Who Supplies the Tavern</td></tr>
+<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>9</td><td rowspan="2">Bartender</td><td>Robbery</td><td rowspan="2">Local Thug</td></tr>
+<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>11</td><td rowspan="2">Bouncer</td><td>Adultery</td><td rowspan="2">Wealthy but Miserly Regular</td></tr>
+<tr><td>12</td><td>Conspiracy</td></tr>
+<tr><td>13</td><td rowspan="2">Pot Scrubber</td><td>Gluttony</td><td rowspan="2">Courtesan, Who Does Business In the Tavern</td></tr>
+<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>15</td><td rowspan="2">Cook</td><td>Wild, Baseless Accusations</td><td rowspan="2">Beggar, Who Sits Outside</td></tr>
+<tr><td>16</td><td>Addiction (Drink)</td></tr>
+<tr><td>17</td><td rowspan="2">Hired Musician</td><td>Addiction (Narcotics)</td><td rowspan="2">Priest, Who Likes to Drink</td></tr>
+<tr><td>18</td><td>Rude Drunken Behaviour</td></tr>
+<tr><td>19</td><td rowspan="2">Dancer</td><td>Blackmail</td><td rowspan="2">Owner of a Rival Tavern</td></tr>
+<tr><td>20</td><td>Murder</td></tr>
 </table>
 
 ## Fine Dining
