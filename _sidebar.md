@@ -44,7 +44,9 @@
   - [Factions of the Wall](wall-factions.md)
   - [Wall Travel](wall-travel.md)
   - [Creating the Wall](creating-the-wall.md)
+  - [Wall Encounters](wall-encounters.md)
   - [Bestiary of the Wall](wall-bestiary.md)
+  - [NPCs on the Wall](wall-npcs.md)
 
 - Appendix
 

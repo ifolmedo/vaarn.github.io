@@ -19,9 +19,9 @@
 
 6. The following locations will always connect to an ikorvein, an alternative method of transport through the Wall: [Beetle Ranch](creating-the-wall.md#beetle-ranch), [Needle Ship Port](creating-the-wall.md#needle-ship-port), [Low Wall Settlement](creating-the-wall.md#low-wall-settlement), [Sargattean Fort](creating-the-wall.md#sargattean-fort), [Monastery](creating-the-wall.md#monastery), [Way Station](creating-the-wall.md#way-station), [Upper Wall Settlement](creating-the-wall.md#upper-wall-settlement), and [Weep](creating-the-wall.md#weeps) (Both). Connect them with dotted lines to indicate the vein routes. A [Needle Ship](creating-the-wall.md#needle-ship) can sail between two locations within hours.
 
-7. Populate the region with encounter tables. The Wall's ecology changes as one climbs through its strata, so it may be worth creating multiple smaller encounter tables for each layer. Examples can be found on p.62.
+7. Populate the region with [encounter tables](wall-encounters.md). The Wall's ecology changes as one climbs through its strata, so it may be worth creating multiple smaller encounter tables for each layer.
 
-8. Look at any settlements or outposts in the region, and attach a few named NPCs to them. Use the table on p.62 for inspiration.
+8. Look at any settlements or outposts in the region, and attach a few named [NPCs](wall-npcs.md) to them.
 
 ## Location Types
 <table>
@@ -865,7 +865,7 @@ Synthetic beings who drink sable ikor must make a PSY save. On failure, they are
 <tr><td>14</td><td>Silvery Logic-Parasites</td><td>Dazzling Mirrorball Brain</td></tr>
 <tr><td>15</td><td>Smothering Morass of Wires</td><td>Star Devoured by Black Hole</td></tr>
 <tr><td>16</td><td>Stygian Underwater Caverns</td><td>Undulating Tyrant Serpent</td></tr>
-<tr><td>17</td><td>Mountain of Synthetic Skulls</td><td>Wailing Forest of Knives</td><td rowspan="4"><b>Core Ego Function Overwrite</b><br /> You become comatose for d4 days. When you wake up, gain +2 EGO permanently.</td></tr>
+<tr><td>17</td><td>Mountain of Synthetic Skulls</td><td>Wailing Forest of Knives</td><td rowspan="4"><b>Core Ego Function Overwrite</b><br />You become comatose for d4 days. When you wake up, gain +2 EGO permanently.</td></tr>
 <tr><td>18</td><td>Caught in Pseudoneural Net</td><td>Incestuous Mothermonster</td></tr>
 <tr><td>19</td><td>Mirrored Mask of Own Face</td><td>Colourless Plain of Bones</td></tr>
 <tr><td>20</td><td>White-tiled Time Tombs</td><td>Volcanoes Vomit Forth Filth</td></tr>
