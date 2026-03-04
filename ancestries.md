@@ -605,3 +605,5 @@ __ATTUNE WITH MATTER__ - You struggle to hold 3D objects, and must make a DEX sa
 <tr><td>19</td><td>Canetonus</td><td>Unruly</td><td>Multiple Identical Faces</td></tr>
 <tr><td>20</td><td>Trout</td><td>Volatile</td><td>You Never Match the Ambient Light</td></tr>
 </table>
+
+[wall-ancestries](wall-ancestries.md ':include')

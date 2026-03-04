@@ -7,7 +7,7 @@
   - [Ancestries](ancestries.md)
   - [Mystic Gifts](mystic-gifts.md)
   - [Cybernetics](cybernetics.md)
-  - [Exotica](exotica.md)
+  - [Exotica](starting-exotica.md)
   - [Equipment](equipment.md)
   - [Alchemy](alchemy.md)
   - [Toxins](toxins.md)
@@ -29,6 +29,7 @@
   - [Petty Gods of Vaarn](petty-gods-of-vaarn.md)
   - [Creating NPCs](creating-npcs.md)
   - [Transport](transport.md)
+  - [Exotica](exotica.md)
   - [Stuff in Vaarn](stuff-in-vaarn.md)
 
 - Gnomon
@@ -40,13 +41,11 @@
 - The Wall
 
   - [The Great Wall of Vaarn](the-wall.md)
-  - [Ancestries of the Wall](wall-ancestries.md)
   - [Factions of the Wall](wall-factions.md)
   - [Wall Travel](wall-travel.md)
   - [Creating the Wall](creating-the-wall.md)
   - [Wall Encounters](wall-encounters.md)
   - [Bestiary of the Wall](wall-bestiary.md)
-  - [NPCs on the Wall](wall-npcs.md)
 
 - Appendix
 

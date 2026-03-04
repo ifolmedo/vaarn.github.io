@@ -12,7 +12,7 @@
 <tr><td>7</td><td><a href="/#/bestiary?id=giant-azure-scorpion">d4 Giant Azure Scorpions</a></td><td><a href="/#/wall-bestiary?id=hangman-vine">Hangman Vine</a></td><td><a href="/#/wall-bestiary?id=hangman-vine">Hangman Vine</a></td></tr>
 <tr><td>8</td><td><a href="/#/wall-bestiary?id=clambercrab">d8 Clambercrabs</a></td><td><a href="/#/wall-bestiary?id=glider-spider">d8 Glider Spiders</a></td><td><a href="/#/wall-bestiary?id=glider-spider">d8 Glider Spiders</a></td></tr>
 <tr><td>9</td><td><a href="/#/wall-factions?id=leveller">2d6 Levellers</a></td><td><a href="/#/wall-bestiary?id=dreamsnake">Dreamsnake</a></td><td><a href="/#/wall-bestiary?id=dreamsnake">Dreamsnake</a></td></tr>
-<tr><td>10</td><td colspan="3"><a href="/#/wall-npcs.md">Travelling NPC</a></a></td></tr>
+<tr><td>10</td><td colspan="3"><a href="/#/creating-the-wall.md?id=npcs-on-the-wall">Travelling NPC</a></a></td></tr>
 <tr><td>11</td><td><a href="/#/wall-bestiary?id=drillbill">d8 Drillbills</a></td><td><a href="/#/wall-bestiary?id=drillbill">d8 Drillbills</a></td><td><a href="/#/wall-bestiary?id=janus-moth">d3 Janus Moths</a></td></tr>
 <tr><td>12</td><td><a href="/#/wall-factions?id=sargattean-guard-1">2d6 Sargattean Guard</a></td><td><a href="/#/wall-factions?id=sargattean-guard-1">2d6 Sargattean Guard</a></td><td><a href="/#/wall-bestiary?id=winged-scorpion">d4 Winged Scorpions</a></td></tr>
 <tr><td>13</td><td><a href="/#/bestiary?id=faa-nomad">d10 Faa Nomads</a></td><td><a href="/#/wall-bestiary?id=flashund">d6 Flashunds</a></td><td><a href="/#/bestiary?id=planeyfolk">d6 Planeyfolk</a></td></tr>
