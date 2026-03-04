@@ -23,23 +23,23 @@ The Referee can generate regions of Vaarn using the following method. This techn
 
 <table>
 <thead><th>d20</th><th>Location Type</th><th>Travel Hazard</th><th>Landscape Type</th><th>Region Named For</th></thead>
-<tr><td>1</td><td><a href="#/creating-regions.md?id=ruin">Ruin</a></td><td rowspan="2"><a href="#/creating-regions.md?id=bandit-camp">Bandits Control the Road</a></td><td>Featureless Sands</td><td rowspan="2">Famous Resident</td></tr>
+<tr><td>1</td><td><a href="#/creating-regions.md?id=ruin">Ruin</a></td><td rowspan="2"><a href="#/bestiary.md?id=bandit">Bandits Control the Road</a></td><td>Featureless Sands</td><td rowspan="2">Famous Resident</td></tr>
 <tr><td>2</td><td><a href="#/creating-regions.md?id=settlement">Settlement</a></td><td>Salt Pan</td></tr>
-<tr><td>3</td><td><a href="#/creating-regions.md?id=oasis">Oasis</a></td><td rowspan="2">Hunting Ground of Chromavore</td><td>Hard Rocky Plain</td><td rowspan="2">Local Wildlife</td></tr>
+<tr><td>3</td><td><a href="#/creating-regions.md?id=oasis">Oasis</a></td><td rowspan="2"><a href="/#/bestiary?id=chromavore">Hunting Ground of Chromavore</a></td><td>Hard Rocky Plain</td><td rowspan="2">Local Wildlife</td></tr>
 <tr><td>4</td><td><a href="#/creating-regions.md?id=holy-place">Holy Place</a></td><td>Dried-up Lake</td></tr>
 <tr><td>5</td><td><a href="#/creating-regions.md?id=wreck">Wreck</a></td><td rowspan="2"><a href="#/bestiary.md?id=argent-shepherd">Prowled by Argent Shepherd</a></td><td>Dried-up River</td><td rowspan="2">Natural Wonder</td></tr>
 <tr><td>6</td><td><a href="#/creating-regions.md?id=vault">Vault</a></td><td>Towering Monoliths</td></tr>
-<tr><td>7</td><td><a href="#/creating-regions.md?id=landmark">Landmark</a></td><td rowspan="2">Sandworm Spawning Grounds</td><td>Mesas</td><td rowspan="2">Natural Hazard</td></tr>
+<tr><td>7</td><td><a href="#/creating-regions.md?id=landmark">Landmark</a></td><td rowspan="2"><a href="/#/bestiary?id=sandworm-adult">Sandworm Spawning Grounds</a></td><td>Mesas</td><td rowspan="2">Natural Hazard</td></tr>
 <tr><td>8</td><td><a href="#/creating-regions.md?id=bandit-camp">Bandit Camp</a></td><td>Low Hills</td></tr>
-<tr><td>9</td><td><a href="#/creating-regions.md?id=bounty-hunter39s-camp">Bounty Hunter's Camp</a></td><td rowspan="2">Very Windy; Guaranteed Sandstorms</td><td>Single Mountain</td><td rowspan="2">Famous Monster</td></tr>
+<tr><td>9</td><td><a href="#/creating-regions.md?id=bounty-hunter39s-camp">Bounty Hunter's Camp</a></td><td rowspan="2"><a href="/#/weather">Very Windy; Guaranteed Sandstorms</a></td><td>Single Mountain</td><td rowspan="2">Famous Monster</td></tr>
 <tr><td>10</td><td><a href="#/creating-regions.md?id=lair">Lair</a></td><td>Toxic Lake</td></tr>
-<tr><td>11</td><td><a href="#/creating-regions.md?id=archive">Archive</a></td><td rowspan="2">Roving Cult Searching for Converts</td><td>Toxic River</td><td rowspan="2">Long-Dead Settlement</td></tr>
+<tr><td>11</td><td><a href="#/creating-regions.md?id=archive">Archive</a></td><td rowspan="2"><a href="/#/gnomon-factions?id=cultist">Roving Cult Searching for Converts</a></td><td>Toxic River</td><td rowspan="2">Long-Dead Settlement</td></tr>
 <tr><td>12</td><td><a href="#/creating-regions.md?id=arcology">Arcology</a></td><td>Fungal Forest</td></tr>
-<tr><td>13</td><td><a href="#/creating-regions.md?id=grave">Grave</a></td><td rowspan="2">Malfunctioning Synths Demand a Toll</td><td>Crystal Growths</td><td rowspan="2">Forgotten Religion</td></tr>
+<tr><td>13</td><td><a href="#/creating-regions.md?id=grave">Grave</a></td><td rowspan="2"><a href="/#/creating-npcs">Malfunctioning Synths Demand a Toll</a></td><td>Crystal Growths</td><td rowspan="2">Forgotten Religion</td></tr>
 <tr><td>14</td><td><a href="#/creating-regions.md?id=science-mystic39s-abode">Science-Mystic's Abode</a></td><td>Windswept Plateau</td></tr>
-<tr><td>15</td><td><a href="#/creating-regions.md?id=trade-post">Trade Post</a></td><td rowspan="2"><a href="#/creating-regions.md?id=cacklemaw-den">Road Watched by Cacklemaw Clan</a></td><td>Mountainous</td><td rowspan="2">Local Weather</td></tr>
+<tr><td>15</td><td><a href="#/creating-regions.md?id=trade-post">Trade Post</a></td><td rowspan="2"><a href="#/bestiary.md?id=cacklemaw">Road Watched by Cacklemaw Clan</a></td><td>Mountainous</td><td rowspan="2">Local Weather</td></tr>
 <tr><td>16</td><td><a href="#/creating-regions.md?id=hegemony-camp">Hegemony Camp</a></td><td>Winding Canyons</td></tr>
-<tr><td>17</td><td><a href="#/creating-regions.md?id=faa-nomad-camp">Faa Nomad Camp</a></td><td rowspan="2">Warring Faa Nomads</td><td>Abandoned City</td><td rowspan="2">Natural Resource</td></tr>
+<tr><td>17</td><td><a href="#/creating-regions.md?id=faa-nomad-camp">Faa Nomad Camp</a></td><td rowspan="2"><a href="/#/bestiary?id=faa-nomad">Warring Faa Nomads</a></td><td>Abandoned City</td><td rowspan="2">Natural Resource</td></tr>
 <tr><td>18</td><td><a href="#/creating-regions.md?id=cacklemaw-den">Cacklemaw Den</a></td><td>Cactus Fields</td></tr>
 <tr><td>19</td><td><a href="#/creating-regions.md?id=anomaly">Anomaly</a></td><td rowspan="2">Unexploded Landmines</td><td>Riddled with Caves</td><td rowspan="2">Name No Longer Understood</td></tr>
 <tr><td>20</td><td>(Roll d20 twice and combine results)</td><td>Garbage-strewn Wastes</td></tr>
