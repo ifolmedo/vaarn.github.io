@@ -35,7 +35,7 @@ On a hit, the attacker rolls their weapon's damage die to determine how many __H
 ## Wounds and Healing
 When a character takes damage and their HP drops below 0, they receive a corresponding __Wound__ from the chart below. Their HP remains at a negative value until they are healed, with all subsequent damage incurring more severe Wounds. Wounds occupy item slots. If 10 item slots fill with Wounds, the character dies. A character also dies if any ability defense drops to 0. When a character is healed, their HP recovers as though starting from 0.
 
-|DAMAGE PAST 0HP|WOUND|SLOTS|DESCRIPTION|
+|DAMAGE PAST 0 HP|WOUND|SLOTS|DESCRIPTION|
 |---------------|-----|-----|-----------|
 |1|Just a scratch| - |You were lucky, this time.|
 |2|Damaged Item| - |A random inventory item is destroyed or damaged.|

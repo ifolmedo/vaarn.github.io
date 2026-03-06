@@ -145,7 +145,7 @@ Vaarn has no universally accepted currency, so interactions with shopkeepers and
 I allow my players to make trades that seem reasonable at a glance, assuming that an item slots’ worth of goods can be exchanged for similar. The referee can use the table of approximate prices on the right to aid their judgement. If they are still uncertain whether a trade would be acceptable, they may roll d20 and refer to the table below, modifying with the PC’s EGO bonus.
 
 <table>
-<thead><td>1d20</td><td>Merchant's Reaction</td></thead>
+<thead><th>d20</th><th>Merchant's Reaction</th></thead>
 <tr><td>1-3</td><td>They are enraged to the point of physical violence</td></tr>
 <tr><td>4-8</td><td>Time-waster, get out of their sight</td></tr>
 <tr><td>9-12</td><td>They shrug and look at the sky</td></tr>
@@ -155,7 +155,7 @@ I allow my players to make trades that seem reasonable at a glance, assuming tha
 </table>
 
 <table>
-<thead><td colspan="2">Typical Price In Water Debt Tokens</td></thead>
+<thead><th colspan="2">Typical Price In Water Debt Tokens</th></thead>
 <tr><td>A Day’s Water</td><td>1 Token</td></tr>
 <tr><td>Sturdy Boots</td><td>1 Token</td></tr>
 <tr><td>Flash-bangs (5)</td><td>1 Token</td></tr>

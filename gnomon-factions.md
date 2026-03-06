@@ -404,7 +404,7 @@ Prieval Prise, the Friends of Jak, and the Crimson Court are underworld or fring
 If the referee wishes to seed some interactions between members of the factions during a campaign in Gnomon, they may use the table below. Mirrored results may either be discarded, or treated as conflict within the faction in question. Members of the same organization need not have identical goals, after all.
 
 <table>
-<thead><td>1d20</td><td>Member Of</td><td>Desires To</td><td>Member Of</td></thead>
+<thead><th>d20</th><th>Member Of</th><th>Desires To</th><th>Member Of</th></thead>
 <tr><td>1</td><td rowspan="2">Water Baron’s Militia</td><td rowspan="2">Abduct</td><td>Gang of Criminals</td></tr>
 <tr><td>2</td><td>Philosopher's Guild</td></tr>
 <tr><td>3</td><td rowspan="2">House Lonrot</td><td rowspan="2">Professionally Discredit</td><td>Pit Fighters</td></tr>

@@ -4,7 +4,7 @@
 ## Street Hassle
 
 <table>
-<thead><td>1d20</td><td>Group</td><td>Location</td><td>Source of Conflict</td></thead>
+<thead><th>d20</th><th>Group</th><th>Location</th><th>Source of Conflict</th></thead>
 <tr><td>1</td><td>Pickpockets</td><td>Sunbaked Street</td><td>Duel Within Group</td></tr>
 <tr><td>2</td><td>Street Sweepers</td><td>Shaded Street</td><td>Duel With Other Group</td></tr>
 <tr><td>3</td><td>Beggars</td><td>Dingy Alleyway</td><td>Brawl Within Group</td></tr>
@@ -30,7 +30,7 @@
 ## Buildings
 
 <table>
-<thead><td>1d20</td><td>Originally</td><td>And Then</td><td>Now</td></thead>
+<thead><th>d20</th><th>Originally</th><th>And Then</th><th>Now</th></thead>
 <tr><td>1</td><td>Cybernetics Surgery</td><td>Destroyed by Fire</td><td>Abandoned Shell</td></tr>
 <tr><td>2</td><td>House of Healing</td><td>Scribe’s House</td><td>Hegemony Barracks</td></tr>
 <tr><td>3</td><td>Jeweller’s Shop</td><td>Orphanage</td><td>Gambling Den</td></tr>
@@ -54,7 +54,7 @@
 </table>
 
 <table>
-<thead><td>1d20</td><td>Structure</td><td>Notable Ornamentation</td><td>Reputation</td></thead>
+<thead><th>d20</th><th>Structure</th><th>Notable Ornamentation</th><th>Reputation</th></thead>
 <tr><td>1</td><td>Opulent</td><td>Heavy Brass Lantern</td><td>Cursed or Haunted</td></tr>
 <tr><td>2</td><td>Crowded</td><td>Monkeys in Cages Outside</td><td>Unfashionable</td></tr>
 <tr><td>3</td><td>Shabby</td><td>Birds in Cages Outside</td><td>Fashionable</td></tr>
@@ -80,7 +80,7 @@
 ## Merchants
 
 <table>
-<thead><td>1d20</td><td>Name</td><td>Manner</td><td>Flavour</td></thead>
+<thead><th>d20</th><th>Name</th><th>Manner</th><th>Flavour</th></thead>
 <tr><td>1</td><td>Aakarma</td><td>Unkempt</td><td>Rabid Fan of Odd Sport</td></tr>
 <tr><td>2</td><td>Umatri</td><td>Suave</td><td>Laughs at Own Jokes</td></tr>
 <tr><td>3</td><td>Summine</td><td>Tired</td><td>Goods Comically Low Quality</td></tr>
@@ -104,7 +104,7 @@
 </table>
 
 <table>
-<thead><td>1d20</td><td>Store Appearance</td><td>Store Location</td><td>They Sell</td></thead>
+<thead><th>d20</th><th>Store Appearance</th><th>Store Location</th><th>They Sell</th></thead>
 <tr><td>1</td><td>Crooked</td><td>Crossroads</td><td>Armour</td></tr>
 <tr><td>2</td><td>Lantern-Strewn</td><td>Basement</td><td>Fungus</td></tr>
 <tr><td>3</td><td>Elegant</td><td>By Public Park</td><td>Jewellery</td></tr>
@@ -132,7 +132,7 @@
 _Should the party wish to engage the services of hired swords, Gnomon’s taverns and courtyards have no end of scoundrels and layabouts who seek a day’s dishonest work. Roll d20 to discern who is available. Sample stats are given below; feel free to modify them as needed._
 
 <table>
-<thead><td>1d20</td><td>Name</td><td>Description</td><td>Flavour</td></thead>
+<thead><th>d20</th><th>Name</th><th>Description</th><th>Flavour</th></thead>
 <tr><td>1</td><td>Bellino Fester</td><td>Bloated True-kin</td><td>No Indoor Voice</td></tr>
 <tr><td>2</td><td>Vigenoa Callant</td><td>Scaly Cacogen</td><td>Gluttonous and Stupid</td></tr>
 <tr><td>3</td><td>Demeter Blue</td><td>Muscular New-Peacock</td><td>Hates Alermo White</td></tr>
