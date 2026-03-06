@@ -4,15 +4,15 @@
 ## Reactions
 When the PCs encounter an NPC or creature whose reaction to the party is not obvious, the referee may roll d20 and consult the following table. Modify the roll with the PC's Ego bonus if they can communicate with the creature.
 
-|d20|Reaction|
-|---|--------|
-|1-3|Attacks Immediately|
-|4-6|Hostile, Can't Be Swayed|
-|7-9|Hostile, Could Be Swayed|
-|10-13|Wary, Defensive|
-|14-16|Uninterested|
-|17-19|Curious, Approachable|
-|20+|Actively Helpful|
+| d20   | Reaction                 |
+| ----- | ------------------------ |
+| 1-3   | Attacks Immediately      |
+| 4-6   | Hostile, Can't Be Swayed |
+| 7-9   | Hostile, Could Be Swayed |
+| 10-13 | Wary, Defensive          |
+| 14-16 | Uninterested             |
+| 17-19 | Curious, Approachable    |
+| 20+   | Actively Helpful         |
 
 ## Adversary Stats
 **Level:** A measure of the adversary’s power, used to determine its Hit Points (HP) and bonuses. To calculate HP, multiply the level by 4 (or 5 if you’re feeling mean).
