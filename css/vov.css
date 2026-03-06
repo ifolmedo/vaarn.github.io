@@ -1,14 +1,14 @@
-.app-name {padding: 4px;}
-
-body { font-family: "Anonymous Pro"; font-style: normal; font-variant: normal; }
+body { font-family: "Anonymous Pro"; font-style: normal; font-variant: normal; color: #34495e; }
 
 li { font-size: 14px; font-weight: 400; line-height: 20px; }
 pre { font-size: 13px; font-weight: 400; line-height: 18.5714px; }
 
+.app-name { padding: 4px; }
+
 .markdown-section blockquote { border-left: 4px solid #92BEC7; }
 .markdown-section h1 { margin-top: 50px; }
 .markdown-section h1, h2, h3, h4, h5, h6 { font-family: Alegreya Sans; font-style: italic;}
-.markdown-section em { color: #6d6d6d; }
+.markdown-section em { color: #212e3b; }
 .markdown-section p.warn { background: #F8F8F8;}
 .markdown-section table { display: table; width: 100% }
 .markdown-section th { text-transform: uppercase; }
@@ -44,14 +44,14 @@ section.cover .cover-main > p:last-child a { border-color:#92BEC7 }
     width: 100%;
 }
 
-.statblock thead { border-top: solid .25rem #a4acb4; }
-.statblock tbody { border-bottom: solid .25rem #a4acb4; }
+.statblock thead { border-top: solid .25rem #cdd3d8; }
+.statblock tbody { border-bottom: solid .25rem #cdd3d8; }
 .statblock tr { border-style: none; }
 
 .statblock th { 
     border-style: none dashed none none;
     border-width: .12rem;
-    border-color: #a4acb4;
+    border-color: #cdd3d8;
     padding-top: .75rem;
     text-align: center;
 }
@@ -64,7 +64,7 @@ section.cover .cover-main > p:last-child a { border-color:#92BEC7 }
 .statvalue td {
     border-style: none dashed none none;
     border-width: .12rem;
-    border-color: #a4acb4;
+    border-color: #cdd3d8;
     text-align: center;
 }
 
