@@ -58,6 +58,12 @@ Finally and most importantly, Vaarn is never the same twice. The fall of the dic
     <td><a href="https://www.drivethrurpg.com/en/product/403325/vaults-of-vaarn-deluxe-edition">DriveThruRPG</a></td>
   </tr>
   <tr>
+    <td>Vaults of Vaarn Second Edition</td>
+    <td><a href="https://vaults-of-vaarn-second-edition.backerkit.com/hosted_preorders">Preorder</a></td>
+    <td><!-- not available --></td>
+    <td><!-- not available --></td>
+  </tr>
+  <tr>
     <td>Pariahs of Vaarn Issue 1</td>
     <td><a href="https://antipodezines.com/products/pariahs-of-vaarn-1">Antipode</a></td>
     <td><!-- not available --></td>
