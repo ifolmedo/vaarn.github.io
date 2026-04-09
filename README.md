@@ -7,7 +7,7 @@ Estos son los confines, donde las magnas obras de la humanidad han sucumbido a u
 
 ## ¿Qué es Vaarn? <!-- {docsify-ignore} -->
 
-Vaarn es una ambientación de fantasía científica para juegos de rol de mesa. Bebe de novelas como Dune, Hyperion y El libro del nuevo sol, así como del arte de Moebius. Vaarn es un mundo surrealista y rebosante de color: un paisaje posapocalíptico y poshumano, donde la línea divisoria entre la carne y la maquinaria se ha desdibujado, y las fronteras entre la magia, la ciencia y la fe se han vuelto, del mismo modo, difusas.
+Vaarn es una ambientación de fantasía científica para juegos de rol de mesa. Bebe de novelas como Dune, Hyperion y El libro del nuevo sol, así como del arte de Moebius. Vaarn es un mundo surrealista y rebosante de color: un paisaje posapocalíptico y poshumano, donde la línea divisoria entre la carne y la máquina se ha desdibujado, y las fronteras entre la magia, la ciencia y la fe se han vuelto, del mismo modo, difusas.
 
 El sol se extingue, es el fin de la historia, y todo lo que pudo haber ocurrido ha sucedido ya, desvaneciéndose en el polvo. No hay dos fuentes que coincidan en los detalles del etiolado pasado de Vaarn y, a decir verdad, tales debates carecen de importancia. No obstante, existen ciertos hechos en los que todo habitante de Vaarn puede convenir:
 
