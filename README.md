@@ -19,7 +19,7 @@ El sol se extingue; es el fin de la historia. Todo lo que pudo haber ocurrido ha
 - Las nanomáquinas lo impregnan todo; es habitual ver animales salvajes con cámaras brotando de su carne.
 - Nadie se pone de acuerdo sobre la causa, pero hubo un Gran Colapso que aniquiló la civilización humana.
 - Antes del Gran Colapso, el planeta estaba dominado por la Autarquía, una dictadura ejercida por una dinastía de reyes deificados mediante ingeniería genética.
-- Antes del reinado de los Autarcas, Urth estaba gobernada por IAs llamadas los Titanes. Algo les ocurrió y fueron derrocados, pero los detalles han caído en el olvido.
+- Antes del reinado de los Autarcas, el mundo de Urth estaba gobernada por IAs llamadas los Titanes. Algo les ocurrió y fueron derrocados, pero los detalles han caído en el olvido.
 
 Finalmente, y esto es lo más importante: Vaarn nunca es igual dos veces. El azar de los dados determinará cómo se desarrolla tu propia versión de la ambientación. Alentamos a lectores y jugadores por igual a hacer de Vaarn su propio mundo.
 
